@@ -1,0 +1,201 @@
+BATCH 07: 50 records (A331 ... A145)
+
+### A331 | arm A | 2025
+Title: Long-Term Dietary Restriction Has a Strong and Positive Effect on Both Hepatic and Peripheral Insulin Sensitivity, in an Age- and Diet-Dependent Manner.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A201 | arm A | 2014
+Title: Treatment of age-related distance esotropia with unilateral lateral rectus resection.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A135 | arm A | 2003
+Title: Nutrition, diet, physical activity, smoking, and longevity: from primitive hunter-gatherer to present passive consumer--how far can we go?
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A180 | arm A | 2007
+Title: Age-related decrease of striatal neurogenesis is associated with apoptosis of neural precursors and newborn neurons in rat brain after ischemia.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A015 | arm A | 1994
+Title: Close emotional relationships in late life: further support for proactive aging in the social domain.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A070 | arm A | 1999
+Title: Polypharmacy. Reducing adverse events among the elderly in NJ. Part 1.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A085 | arm A | 1996
+Title: Walking patterns and finger rhythm of older adults.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A112 | arm A | 2004
+Title: Effect of aging on renal blood flow velocity during static exercise.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A140 | arm A | 2000
+Title: Influence of methylenetetrahydrofolate reductase genotype, age, vitamin B-12, and folate status on plasma homocysteine in children.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A185 | arm A | 2008
+Title: Oncogene-induced senescence relayed by an interleukin-dependent inflammatory network.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A007 | arm A | 1991
+Title: Influence of age on the disposition kinetics of chloramphenicol in equine neonates.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A046 | arm A | 1994
+Title: Getting around: a simple office workup to assess patient function.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A150 | arm A | 2000
+Title: Aging and the psychological refractory period: task-coordination strategies in young and old adults.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A160 | arm A | 2007
+Title: The C. elegans TGF-beta Dauer pathway regulates longevity via insulin signaling.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A348 | arm A | 2025
+Title: Cardiomyopathy in Older Adults.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A062 | arm A | 1999
+Title: Using hippocampal slices to study how aging alters ion regulation in brain tissue.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A324 | arm A | 2021
+Title: Seed longevity and cryobiotechnology in the orchid genus cattleya.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A339 | arm A | 2024
+Title: Aging Suit and Motor Performance in Young Adults: Effects Depend on Why the Suit is Worn!
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A148 | arm A | 2004
+Title: Poor immune responses to influenza vaccination in infants.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A323 | arm A | 2025
+Title: Assessing the gut microbiota composition in older adults: connections to physical activity and healthy ageing.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A204 | arm A | 2013
+Title: Post-surgery morbidity and mortality in colorectal cancer in elderly subjects.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A279 | arm A | 2019
+Title: Repeatability of Hypoxia Tolerance of Individual Juvenile Striped Bass Morone saxatilis and Effects of Social Status.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A321 | arm A | 2025
+Title: Long-term multi-species demographic studies reveal divergent negative impacts of winter storms on seabird survival.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A017 | arm A | 1993
+Title: Sexuality and the older woman.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A298 | arm A | 2019
+Title: Cell Senescence in Lupus.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A059 | arm A | 1996
+Title: Cognition enhancers in age-related cognitive decline.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A020 | arm A | 1992
+Title: Coronary heart disease risk factors in relation to the menopause.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A165 | arm A | 2005
+Title: Making ends meet in old age: DSB repair and aging.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A330 | arm A | 2025
+Title: Suppression of experimental knee osteoarthritis by combination therapy of cross-linked hyaluronate and corticosteroids via anti-senescent effects.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A090 | arm A | 1999
+Title: Intracranial volume change in childhood.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A232 | arm A | 2013
+Title: Propofol anesthesia impairs the maturation and survival of adult-born hippocampal neurons.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A080 | arm A | 1999
+Title: Changes in and factors related to loneliness in older men. The Zutphen Elderly Study.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A056 | arm A | 1998
+Title: Participatory design of an Internet-based information system for aging services professionals.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A083 | arm A | 1995
+Title: Age-related changes in contractile responses to noradrenaline in isolated blood vessels from rat and rabbit.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A344 | arm A | 2025
+Title: Daily Stressor Appraisals and Subjective Age Predict Daily Affective Ratings.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A147 | arm A | 2002
+Title: Age-related EMG variables during maximum voluntary contraction.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A320 | arm A | 2025
+Title: Orchestration of Skin Pathology in Cutaneous Lupus Erythematosus by HLA Class I Down-Regulated Senescent Epidermal Basal Cells.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A340 | arm A | 2020
+Title: L-Citrulline Supports Vascular and Muscular Benefits of Exercise Training in Older Adults.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A087 | arm A | 1997
+Title: Medical aspects of ageing in a population with intellectual disability: III. Mobility, internal conditions and cancer.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A194 | arm A | 2007
+Title: P53-Rb signaling pathway is involved in tubular cell senescence in renal ischemia/reperfusion injury.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A216 | arm A | 2013
+Title: Functional alteration patterns of default mode networks: comparisons of normal aging, amnestic mild cognitive impairment and Alzheimer's disease.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A223 | arm A | 2013
+Title: Latent heterogeneity in long-term trajectories of body mass index in older adults.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A326 | arm A | 2025
+Title: Age-associated decline of Coenzyme A leads to intestinal stem cells dysfunction via disturbing iron homeostasis.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A002 | arm A | 1990
+Title: Hepatic drug metabolism and ageing.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A197 | arm A | 2007
+Title: Effect of carbimazole induced hypothyroidism and thyroxine replacement on the growth of the long bones in albino rats of different age groups.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A281 | arm A | 2016
+Title: Anatomy and pathology of the sinus node.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A346 | arm A | 2024
+Title: Effects of age on lacrimal gland bioactive lipids.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A011 | arm A | 1991
+Title: Bilirubin accumulation by the rabbit choroid plexus in vitro.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A081 | arm A | 1996
+Title: Differences in the signs and symptoms of hyperthyroidism in older and younger patients.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A145 | arm A | 2002
+Title: The effects of age and sex on chondroitin sulfates in normal synovial fluid.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]

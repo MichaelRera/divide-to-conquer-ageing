@@ -1,0 +1,748 @@
+review_id	Opus 5.5	Perplexity	Gemini Flash 3.6	majority	Opus 5.5 in minority	Perplexity in minority	Gemini Flash 3.6 in minority	arm	pmid
+A001	U	U	U	U	False	False	False	A	1600394
+A002	P	P	P	P	False	False	False	A	2405943
+A003	DEV	DEV	DEV	DEV	False	False	False	A	8466657
+A004	U	P	U	U	False	True	False	A	1695885
+A005	U	U	U	U	False	False	False	A	1331252
+A006	P	P	P	P	False	False	False	A	1678918
+A007	DEV	DEV	DEV	DEV	False	False	False	A	2035916
+A008	P	P	U	P	False	False	True	A	8239292
+A009	U	U	U	U	False	False	False	A	2142956
+A010	DEV	DEV	DEV	DEV	False	False	False	A	2161716
+A011	DEV	DEV	DEV	DEV	False	False	False	A	1797126
+A012	DEV	DEV	DEV	DEV	False	False	False	A	8270782
+A013	NC	NC	U	NC	False	False	True	A	7934207
+A014	DEV	DEV	DEV	DEV	False	False	False	A	1415804
+A015	P	P	U	P	False	False	True	A	8054179
+A016	U	U	U	U	False	False	False	A	1500592
+A017	U	U	U	U	False	False	False	A	8443742
+A018	NC	NC	NC	NC	False	False	False	A	8325352
+A019	DEV	DEV	DEV	DEV	False	False	False	A	1932385
+A020	D	NC	NC	NC	True	False	False	A	1484951
+A021	U	U	U	U	False	False	False	A	2278689
+A022	NC	P	P	P	True	False	False	A	8149218
+A023	P	U	U	U	True	False	False	A	1849052
+A024	DEV	DEV	DEV	DEV	False	False	False	A	1314516
+A025	U	U	U	U	False	False	False	A	7902054
+A026	DEV	DEV	DEV	DEV	False	False	False	A	8092518
+A027	DEV	DEV	DEV	DEV	False	False	False	A	1825105
+A028	U	U	U	U	False	False	False	A	1316327
+A029	U	U	U	U	False	False	False	A	2130629
+A030	U	U	U	U	False	False	False	A	8418140
+A031	P	P	P	P	False	False	False	A	1660552
+A032	U	P	U	U	False	True	False	A	8289710
+A033	U	U	U	U	False	False	False	A	8509106
+A034	U	U	U	U	False	False	False	A	1956599
+A035	DEV	DEV	DEV	DEV	False	False	False	A	8468403
+A036	U	U	U	U	False	False	False	A	2234289
+A037	P	P	P	P	False	False	False	A	1890876
+A038	DEV	DEV	DEV	DEV	False	False	False	A	2111076
+A039	P	P	P	P	False	False	False	A	8509374
+A040	P	P	P	P	False	False	False	A	1728300
+A041	U	P	U	U	False	True	False	A	1706636
+A042	DEV	DEV	DEV	DEV	False	False	False	A	1643060
+A043	U	U	U	U	False	False	False	A	2126684
+A044	DEV	DEV	DEV	DEV	False	False	False	A	2323026
+A045	U	NC	U	U	False	True	False	A	8313554
+A046	P	P	P	P	False	False	False	A	8020761
+A047	U	U	U	U	False	False	False	A	1890292
+A048	U	U	U	U	False	False	False	A	1880276
+A049	U	P	P	P	True	False	False	A	7506277
+A050	U	DEV	NC	none (3-way split)	False	False	False	A	8084545
+A051	DEV	DEV	DEV	DEV	False	False	False	A	8885952
+A052	DEV	DEV	DEV	DEV	False	False	False	A	10488557
+A053	P	P	P	P	False	False	False	A	10595831
+A054	NC	NC	NC	NC	False	False	False	A	9386780
+A055	U	U	U	U	False	False	False	A	7864103
+A056	U	U	U	U	False	False	False	A	9868854
+A057	DEV	DEV	DEV	DEV	False	False	False	A	9284073
+A058	U	U	U	U	False	False	False	A	9592691
+A059	P	U	U	U	True	False	False	A	8920174
+A060	U	U	U	U	False	False	False	A	8938620
+A061	DEV	DEV	DEV	DEV	False	False	False	A	7568065
+A062	U	P	P	P	True	False	False	A	10356345
+A063	P	P	P	P	False	False	False	A	9435238
+A064	U	U	U	U	False	False	False	A	10051858
+A065	P	P	P	P	False	False	False	A	9451633
+A066	P	P	P	P	False	False	False	A	7731202
+A067	P	P	P	P	False	False	False	A	8923483
+A068	P	P	U	P	False	False	True	A	8786798
+A069	U	P	P	P	True	False	False	A	9272922
+A070	U	U	U	U	False	False	False	A	10645137
+A071	U	U	U	U	False	False	False	A	9062693
+A072	U	P	P	P	True	False	False	A	8636360
+A073	P	P	P	P	False	False	False	A	7475350
+A074	U	P	P	P	True	False	False	A	9590440
+A075	P	P	P	P	False	False	False	A	9094049
+A076	U	P	P	P	True	False	False	A	10362857
+A077	U	P	U	U	False	True	False	A	9393629
+A078	P	P	P	P	False	False	False	A	8751625
+A079	P	P	P	P	False	False	False	A	9640584
+A080	NC	P	P	P	True	False	False	A	10529046
+A081	U	U	U	U	False	False	False	A	8537590
+A082	U	U	U	U	False	False	False	A	10569297
+A083	U	NC	P	none (3-way split)	False	False	False	A	8744972
+A084	U	U	U	U	False	False	False	A	8780994
+A085	NC	P	P	P	True	False	False	A	8724913
+A086	U	P	P	P	True	False	False	A	9697752
+A087	U	P	U	U	False	True	False	A	9089455
+A088	U	U	P	U	False	False	True	A	7623120
+A089	U	NC	U	U	False	True	False	A	10606164
+A090	DEV	DEV	DEV	DEV	False	False	False	A	10507383
+A091	U	P	U	U	False	True	False	A	9733421
+A092	P	P	P	P	False	False	False	A	8601381
+A093	U	U	U	U	False	False	False	A	8931618
+A094	U	U	U	U	False	False	False	A	10634506
+A095	U	NC	P	none (3-way split)	False	False	False	A	9222748
+A096	P	P	P	P	False	False	False	A	10337441
+A097	P	P	P	P	False	False	False	A	8759042
+A098	P	P	U	P	False	False	True	A	10226848
+A099	DEV	DEV	DEV	DEV	False	False	False	A	9401905
+A100	U	U	U	U	False	False	False	A	9776135
+A101	U	U	U	U	False	False	False	A	14687258
+A102	U	U	U	U	False	False	False	A	15341805
+A103	U	P	U	U	False	True	False	A	11404051
+A104	U	U	U	U	False	False	False	A	15498757
+A105	U	U	U	U	False	False	False	A	12197668
+A106	U	P	U	U	False	True	False	A	12868015
+A107	DEV	DEV	DEV	DEV	False	False	False	A	12488326
+A108	NC	NC	NC	NC	False	False	False	A	11431454
+A109	U	U	U	U	False	False	False	A	15371098
+A110	P	P	P	P	False	False	False	A	15571490
+A111	U	U	U	U	False	False	False	A	12147567
+A112	U	P	P	P	True	False	False	A	15016634
+A113	D	D	D	D	False	False	False	A	12928831
+A114	U	P	P	P	True	False	False	A	12778316
+A115	DEV	DEV	P	DEV	False	False	True	A	10866058
+A116	P	P	P	P	False	False	False	A	11891823
+A117	DEV	DEV	DEV	DEV	False	False	False	A	15275653
+A118	D	NC	P	none (3-way split)	False	False	False	A	15545701
+A119	DEV	DEV	DEV	DEV	False	False	False	A	14523305
+A120	U	P	U	U	False	True	False	A	12166367
+A121	U	U	P	U	False	False	True	A	12529925
+A122	DEV	DEV	DEV	DEV	False	False	False	A	12213508
+A123	U	P	U	U	False	True	False	A	12548292
+A124	U	P	U	U	False	True	False	A	11058095
+A125	U	P	P	P	True	False	False	A	11000422
+A126	U	P	U	U	False	True	False	A	12803907
+A127	P	P	P	P	False	False	False	A	12516005
+A128	P	P	P	P	False	False	False	A	15231238
+A129	P	P	U	P	False	False	True	A	14580308
+A130	P	P	U	P	False	False	True	A	11523590
+A131	U	U	U	U	False	False	False	A	14563076
+A132	U	U	U	U	False	False	False	A	12688228
+A133	P	P	P	P	False	False	False	A	15462563
+A134	DEV	DEV	DEV	DEV	False	False	False	A	11852272
+A135	U	U	U	U	False	False	False	A	12591555
+A136	U	P	P	P	True	False	False	A	14501185
+A137	U	U	U	U	False	False	False	A	12877897
+A138	U	U	U	U	False	False	False	A	12150992
+A139	DEV	DEV	DEV	DEV	False	False	False	A	10718294
+A140	DEV	DEV	P	DEV	False	False	True	A	11101473
+A141	U	U	U	U	False	False	False	A	11552909
+A142	U	U	U	U	False	False	False	A	11928207
+A143	P	P	P	P	False	False	False	A	14684703
+A144	U	U	U	U	False	False	False	A	10799705
+A145	P	P	NC	P	False	False	True	A	12209515
+A146	U	P	U	U	False	True	False	A	11499864
+A147	U	P	P	P	True	False	False	A	12365243
+A148	DEV	DEV	DEV	DEV	False	False	False	A	15308365
+A149	P	P	U	P	False	False	True	A	11511394
+A150	U	P	P	P	True	False	False	A	11144318
+A151	D	D	D	D	False	False	False	A	19520539
+A152	U	U	U	U	False	False	False	A	17139365
+A153	U	P	P	P	True	False	False	A	20041966
+A154	U	U	P	U	False	False	True	A	16760626
+A155	P	P	U	P	False	False	True	A	17125950
+A156	U	U	U	U	False	False	False	A	17563177
+A157	U	U	U	U	False	False	False	A	16525160
+A158	DEV	DEV	DEV	DEV	False	False	False	A	17989943
+A159	P	P	P	P	False	False	False	A	18827372
+A160	U	U	U	U	False	False	False	A	17900898
+A161	D	D	U	D	False	False	True	A	19318942
+A162	U	U	U	U	False	False	False	A	15621214
+A163	U	U	U	U	False	False	False	A	19709699
+A164	U	U	U	U	False	False	False	A	19008307
+A165	P	P	P	P	False	False	False	A	15888314
+A166	DEV	DEV	DEV	DEV	False	False	False	A	17905913
+A167	U	U	U	U	False	False	False	A	18538374
+A168	U	D	P	none (3-way split)	False	False	False	A	15739187
+A169	P	P	P	P	False	False	False	A	19464391
+A170	P	P	U	P	False	False	True	A	18307051
+A171	U	U	U	U	False	False	False	A	16054319
+A172	DEV	DEV	DEV	DEV	False	False	False	A	17095591
+A173	U	U	U	U	False	False	False	A	19252136
+A174	U	P	P	P	True	False	False	A	17336301
+A175	U	U	U	U	False	False	False	A	19043554
+A176	P	P	U	P	False	False	True	A	17063362
+A177	U	U	U	U	False	False	False	A	16470462
+A178	P	P	P	P	False	False	False	A	17855035
+A179	U	U	U	U	False	False	False	A	17013664
+A180	P	P	P	P	False	False	False	A	17662700
+A181	U	U	U	U	False	False	False	A	17032370
+A182	P	P	P	P	False	False	False	A	18334591
+A183	U	U	U	U	False	False	False	A	19444705
+A184	NC	P	P	P	True	False	False	A	16261309
+A185	D	U	U	U	True	False	False	A	18555778
+A186	P	NC	P	P	False	True	False	A	18556430
+A187	U	P	U	U	False	True	False	A	18208355
+A188	P	P	P	P	False	False	False	A	16179600
+A189	DEV	DEV	DEV	DEV	False	False	False	A	15716474
+A190	DEV	DEV	DEV	DEV	False	False	False	A	15744747
+A191	P	U	U	U	True	False	False	A	16799133
+A192	U	U	U	U	False	False	False	A	18560789
+A193	NC	NC	P	NC	False	False	True	A	19349914
+A194	U	P	U	U	False	True	False	A	17902269
+A195	U	U	U	U	False	False	False	A	18957730
+A196	NC	NC	NC	NC	False	False	False	A	16127111
+A197	DEV	DEV	DEV	DEV	False	False	False	A	17693962
+A198	U	P	P	P	True	False	False	A	19853062
+A199	P	P	U	P	False	False	True	A	16611596
+A200	P	P	P	P	False	False	False	A	19725392
+A201	U	U	U	U	False	False	False	A	25266835
+A202	U	P	U	U	False	True	False	A	23237593
+A203	U	U	U	U	False	False	False	A	24131064
+A204	U	U	U	U	False	False	False	A	23618565
+A205	U	U	U	U	False	False	False	A	21172738
+A206	U	U	U	U	False	False	False	A	22210149
+A207	U	U	U	U	False	False	False	A	25236846
+A208	P	P	P	P	False	False	False	A	20517892
+A209	P	P	U	P	False	False	True	A	25913762
+A210	U	P	U	U	False	True	False	A	22289892
+A211	U	U	U	U	False	False	False	A	23043948
+A212	U	U	U	U	False	False	False	A	25502012
+A213	P	P	U	P	False	False	True	A	23746072
+A214	U	U	U	U	False	False	False	A	24510000
+A215	P	P	P	P	False	False	False	A	19878143
+A216	U	D	U	U	False	True	False	A	23773060
+A217	U	U	U	U	False	False	False	A	21504043
+A218	U	U	P	U	False	False	True	A	23276213
+A219	U	U	U	U	False	False	False	A	22913477
+A220	U	P	P	P	True	False	False	A	23732643
+A221	U	P	U	U	False	True	False	A	24345469
+A222	P	P	U	P	False	False	True	A	25286899
+A223	NC	NC	NC	NC	False	False	False	A	23264442
+A224	U	U	U	U	False	False	False	A	21963385
+A225	P	P	P	P	False	False	False	A	24449195
+A226	U	P	U	U	False	True	False	A	24607515
+A227	U	U	U	U	False	False	False	A	21679320
+A228	U	U	U	U	False	False	False	A	25244491
+A229	P	P	P	P	False	False	False	A	25129573
+A230	U	U	U	U	False	False	False	A	21976943
+A231	P	P	P	P	False	False	False	A	22971986
+A232	U	DEV	DEV	DEV	True	False	False	A	23314165
+A233	U	P	P	P	True	False	False	A	25429133
+A234	U	U	U	U	False	False	False	A	24548258
+A235	P	P	P	P	False	False	False	A	23275497
+A236	U	U	U	U	False	False	False	A	23277187
+A237	P	P	U	P	False	False	True	A	23104860
+A238	P	P	P	P	False	False	False	A	20505194
+A239	U	U	U	U	False	False	False	A	22525590
+A240	U	U	U	U	False	False	False	A	23719386
+A241	U	P	U	U	False	True	False	A	23276601
+A242	U	P	U	U	False	True	False	A	20427381
+A243	U	U	U	U	False	False	False	A	20520823
+A244	DEV	DEV	U	DEV	False	False	True	A	20226811
+A245	U	P	P	P	True	False	False	A	22016359
+A246	P	P	U	P	False	False	True	A	23892932
+A247	U	NC	NC	NC	True	False	False	A	21559866
+A248	DEV	DEV	DEV	DEV	False	False	False	A	25266817
+A249	P	P	P	P	False	False	False	A	25244555
+A250	P	P	P	P	False	False	False	A	24853052
+A251	NC	NC	NC	NC	False	False	False	A	29564958
+A252	U	U	U	U	False	False	False	A	29115858
+A253	P	P	P	P	False	False	False	A	26993585
+A254	U	NC	P	none (3-way split)	False	False	False	A	26923400
+A255	U	U	U	U	False	False	False	A	28554416
+A256	U	U	U	U	False	False	False	A	28130890
+A257	U	U	U	U	False	False	False	A	31642952
+A258	U	DEV	U	U	False	True	False	A	27110446
+A259	U	U	P	U	False	False	True	A	28933064
+A260	U	U	U	U	False	False	False	A	29119382
+A261	U	P	U	U	False	True	False	A	30978199
+A262	U	P	U	U	False	True	False	A	28351489
+A263	U	P	U	U	False	True	False	A	28432521
+A264	U	U	U	U	False	False	False	A	31618076
+A265	U	P	U	U	False	True	False	A	27956574
+A266	DEV	DEV	DEV	DEV	False	False	False	A	27470009
+A267	D	U	U	U	True	False	False	A	28185406
+A268	U	U	P	U	False	False	True	A	26178206
+A269	U	U	U	U	False	False	False	A	29849920
+A270	P	P	P	P	False	False	False	A	26799654
+A271	NC	P	U	none (3-way split)	False	False	False	A	25175807
+A272	P	P	P	P	False	False	False	A	28093830
+A273	P	NC	NC	NC	True	False	False	A	28188448
+A274	P	P	U	P	False	False	True	A	28152068
+A275	DEV	DEV	NC	DEV	False	False	True	A	30961991
+A276	U	P	P	P	True	False	False	A	26596544
+A277	P	P	P	P	False	False	False	A	30396810
+A278	U	U	U	U	False	False	False	A	26460207
+A279	U	DEV	U	U	False	True	False	A	31141466
+A280	P	P	P	P	False	False	False	A	29063823
+A281	P	P	P	P	False	False	False	A	26319648
+A282	U	U	U	U	False	False	False	A	28379943
+A283	DEV	DEV	DEV	DEV	False	False	False	A	25319561
+A284	U	U	U	U	False	False	False	A	26214100
+A285	U	U	U	U	False	False	False	A	25929653
+A286	U	P	U	U	False	True	False	A	29271864
+A287	P	P	P	P	False	False	False	A	27481440
+A288	U	P	P	P	True	False	False	A	28882473
+A289	U	U	U	U	False	False	False	A	30588835
+A290	U	U	U	U	False	False	False	A	26773312
+A291	U	U	U	U	False	False	False	A	31014776
+A292	U	U	U	U	False	False	False	A	27729385
+A293	P	P	P	P	False	False	False	A	28397282
+A294	U	U	U	U	False	False	False	A	29096878
+A295	P	P	P	P	False	False	False	A	29943496
+A296	U	U	U	U	False	False	False	A	27908262
+A297	P	P	P	P	False	False	False	A	25252831
+A298	U	U	P	U	False	False	True	A	30637490
+A299	P	P	P	P	False	False	False	A	29721150
+A300	U	U	U	U	False	False	False	A	30629785
+A301	P	P	U	P	False	False	True	A	39672978
+A302	U	U	P	U	False	False	True	A	39614707
+A303	D	D	U	D	False	False	True	A	40970514
+A304	P	P	P	P	False	False	False	A	33475496
+A305	U	U	U	U	False	False	False	A	38795389
+A306	P	P	P	P	False	False	False	A	32901819
+A307	U	U	U	U	False	False	False	A	34579157
+A308	U	U	U	U	False	False	False	A	33770668
+A309	D	U	P	none (3-way split)	False	False	False	A	35560232
+A310	U	DEV	DEV	DEV	True	False	False	A	32900979
+A311	U	U	U	U	False	False	False	A	33065164
+A312	U	U	U	U	False	False	False	A	40526703
+A313	U	U	U	U	False	False	False	A	33617124
+A314	U	U	U	U	False	False	False	A	38791260
+A315	U	U	U	U	False	False	False	A	39433211
+A316	U	U	U	U	False	False	False	A	39693634
+A317	NC	P	P	P	True	False	False	A	33260577
+A318	U	U	U	U	False	False	False	A	31977544
+A319	P	P	U	P	False	False	True	A	39536932
+A320	U	U	U	U	False	False	False	A	40386939
+A321	U	U	U	U	False	False	False	A	39562515
+A322	U	U	U	U	False	False	False	A	40120658
+A323	NC	P	P	P	True	False	False	A	40095191
+A324	U	U	P	U	False	False	True	A	35366301
+A325	U	U	U	U	False	False	False	A	33260002
+A326	P	P	P	P	False	False	False	A	40446021
+A327	U	U	U	U	False	False	False	A	37913626
+A328	P	P	DEV	P	False	False	True	A	33559812
+A329	U	U	U	U	False	False	False	A	39513361
+A330	U	U	U	U	False	False	False	A	40132714
+A331	U	NC	P	none (3-way split)	False	False	False	A	41215620
+A332	DEV	DEV	DEV	DEV	False	False	False	A	31809367
+A333	U	U	U	U	False	False	False	A	39929410
+A334	U	U	U	U	False	False	False	A	37366070
+A335	U	U	U	U	False	False	False	A	35886889
+A336	U	P	U	U	False	True	False	A	33467406
+A337	U	U	U	U	False	False	False	A	34326251
+A338	U	U	U	U	False	False	False	A	41345704
+A339	U	U	U	U	False	False	False	A	39168485
+A340	P	P	P	P	False	False	False	A	32568925
+A341	U	U	U	U	False	False	False	A	40516835
+A342	P	P	U	P	False	False	True	A	38690719
+A343	U	U	U	U	False	False	False	A	39692026
+A344	U	U	U	U	False	False	False	A	39963743
+A345	U	D	U	U	False	True	False	A	37995077
+A346	U	P	P	P	True	False	False	A	38705236
+A347	U	U	P	U	False	False	True	A	40765293
+A348	U	P	P	P	True	False	False	A	41066002
+A349	U	P	U	U	False	True	False	A	39086191
+A350	U	U	U	U	False	False	False	A	39662967
+B001	NC	not relevant	P	none (3-way split)	False	False	False	B	9838178
+B002	NC	not relevant	NC	NC	False	True	False	B	2021710
+B003	not relevant	not relevant	not relevant	not relevant	False	False	False	B	10426595
+B004	not relevant	not relevant	not relevant	not relevant	False	False	False	B	9088911
+B005	not relevant	not relevant	not relevant	not relevant	False	False	False	B	7905759
+B006	not relevant	not relevant	not relevant	not relevant	False	False	False	B	10603304
+B007	NC	not relevant	not relevant	not relevant	True	False	False	B	1488615
+B008	not relevant	not relevant	P	not relevant	False	False	True	B	7499596
+B009	not relevant	not relevant	not relevant	not relevant	False	False	False	B	1673153
+B010	not relevant	not relevant	P	not relevant	False	False	True	B	8894788
+B011	not relevant	not relevant	not relevant	not relevant	False	False	False	B	7680423
+B012	NC	D	D	D	True	False	False	B	8893683
+B013	not relevant	not relevant	not relevant	not relevant	False	False	False	B	1360864
+B014	not relevant	not relevant	not relevant	not relevant	False	False	False	B	8614925
+B015	not relevant	P	P	P	True	False	False	B	7571941
+B016	not relevant	not relevant	not relevant	not relevant	False	False	False	B	1526323
+B017	P	P	P	P	False	False	False	B	2016360
+B018	NC	not relevant	NC	NC	False	True	False	B	7583788
+B019	not relevant	not relevant	not relevant	not relevant	False	False	False	B	1576926
+B020	NC	not relevant	NC	NC	False	True	False	B	10459786
+B021	not relevant	not relevant	not relevant	not relevant	False	False	False	B	8345818
+B022	not relevant	not relevant	not relevant	not relevant	False	False	False	B	8222123
+B023	NC	NC	NC	NC	False	False	False	B	9398844
+B024	not relevant	not relevant	not relevant	not relevant	False	False	False	B	8241607
+B025	not relevant	not relevant	P	not relevant	False	False	True	B	1656939
+B026	not relevant	not relevant	not relevant	not relevant	False	False	False	B	9222747
+B027	not relevant	not relevant	not relevant	not relevant	False	False	False	B	9336340
+B028	not relevant	not relevant	not relevant	not relevant	False	False	False	B	8196370
+B029	not relevant	not relevant	P	not relevant	False	False	True	B	10090122
+B030	not relevant	not relevant	not relevant	not relevant	False	False	False	B	1941778
+B031	not relevant	D	D	D	True	False	False	B	7975329
+B032	D	not relevant	D	D	False	True	False	B	8094925
+B033	not relevant	not relevant	P	not relevant	False	False	True	B	7928192
+B034	not relevant	not relevant	not relevant	not relevant	False	False	False	B	9709942
+B035	not relevant	not relevant	not relevant	not relevant	False	False	False	B	9364233
+B036	NC	not relevant	NC	NC	False	True	False	B	9238758
+B037	not relevant	not relevant	not relevant	not relevant	False	False	False	B	16296673
+B038	P	P	P	P	False	False	False	B	9876244
+B039	P	not relevant	P	P	False	True	False	B	8759353
+B040	not relevant	not relevant	not relevant	not relevant	False	False	False	B	10224638
+B041	D	not relevant	D	D	False	True	False	B	10196087
+B042	not relevant	not relevant	not relevant	not relevant	False	False	False	B	1632273
+B043	P	not relevant	P	P	False	True	False	B	1634704
+B044	NC	NC	NC	NC	False	False	False	B	7936078
+B045	not relevant	not relevant	not relevant	not relevant	False	False	False	B	7744274
+B046	not relevant	not relevant	not relevant	not relevant	False	False	False	B	10367922
+B047	D	not relevant	not relevant	not relevant	True	False	False	B	9467417
+B048	not relevant	not relevant	not relevant	not relevant	False	False	False	B	8227679
+B049	P	not relevant	not relevant	not relevant	True	False	False	B	10362290
+B050	not relevant	not relevant	not relevant	not relevant	False	False	False	B	1936608
+B051	not relevant	not relevant	not relevant	not relevant	False	False	False	B	8620362
+B052	not relevant	not relevant	not relevant	not relevant	False	False	False	B	8891499
+B053	not relevant	P	not relevant	not relevant	False	True	False	B	1348565
+B054	not relevant	not relevant	not relevant	not relevant	False	False	False	B	2354852
+B055	P	not relevant	P	P	False	True	False	B	8687038
+B056	P	D	NC	none (3-way split)	False	False	False	B	9520014
+B057	not relevant	not relevant	NC	not relevant	False	False	True	B	9698576
+B058	P	not relevant	P	P	False	True	False	B	9413650
+B059	not relevant	not relevant	not relevant	not relevant	False	False	False	B	7767944
+B060	P	P	P	P	False	False	False	B	7723738
+B061	not relevant	not relevant	not relevant	not relevant	False	False	False	B	9443327
+B062	not relevant	not relevant	not relevant	not relevant	False	False	False	B	7948178
+B063	not relevant	not relevant	not relevant	not relevant	False	False	False	B	2087511
+B064	not relevant	not relevant	not relevant	not relevant	False	False	False	B	1618193
+B065	not relevant	not relevant	not relevant	not relevant	False	False	False	B	2084504
+B066	not relevant	not relevant	NC	not relevant	False	False	True	B	7845056
+B067	P	not relevant	P	P	False	True	False	B	9666043
+B068	not relevant	not relevant	not relevant	not relevant	False	False	False	B	9234236
+B069	not relevant	not relevant	not relevant	not relevant	False	False	False	B	9721743
+B070	P	not relevant	not relevant	not relevant	True	False	False	B	9293196
+B071	NC	not relevant	D	none (3-way split)	False	False	False	B	1860075
+B072	not relevant	not relevant	not relevant	not relevant	False	False	False	B	2269253
+B073	not relevant	not relevant	not relevant	not relevant	False	False	False	B	10400954
+B074	P	P	P	P	False	False	False	B	2229867
+B075	not relevant	not relevant	not relevant	not relevant	False	False	False	B	10027758
+B076	not relevant	not relevant	not relevant	not relevant	False	False	False	B	7582108
+B077	P	not relevant	NC	none (3-way split)	False	False	False	B	7968424
+B078	not relevant	not relevant	not relevant	not relevant	False	False	False	B	1824120
+B079	NC	not relevant	NC	NC	False	True	False	B	9354147
+B080	not relevant	not relevant	not relevant	not relevant	False	False	False	B	7689698
+B081	not relevant	not relevant	not relevant	not relevant	False	False	False	B	9236724
+B082	not relevant	not relevant	not relevant	not relevant	False	False	False	B	10517806
+B083	NC	NC	NC	NC	False	False	False	B	7777133
+B084	not relevant	not relevant	not relevant	not relevant	False	False	False	B	1280607
+B085	NC	NC	NC	NC	False	False	False	B	1911907
+B086	not relevant	not relevant	not relevant	not relevant	False	False	False	B	7643252
+B087	P	not relevant	P	P	False	True	False	B	9260989
+B088	not relevant	not relevant	not relevant	not relevant	False	False	False	B	8513271
+B089	not relevant	not relevant	not relevant	not relevant	False	False	False	B	7644021
+B090	NC	NC	NC	NC	False	False	False	B	9701622
+B091	not relevant	not relevant	not relevant	not relevant	False	False	False	B	1951704
+B092	not relevant	not relevant	NC	not relevant	False	False	True	B	9240730
+B093	P	not relevant	P	P	False	True	False	B	9237040
+B094	P	not relevant	P	P	False	True	False	B	1627156
+B095	not relevant	not relevant	not relevant	not relevant	False	False	False	B	8274501
+B096	P	not relevant	P	P	False	True	False	B	7649932
+B097	not relevant	NC	not relevant	not relevant	False	True	False	B	9112090
+B098	not relevant	not relevant	not relevant	not relevant	False	False	False	B	2111647
+B099	P	not relevant	P	P	False	True	False	B	1595678
+B100	not relevant	not relevant	not relevant	not relevant	False	False	False	B	7868424
+B101	not relevant	not relevant	not relevant	not relevant	False	False	False	B	17328373
+B102	not relevant	not relevant	not relevant	not relevant	False	False	False	B	15937790
+B103	not relevant	not relevant	not relevant	not relevant	False	False	False	B	18000831
+B104	not relevant	not relevant	not relevant	not relevant	False	False	False	B	17563180
+B105	NC	not relevant	not relevant	not relevant	True	False	False	B	19084984
+B106	not relevant	not relevant	NC	not relevant	False	False	True	B	15541774
+B107	not relevant	not relevant	not relevant	not relevant	False	False	False	B	18841026
+B108	NC	NC	NC	NC	False	False	False	B	19404731
+B109	NC	not relevant	NC	NC	False	True	False	B	19527771
+B110	not relevant	not relevant	not relevant	not relevant	False	False	False	B	17537975
+B111	not relevant	not relevant	not relevant	not relevant	False	False	False	B	19302088
+B112	P	not relevant	P	P	False	True	False	B	17595254
+B113	not relevant	not relevant	not relevant	not relevant	False	False	False	B	17690294
+B114	not relevant	not relevant	not relevant	not relevant	False	False	False	B	19666783
+B115	not relevant	not relevant	not relevant	not relevant	False	False	False	B	16798745
+B116	not relevant	not relevant	not relevant	not relevant	False	False	False	B	20157573
+B117	P	not relevant	P	P	False	True	False	B	16330560
+B118	not relevant	not relevant	not relevant	not relevant	False	False	False	B	11505367
+B119	not relevant	not relevant	not relevant	not relevant	False	False	False	B	19732043
+B120	P	P	P	P	False	False	False	B	10657747
+B121	NC	NC	NC	NC	False	False	False	B	11511399
+B122	not relevant	not relevant	not relevant	not relevant	False	False	False	B	16318865
+B123	not relevant	not relevant	not relevant	not relevant	False	False	False	B	17460211
+B124	P	not relevant	not relevant	not relevant	True	False	False	B	17699665
+B125	D	D	NC	D	False	False	True	B	16029094
+B126	NC	not relevant	NC	NC	False	True	False	B	17355813
+B127	P	not relevant	not relevant	not relevant	True	False	False	B	15063946
+B128	not relevant	not relevant	not relevant	not relevant	False	False	False	B	17990066
+B129	not relevant	not relevant	not relevant	not relevant	False	False	False	B	16981697
+B130	not relevant	not relevant	not relevant	not relevant	False	False	False	B	17136506
+B131	D	not relevant	not relevant	not relevant	True	False	False	B	19475566
+B132	P	not relevant	P	P	False	True	False	B	14963373
+B133	not relevant	not relevant	not relevant	not relevant	False	False	False	B	10802124
+B134	not relevant	not relevant	not relevant	not relevant	False	False	False	B	16337939
+B135	NC	P	NC	NC	False	True	False	B	17873024
+B136	D	not relevant	not relevant	not relevant	True	False	False	B	15249151
+B137	not relevant	not relevant	not relevant	not relevant	False	False	False	B	19851058
+B138	NC	NC	NC	NC	False	False	False	B	19822781
+B139	not relevant	not relevant	not relevant	not relevant	False	False	False	B	14583653
+B140	not relevant	NC	not relevant	not relevant	False	True	False	B	15294963
+B141	not relevant	not relevant	P	not relevant	False	False	True	B	16837106
+B142	P	not relevant	NC	none (3-way split)	False	False	False	B	16096833
+B143	not relevant	not relevant	P	not relevant	False	False	True	B	11048956
+B144	NC	not relevant	NC	NC	False	True	False	B	18316704
+B145	not relevant	not relevant	not relevant	not relevant	False	False	False	B	19457549
+B146	not relevant	not relevant	not relevant	not relevant	False	False	False	B	18433736
+B147	not relevant	not relevant	not relevant	not relevant	False	False	False	B	16309733
+B148	not relevant	not relevant	not relevant	not relevant	False	False	False	B	18838195
+B149	not relevant	not relevant	not relevant	not relevant	False	False	False	B	19566802
+B150	not relevant	not relevant	not relevant	not relevant	False	False	False	B	16115803
+B151	P	P	P	P	False	False	False	B	16204590
+B152	not relevant	not relevant	not relevant	not relevant	False	False	False	B	20157575
+B153	not relevant	not relevant	not relevant	not relevant	False	False	False	B	20018794
+B154	not relevant	not relevant	not relevant	not relevant	False	False	False	B	11033009
+B155	not relevant	not relevant	NC	not relevant	False	False	True	B	16626392
+B156	not relevant	not relevant	not relevant	not relevant	False	False	False	B	18437693
+B157	not relevant	not relevant	not relevant	not relevant	False	False	False	B	15881295
+B158	NC	NC	NC	NC	False	False	False	B	11245366
+B159	NC	NC	NC	NC	False	False	False	B	11444634
+B160	not relevant	not relevant	not relevant	not relevant	False	False	False	B	17609671
+B161	NC	NC	NC	NC	False	False	False	B	18808249
+B162	not relevant	not relevant	not relevant	not relevant	False	False	False	B	18063233
+B163	not relevant	not relevant	not relevant	not relevant	False	False	False	B	22880823
+B164	not relevant	not relevant	not relevant	not relevant	False	False	False	B	12794382
+B165	not relevant	not relevant	not relevant	not relevant	False	False	False	B	12630785
+B166	not relevant	not relevant	not relevant	not relevant	False	False	False	B	15588798
+B167	not relevant	not relevant	not relevant	not relevant	False	False	False	B	17471748
+B168	not relevant	not relevant	not relevant	not relevant	False	False	False	B	20024518
+B169	not relevant	not relevant	not relevant	not relevant	False	False	False	B	11297022
+B170	not relevant	not relevant	not relevant	not relevant	False	False	False	B	12634925
+B171	not relevant	not relevant	not relevant	not relevant	False	False	False	B	17038423
+B172	not relevant	not relevant	not relevant	not relevant	False	False	False	B	16638781
+B173	not relevant	not relevant	not relevant	not relevant	False	False	False	B	20011633
+B174	not relevant	not relevant	not relevant	not relevant	False	False	False	B	11173878
+B175	not relevant	not relevant	not relevant	not relevant	False	False	False	B	15456908
+B176	not relevant	not relevant	P	not relevant	False	False	True	B	16846540
+B177	not relevant	not relevant	not relevant	not relevant	False	False	False	B	12888638
+B178	not relevant	P	P	P	True	False	False	B	11040957
+B179	not relevant	not relevant	not relevant	not relevant	False	False	False	B	11792363
+B180	not relevant	not relevant	not relevant	not relevant	False	False	False	B	20195488
+B181	not relevant	not relevant	not relevant	not relevant	False	False	False	B	16470014
+B182	not relevant	not relevant	not relevant	not relevant	False	False	False	B	17870066
+B183	not relevant	not relevant	not relevant	not relevant	False	False	False	B	14663339
+B184	not relevant	not relevant	not relevant	not relevant	False	False	False	B	15928031
+B185	not relevant	not relevant	not relevant	not relevant	False	False	False	B	15500082
+B186	not relevant	NC	not relevant	not relevant	False	True	False	B	17964102
+B187	not relevant	not relevant	not relevant	not relevant	False	False	False	B	18538374
+B188	not relevant	not relevant	not relevant	not relevant	False	False	False	B	18387442
+B189	not relevant	not relevant	not relevant	not relevant	False	False	False	B	16451792
+B190	NC	not relevant	NC	NC	False	True	False	B	14535941
+B191	NC	NC	not relevant	NC	False	False	True	B	19618189
+B192	not relevant	not relevant	not relevant	not relevant	False	False	False	B	19445346
+B193	not relevant	not relevant	not relevant	not relevant	False	False	False	B	18986040
+B194	not relevant	not relevant	not relevant	not relevant	False	False	False	B	16368843
+B195	NC	NC	NC	NC	False	False	False	B	11782027
+B196	not relevant	not relevant	not relevant	not relevant	False	False	False	B	17996864
+B197	P	not relevant	P	P	False	True	False	B	11697036
+B198	NC	not relevant	NC	NC	False	True	False	B	19147739
+B199	P	not relevant	not relevant	not relevant	True	False	False	B	16355084
+B200	not relevant	not relevant	not relevant	not relevant	False	False	False	B	17915226
+B201	NC	not relevant	NC	NC	False	True	False	B	20230087
+B202	not relevant	not relevant	not relevant	not relevant	False	False	False	B	22959930
+B203	NC	NC	P	NC	False	False	True	B	21300703
+B204	P	NC	P	P	False	True	False	B	25495832
+B205	not relevant	not relevant	not relevant	not relevant	False	False	False	B	20600789
+B206	not relevant	not relevant	not relevant	not relevant	False	False	False	B	25411066
+B207	not relevant	not relevant	not relevant	not relevant	False	False	False	B	29351838
+B208	not relevant	not relevant	not relevant	not relevant	False	False	False	B	25962494
+B209	not relevant	not relevant	not relevant	not relevant	False	False	False	B	30888729
+B210	not relevant	not relevant	not relevant	not relevant	False	False	False	B	29284674
+B211	not relevant	not relevant	not relevant	not relevant	False	False	False	B	24039052
+B212	not relevant	not relevant	not relevant	not relevant	False	False	False	B	25205853
+B213	NC	not relevant	NC	NC	False	True	False	B	20083315
+B214	NC	NC	NC	NC	False	False	False	B	28444388
+B215	not relevant	not relevant	P	not relevant	False	False	True	B	29203452
+B216	NC	NC	NC	NC	False	False	False	B	20545432
+B217	not relevant	not relevant	not relevant	not relevant	False	False	False	B	23550089
+B218	not relevant	not relevant	P	not relevant	False	False	True	B	24248696
+B219	not relevant	not relevant	not relevant	not relevant	False	False	False	B	29254405
+B220	P	not relevant	P	P	False	True	False	B	25455212
+B221	not relevant	not relevant	not relevant	not relevant	False	False	False	B	20524748
+B222	not relevant	not relevant	not relevant	not relevant	False	False	False	B	29225356
+B223	not relevant	P	not relevant	not relevant	False	True	False	B	21953681
+B224	not relevant	not relevant	not relevant	not relevant	False	False	False	B	27557999
+B225	NC	not relevant	NC	NC	False	True	False	B	23721902
+B226	not relevant	not relevant	not relevant	not relevant	False	False	False	B	28276931
+B227	not relevant	not relevant	not relevant	not relevant	False	False	False	B	28988914
+B228	D	D	D	D	False	False	False	B	22610697
+B229	not relevant	not relevant	not relevant	not relevant	False	False	False	B	31682793
+B230	not relevant	not relevant	not relevant	not relevant	False	False	False	B	21746836
+B231	not relevant	not relevant	not relevant	not relevant	False	False	False	B	27959617
+B232	not relevant	not relevant	not relevant	not relevant	False	False	False	B	21108731
+B233	not relevant	not relevant	not relevant	not relevant	False	False	False	B	27785644
+B234	not relevant	not relevant	not relevant	not relevant	False	False	False	B	27890742
+B235	not relevant	not relevant	not relevant	not relevant	False	False	False	B	27846439
+B236	not relevant	not relevant	not relevant	not relevant	False	False	False	B	28321696
+B237	P	not relevant	P	P	False	True	False	B	24004692
+B239	not relevant	not relevant	not relevant	not relevant	False	False	False	B	27440779
+B240	not relevant	P	not relevant	not relevant	False	True	False	B	20400446
+B241	P	P	not relevant	P	False	False	True	B	25063353
+B242	not relevant	not relevant	not relevant	not relevant	False	False	False	B	30305625
+B243	not relevant	not relevant	P	not relevant	False	False	True	B	25406956
+B244	not relevant	not relevant	not relevant	not relevant	False	False	False	B	30153738
+B245	not relevant	NC	P	none (3-way split)	False	False	False	B	22709403
+B246	not relevant	not relevant	not relevant	not relevant	False	False	False	B	21156325
+B247	P	not relevant	P	P	False	True	False	B	27884963
+B248	P	not relevant	not relevant	not relevant	True	False	False	B	25248511
+B249	not relevant	not relevant	not relevant	not relevant	False	False	False	B	29849055
+B250	not relevant	not relevant	not relevant	not relevant	False	False	False	B	22398143
+B251	not relevant	not relevant	not relevant	not relevant	False	False	False	B	31830815
+B252	P	NC	P	P	False	True	False	B	30106984
+B253	P	not relevant	not relevant	not relevant	True	False	False	B	31641924
+B254	P	NC	NC	NC	True	False	False	B	25301303
+B255	not relevant	not relevant	not relevant	not relevant	False	False	False	B	28057201
+B256	not relevant	not relevant	not relevant	not relevant	False	False	False	B	29152572
+B257	P	not relevant	not relevant	not relevant	True	False	False	B	30227133
+B258	not relevant	not relevant	not relevant	not relevant	False	False	False	B	23460854
+B259	not relevant	not relevant	not relevant	not relevant	False	False	False	B	30439962
+B260	not relevant	not relevant	not relevant	not relevant	False	False	False	B	28893184
+B261	P	not relevant	not relevant	not relevant	True	False	False	B	29615095
+B262	P	not relevant	P	P	False	True	False	B	23549897
+B263	not relevant	not relevant	not relevant	not relevant	False	False	False	B	30124168
+B264	not relevant	not relevant	not relevant	not relevant	False	False	False	B	27068303
+B265	not relevant	not relevant	not relevant	not relevant	False	False	False	B	28432144
+B266	not relevant	not relevant	not relevant	not relevant	False	False	False	B	26334963
+B267	not relevant	not relevant	not relevant	not relevant	False	False	False	B	28193858
+B268	P	not relevant	not relevant	not relevant	True	False	False	B	28005421
+B269	not relevant	not relevant	not relevant	not relevant	False	False	False	B	24331882
+B270	not relevant	not relevant	not relevant	not relevant	False	False	False	B	26130741
+B271	not relevant	not relevant	not relevant	not relevant	False	False	False	B	30017009
+B272	not relevant	not relevant	not relevant	not relevant	False	False	False	B	25992569
+B273	not relevant	not relevant	not relevant	not relevant	False	False	False	B	23115911
+B274	not relevant	not relevant	not relevant	not relevant	False	False	False	B	27507608
+B275	not relevant	not relevant	P	not relevant	False	False	True	B	26656318
+B276	not relevant	not relevant	NC	not relevant	False	False	True	B	26917166
+B277	not relevant	not relevant	NC	not relevant	False	False	True	B	29108941
+B278	not relevant	not relevant	not relevant	not relevant	False	False	False	B	24257571
+B279	not relevant	not relevant	not relevant	not relevant	False	False	False	B	24703889
+B280	D	D	D	D	False	False	False	B	31713126
+B281	not relevant	not relevant	not relevant	not relevant	False	False	False	B	24780842
+B282	not relevant	not relevant	not relevant	not relevant	False	False	False	B	29968395
+B283	not relevant	not relevant	not relevant	not relevant	False	False	False	B	23949829
+B284	not relevant	not relevant	not relevant	not relevant	False	False	False	B	24412105
+B285	P	not relevant	NC	none (3-way split)	False	False	False	B	30255594
+B286	not relevant	not relevant	not relevant	not relevant	False	False	False	B	22129514
+B287	NC	not relevant	NC	NC	False	True	False	B	23169485
+B288	not relevant	not relevant	not relevant	not relevant	False	False	False	B	25063937
+B289	not relevant	not relevant	not relevant	not relevant	False	False	False	B	28725932
+B290	NC	NC	NC	NC	False	False	False	B	21480375
+B291	not relevant	not relevant	not relevant	not relevant	False	False	False	B	27821595
+B292	not relevant	not relevant	not relevant	not relevant	False	False	False	B	23343541
+B293	not relevant	not relevant	not relevant	not relevant	False	False	False	B	20675607
+B294	P	not relevant	P	P	False	True	False	B	22683008
+B295	not relevant	P	not relevant	not relevant	False	True	False	B	20440547
+B296	not relevant	not relevant	not relevant	not relevant	False	False	False	B	24807824
+B297	not relevant	not relevant	not relevant	not relevant	False	False	False	B	25110075
+B298	P	not relevant	P	P	False	True	False	B	27587280
+B299	not relevant	not relevant	not relevant	not relevant	False	False	False	B	27702440
+B300	not relevant	not relevant	not relevant	not relevant	False	False	False	B	39347718
+B301	not relevant	not relevant	not relevant	not relevant	False	False	False	B	30955036
+B302	not relevant	not relevant	not relevant	not relevant	False	False	False	B	33555436
+B303	not relevant	not relevant	not relevant	not relevant	False	False	False	B	40701371
+B304	not relevant	not relevant	D	not relevant	False	False	True	B	32151149
+B305	not relevant	not relevant	not relevant	not relevant	False	False	False	B	39702854
+B306	not relevant	not relevant	not relevant	not relevant	False	False	False	B	39331812
+B307	not relevant	not relevant	not relevant	not relevant	False	False	False	B	40261284
+B308	not relevant	not relevant	not relevant	not relevant	False	False	False	B	39004533
+B309	not relevant	not relevant	not relevant	not relevant	False	False	False	B	32856316
+B310	not relevant	not relevant	not relevant	not relevant	False	False	False	B	34053387
+B311	D	not relevant	D	D	False	True	False	B	39639169
+B312	P	not relevant	P	P	False	True	False	B	41045866
+B313	not relevant	not relevant	not relevant	not relevant	False	False	False	B	32438247
+B314	not relevant	not relevant	not relevant	not relevant	False	False	False	B	41318813
+B315	D	not relevant	not relevant	not relevant	True	False	False	B	40082090
+B316	P	not relevant	P	P	False	True	False	B	33423524
+B317	NC	P	P	P	True	False	False	B	38804500
+B318	not relevant	not relevant	not relevant	not relevant	False	False	False	B	41372913
+B319	not relevant	not relevant	not relevant	not relevant	False	False	False	B	31362310
+B320	not relevant	not relevant	NC	not relevant	False	False	True	B	40307654
+B321	not relevant	not relevant	not relevant	not relevant	False	False	False	B	41297282
+B322	not relevant	not relevant	not relevant	not relevant	False	False	False	B	39855016
+B323	P	not relevant	P	P	False	True	False	B	40692215
+B324	not relevant	not relevant	not relevant	not relevant	False	False	False	B	33026140
+B325	not relevant	not relevant	not relevant	not relevant	False	False	False	B	40119954
+B326	not relevant	not relevant	not relevant	not relevant	False	False	False	B	40804679
+B327	not relevant	not relevant	not relevant	not relevant	False	False	False	B	34606593
+B328	not relevant	not relevant	not relevant	not relevant	False	False	False	B	32539085
+B329	not relevant	not relevant	not relevant	not relevant	False	False	False	B	38892569
+B330	P	not relevant	not relevant	not relevant	True	False	False	B	40810394
+B331	not relevant	not relevant	NC	not relevant	False	False	True	B	41088627
+B332	not relevant	not relevant	not relevant	not relevant	False	False	False	B	39505152
+B333	not relevant	not relevant	not relevant	not relevant	False	False	False	B	40302773
+B334	not relevant	not relevant	not relevant	not relevant	False	False	False	B	33319704
+B335	not relevant	not relevant	not relevant	not relevant	False	False	False	B	39105295
+B336	NC	not relevant	NC	NC	False	True	False	B	33248257
+B337	not relevant	not relevant	not relevant	not relevant	False	False	False	B	41258196
+B338	not relevant	not relevant	not relevant	not relevant	False	False	False	B	39441032
+B339	not relevant	not relevant	not relevant	not relevant	False	False	False	B	40038418
+B340	not relevant	not relevant	not relevant	not relevant	False	False	False	B	31952302
+B341	not relevant	not relevant	not relevant	not relevant	False	False	False	B	41315231
+B342	not relevant	not relevant	not relevant	not relevant	False	False	False	B	41401565
+B343	P	not relevant	NC	none (3-way split)	False	False	False	B	39856735
+B344	not relevant	not relevant	not relevant	not relevant	False	False	False	B	34798081
+B345	not relevant	not relevant	not relevant	not relevant	False	False	False	B	41373554
+B346	not relevant	not relevant	not relevant	not relevant	False	False	False	B	32965797
+B347	not relevant	not relevant	NC	not relevant	False	False	True	B	37733220
+B348	not relevant	not relevant	not relevant	not relevant	False	False	False	B	37843536
+B349	not relevant	not relevant	not relevant	not relevant	False	False	False	B	38096586
+B350	P	not relevant	not relevant	not relevant	True	False	False	B	34777691
+B351	not relevant	not relevant	not relevant	not relevant	False	False	False	B	40602330
+B352	not relevant	not relevant	not relevant	not relevant	False	False	False	B	39325937
+B353	not relevant	not relevant	not relevant	not relevant	False	False	False	B	40570516
+B354	not relevant	not relevant	not relevant	not relevant	False	False	False	B	38432843
+B355	not relevant	not relevant	not relevant	not relevant	False	False	False	B	38288940
+B356	not relevant	not relevant	not relevant	not relevant	False	False	False	B	40448028
+B357	NC	not relevant	NC	NC	False	True	False	B	34332220
+B358	not relevant	not relevant	not relevant	not relevant	False	False	False	B	38853301
+B359	not relevant	not relevant	not relevant	not relevant	False	False	False	B	40326415
+B360	not relevant	not relevant	not relevant	not relevant	False	False	False	B	41021555
+B361	not relevant	not relevant	not relevant	not relevant	False	False	False	B	40164562
+B362	not relevant	not relevant	P	not relevant	False	False	True	B	36840515
+B363	NC	not relevant	D	none (3-way split)	False	False	False	B	41184483
+B364	NC	not relevant	NC	NC	False	True	False	B	35388223
+B365	not relevant	not relevant	not relevant	not relevant	False	False	False	B	38347745
+B366	not relevant	not relevant	not relevant	not relevant	False	False	False	B	29660064
+B367	not relevant	not relevant	not relevant	not relevant	False	False	False	B	36124764
+B368	not relevant	not relevant	NC	not relevant	False	False	True	B	33882817
+B369	not relevant	not relevant	not relevant	not relevant	False	False	False	B	35052422
+B370	NC	not relevant	NC	NC	False	True	False	B	37759266
+B371	P	not relevant	not relevant	not relevant	True	False	False	B	32273888
+B372	not relevant	not relevant	not relevant	not relevant	False	False	False	B	40861447
+B373	NC	not relevant	NC	NC	False	True	False	B	41162704
+B374	not relevant	not relevant	P	not relevant	False	False	True	B	33480611
+B375	not relevant	not relevant	not relevant	not relevant	False	False	False	B	37113487
+B376	not relevant	not relevant	not relevant	not relevant	False	False	False	B	40022176
+B377	not relevant	not relevant	not relevant	not relevant	False	False	False	B	40442604
+B378	not relevant	not relevant	NC	not relevant	False	False	True	B	35137412
+B379	not relevant	not relevant	not relevant	not relevant	False	False	False	B	32783580
+B380	not relevant	not relevant	NC	not relevant	False	False	True	B	38647449
+B381	not relevant	not relevant	not relevant	not relevant	False	False	False	B	35030073
+B382	NC	not relevant	NC	NC	False	True	False	B	40973441
+B383	not relevant	not relevant	not relevant	not relevant	False	False	False	B	39796538
+B384	not relevant	not relevant	not relevant	not relevant	False	False	False	B	41208173
+B385	not relevant	not relevant	NC	not relevant	False	False	True	B	40465046
+B386	not relevant	not relevant	not relevant	not relevant	False	False	False	B	33785642
+B387	not relevant	not relevant	NC	not relevant	False	False	True	B	40856643
+B388	not relevant	not relevant	not relevant	not relevant	False	False	False	B	33800818
+B389	not relevant	not relevant	NC	not relevant	False	False	True	B	39315755
+B390	not relevant	not relevant	P	not relevant	False	False	True	B	33135952
+B391	not relevant	not relevant	NC	not relevant	False	False	True	B	32634245
+B392	not relevant	not relevant	not relevant	not relevant	False	False	False	B	35472831
+B393	not relevant	not relevant	not relevant	not relevant	False	False	False	B	38182079
+B394	not relevant	not relevant	not relevant	not relevant	False	False	False	B	38030089
+B395	not relevant	not relevant	not relevant	not relevant	False	False	False	B	39197809
+B396	NC	not relevant	NC	NC	False	True	False	B	39922128
+B397	NC	not relevant	D	none (3-way split)	False	False	False	B	41595467
+B398	not relevant	not relevant	not relevant	not relevant	False	False	False	B	39095992

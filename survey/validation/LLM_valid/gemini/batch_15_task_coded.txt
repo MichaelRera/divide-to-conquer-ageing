@@ -1,0 +1,49 @@
+review_id	screen_relevant	trajectory_code	explicitness	level	scale	observation	anchor	reversibility	meaning	organism	evidence_quote	notes
+B022	no	-	-	-	-	-	-	-	-	human	-	-
+B045	no	-	-	-	-	-	-	-	-	human	-	-
+B081	no	-	-	-	-	-	-	-	-	mouse-rat	-	-
+B232	no	-	-	-	-	-	-	-	-	mouse-rat	-	-
+B019	no	-	-	-	-	-	-	-	-	human	-	-
+B171	no	-	-	-	-	-	-	-	-	mouse-rat	-	-
+B346	no	-	-	-	-	-	-	-	-	human	-	-
+B086	no	-	-	-	-	-	-	-	-	mouse-rat	-	-
+B357	yes	NC	explicit	tissue-organ	population	inferred	chronological age	-	-	human	nonlinear microstructure declines across fiber classes	-
+B331	yes	NC	explicit	molecular	population	inferred	chronological age	-	-	human	U-shaped association with a critical transition point	[authors: "biphasic association"]
+B094	yes	P	implicit	-	-	-	-	-	-	human	incidence of the deleted mtDNA was found to increase with age	-
+B282	no	-	-	-	-	-	-	-	-	multiple	-	-
+B166	no	-	-	-	-	-	-	-	-	human	-	-
+B071	yes	D	explicit	cellular	population	inferred	chronological age	not stated	Two phases were distinguished in the development of coupling ratio	other	Two phases were distinguished in the development of coupling ratio	-
+B297	no	-	-	-	-	-	-	-	-	mouse-rat	-	-
+B093	yes	P	implicit	-	-	-	-	-	-	human	partial decrease in testosterone levels with aging	-
+B369	no	-	-	-	-	-	-	-	-	human	-	-
+B351	no	-	-	-	-	-	-	-	-	human	-	-
+B001	yes	P	implicit	-	-	-	-	-	-	human	progressive decline in visuo-spatial performance	-
+B067	yes	P	explicit	-	-	-	-	-	-	human	decline for most of these begins in early life and proceeds steadily	-
+B192	no	-	-	-	-	-	-	-	-	human	-	-
+B180	no	-	-	-	-	-	-	-	-	mouse-rat	-	-
+B052	no	-	-	-	-	-	-	-	-	other	-	-
+B377	no	-	-	-	-	-	-	-	-	human	-	-
+B363	yes	D	explicit	cellular	individual	observed	chronological age	not stated	cohesion limit	mouse-rat	premature sister chromatid separation sharply increases only when REC8 levels drop	-
+B264	no	-	-	-	-	-	-	-	-	human	-	-
+B185	no	-	-	-	-	-	-	-	-	mouse-rat	-	-
+B236	no	-	-	-	-	-	-	-	-	human	-	-
+B394	no	-	-	-	-	-	-	-	-	none	-	-
+B003	no	-	-	-	-	-	-	-	-	human	-	-
+B047	no	-	-	-	-	-	-	-	-	mouse-rat	-	-
+B165	no	-	-	-	-	-	-	-	-	mouse-rat	-	-
+B250	no	-	-	-	-	-	-	-	-	human	-	-
+B210	no	-	-	-	-	-	-	-	-	human	-	-
+B129	no	-	-	-	-	-	-	-	-	mouse-rat	-	-
+B253	no	-	-	-	-	-	-	-	-	mouse-rat	-	-
+B070	no	-	-	-	-	-	-	-	-	human	-	-
+B035	no	-	-	-	-	-	-	-	-	other	-	-
+B174	no	-	-	-	-	-	-	-	-	mouse-rat	-	-
+B033	yes	P	implicit	-	-	-	-	-	-	human	steady increase with age in the percentage of sphingomyelin	-
+B226	no	-	-	-	-	-	-	-	-	human	-	-
+B391	yes	NC	explicit	physiological-functional	population	inferred	chronological age	-	-	human	difference in observed-vs.-predicted PWV change increased nonlinearly as a function of age	-
+B275	yes	P	implicit	-	-	-	-	-	-	human	P2 latency increases about 9 msec per decade of life	-
+B100	no	-	-	-	-	-	-	-	-	mouse-rat	-	-
+B345	no	-	-	-	-	-	-	-	-	multiple	-	-
+B149	no	-	-	-	-	-	-	-	-	human	-	-
+B392	no	-	-	-	-	-	-	-	-	human	-	-
+B380	yes	NC	explicit	physiological-functional	individual	observed	chronological age	-	-	human	historical changes in within-person trajectories of the perceived onset of old age	-

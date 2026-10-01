@@ -1,0 +1,51 @@
+review_id	screen_relevant	trajectory_code	explicitness	level	scale	observation	anchor	reversibility	meaning	organism	evidence_quote	notes
+A284	-	U	-	-	-	-	-	-	-	human	-	-
+A303	-	D	implicit	cellular	-	-	-	not stated	microglia shift from a neuroprotective to a neurotoxic phenotype	human	shift from a neuroprotective to a neurotoxic phenotype	-
+A157	-	U	-	-	-	-	-	-	-	human	-	-
+A332	-	DEV	-	-	-	-	-	-	-	human	peak between 13 and 14.9 years then plateau	-
+A264	-	U	-	-	-	-	-	-	-	mouse-rat	-	-
+A317	-	P	implicit	-	-	-	-	-	-	human	begins to decline at a rate of approximately 1% year	-
+A239	-	U	-	-	-	-	-	-	-	multiple	-	-
+A084	-	U	-	-	-	-	-	-	-	human	-	-
+A038	-	DEV	-	-	-	-	-	-	-	mouse-rat	in adolescence	-
+A133	-	P	explicit	-	-	-	-	-	-	mouse-rat	progressive pancreatic histoarchitecture distortion	-
+A234	-	U	-	-	-	-	-	-	-	other	-	-
+A274	-	P	implicit	-	-	-	-	-	-	mouse-rat	synapse loss occurred in aging rats	-
+A196	-	NC	explicit	whole-organism	population	inferred	chronological age	-	-	human	increased with age until the mid-80s when it leveled off	-
+A312	-	U	-	-	-	-	-	-	-	human	-	-
+A041	-	P	implicit	-	-	-	-	-	-	mouse-rat	benefits decline with age	-
+A005	-	U	-	-	-	-	-	-	-	mouse-rat	-	-
+A068	-	P	explicit	-	-	-	-	-	-	mouse-rat	age-related decline in memory retention	-
+A217	-	U	-	-	-	-	-	-	-	mouse-rat	-	-
+A164	-	U	-	-	-	-	-	-	-	human	-	-
+A173	-	U	-	-	-	-	-	-	-	mouse-rat	-	-
+A111	-	U	-	-	-	-	-	-	-	human	-	-
+A222	-	P	implicit	-	-	-	-	-	-	human	general deterioration in musculoskeletal and sensory systems	-
+A107	-	DEV	-	-	-	-	-	-	-	mouse-rat	during the neonatal period	-
+A293	-	P	implicit	-	-	-	-	-	-	human	progressive time-related accumulation of changes	-
+A318	-	U	-	-	-	-	-	-	-	human	-	-
+A129	-	P	implicit	-	-	-	-	-	-	human	dysregulated overexpression of many proinflammatory cytokines occurs with aging	-
+A126	-	P	explicit	-	-	-	-	-	-	mouse-rat	differences in the ratio of urinary volatiles with age	-
+A053	-	P	explicit	-	-	-	-	-	-	human	progressive reduction from the end of puberty to aging	-
+A067	-	P	explicit	-	-	-	-	-	-	human	half-life decreased markedly with age	-
+A265	-	P	explicit	-	-	-	-	-	-	human	greater rate of pulse wave velocity increase over time	-
+A316	-	U	-	-	-	-	-	-	-	human	-	-
+A209	-	P	explicit	-	-	-	-	-	-	human	Age was found to negatively affect ability to decode emotions	-
+A329	-	U	-	-	-	-	-	-	-	mouse-rat	-	-
+A251	-	NC	explicit	physiological-functional	population	inferred	chronological age	-	-	human	abilities peak between ages 15 and 30 declining after 30	-
+A009	-	U	-	-	-	-	-	-	-	human	-	-
+A283	-	DEV	-	-	-	-	-	-	-	human	development and fusion occur earlier than previously reported	-
+A228	-	U	-	-	-	-	-	-	-	human	-	-
+A258	-	DEV	-	-	-	-	-	-	-	human	mean age 17	-
+A205	-	U	-	-	-	-	-	-	-	human	-	-
+A167	-	U	-	-	-	-	-	-	-	human	-	-
+A130	-	P	implicit	-	-	-	-	-	-	mouse-rat	aging leads to impairment in functional capacity	-
+A210	-	P	implicit	-	-	-	-	-	-	mouse-rat	HSCs undergo dramatic changes with aging	-
+A138	-	U	-	-	-	-	-	-	-	human	-	-
+A019	-	DEV	-	-	-	-	-	-	-	human	postnatal improvement in renal Na conservation	-
+A221	-	P	explicit	-	-	-	-	-	-	human	in vitro lifespan declined with host aging	-
+A156	-	U	-	-	-	-	-	-	-	human	-	-
+A337	-	U	-	-	-	-	-	-	-	mouse-rat	-	-
+A263	-	P	explicit	-	-	-	-	-	-	other	retards the onset of age-related markers	-
+A176	-	P	implicit	-	-	-	-	-	-	human	age-related degeneration of MTUs significantly diminished ability	-
+A219	-	U	-	-	-	-	-	-	-	human	-	-

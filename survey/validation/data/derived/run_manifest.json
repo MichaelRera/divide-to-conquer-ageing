@@ -1,0 +1,21 @@
+{
+  "settings": {
+    "project_name": "ageing_trajectory_review",
+    "retrieval_date": "2026-09-25",
+    "base_seed": 20260925,
+    "sheet_order_seed": "20260925-independent-sheet",
+    "bootstrap_seed": 20260925,
+    "bootstrap_reps": 2000,
+    "source": {
+      "sample_json": "../../sample.json",
+      "opus_codes_A": "../../codes_A.tsv",
+      "opus_codes_B": "../../codes_B.tsv",
+      "kappa_sheet": "../../kappa_sheet.tsv"
+    }
+  },
+  "python": "3.11.5 (main, Sep 11 2023, 13:54:46) [GCC 11.2.0]",
+  "platform": "Linux-6.8.0-138-generic-x86_64-with-glibc2.39",
+  "pandas": "2.3.3",
+  "numpy": "2.3.3",
+  "scipy": "1.17.1"
+}

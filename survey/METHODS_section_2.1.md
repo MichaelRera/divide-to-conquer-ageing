@@ -1,0 +1,26 @@
+# §2.1 Methods text, with reliability and limitations (2026-09-28)
+
+To paste in Suggesting mode. It replaces the sentence of §2.1 that runs from "The survey was designed, and the coding performed…" to "…provided as Supplementary Data." In the Results paragraph, "109 of 400" becomes "109 of 398" (see Limitations).
+
+---
+
+**Sampling and coding.** From the 139,501 PubMed records indexed with "Aging" as a major MeSH topic (English, 1990–2025), we drew a stratified random sample of 350 records (50 per 5-year period) and a second random sample among the 4,318 records that also use trajectory-shape vocabulary in the title or abstract (100 draws per decade; 398 distinct records, two having been drawn twice). Each title and abstract was coded with a codebook fixed before any abstract was read, and every later rule clarification was logged together with its date. The codebook assigns one framing: progressive/continuous, nonlinear but continuous, discontinuous (qualitatively distinct states separated by a transition), or no claim about shape. Records on pre-adult development are set aside. In the vocabulary-matched sample, each record was first screened for whether it makes a claim about the shape of an ageing trajectory. For nonlinear and discontinuous claims, the codebook also records the level, whether the trajectory was followed within individuals or inferred from population data, whether the transition was observed per individual or recovered by statistical modelling, and what anchors it (chronological age, proximity to death, disease or physiological state). The survey was designed, and the primary coding performed, with AI assistance (Claude Opus, Anthropic) applying the written codebook.
+
+**Reliability.** Every record was then re-coded, blind to the original codes and to each other, by two language models from other developers: Gemini Flash 3.6 (Google) and Perplexity, whose underlying model the service does not disclose. Each re-coder received only the written codebook and the titles and abstracts, in batches of 50, with web search disabled. On a random 10% of records drawn before re-coding (n = 75), agreement with the original coding on trajectory framing was κ = 0.86 (95% CI 0.75–0.94) for Perplexity and κ = 0.84 (0.73–0.93) for Gemini. This is similar to the agreement between the two re-coders (κ = 0.87). Over all 747 records coded by all three, agreement was substantial (κ = 0.68 and 0.71 against the original coding, 0.65 between re-coders). The original code was the minority code less often (64 records) than either re-code (92 and 77). Disagreement concentrated on two points. The first is the relevance screen of the vocabulary-matched sample: κ = 0.65 with Gemini, but 0.34 with Perplexity, which judged far fewer abstracts to make a shape claim (11% vs 27% and 31%). The second is the discontinuous codes: of the 19 records originally coded discontinuous, only 10 were coded so by at least two of the three coders, and 2 further records were coded discontinuous by a majority. Confidence intervals were obtained by bootstrap over records (2,000 resamples).
+
+**Citation network.** A citation network of the 4,318 vocabulary-matched papers and of the papers analysed here was built from OpenAlex[47] and partitioned into communities with the Louvain algorithm[48], with node order fixed so that the partition is reproducible.
+
+**Limitations.** The counts reported below use the original coding. Disagreements were not adjudicated, so these counts carry the uncertainty described above, and they are least certain for the rarest category. The exact number of discontinuous claims should therefore be read as an order of magnitude: discontinuous framings are rare under every coding (under 3% of the representative sample and 9–13% of relevant vocabulary-matched records in each of the three codings). All coding, including the reliability check, was done by language models, and none by a human reader. The three models may share biases that agreement statistics cannot reveal. Coding rests on titles and abstracts only, and records what authors claim rather than what their data show. NLM moved to automated MeSH indexing in 2022, so the most recent years are less comparable with earlier ones. OpenAlex reference lists are incomplete for older papers, so only 1,914 of the 4,326 works are connected in the citation network. The protocol, change log, PubMed identifiers, the three codings, the majority votes and all scripts are provided as Supplementary Data.
+
+---
+
+## Numbers and where they come from
+
+| Claim | Source (`systematic_review/`) |
+|---|---|
+| κ 0.86 / 0.84 / 0.87 (n = 75); 0.68 / 0.71 / 0.65 (n = 747); screen 0.65 / 0.34 | `validation/outputs/tables/kappa_three_coders.tsv` |
+| minority counts 64 / 92 / 77; D: 10 of 19 retained, +2 new majority D | `validation/outputs/tables/majority_three_coders.tsv`, `D_records_three_coders.tsv` |
+| screen 11% / 27% / 31% relevant; D in Arm A 2.6% / 2.0% / 0.6%, in relevant Arm B 9.3% / 13.3% / 8.9% (Opus / Perplexity / Gemini) | `validation/outputs/tables/distributions_three_coders.tsv` |
+| 398 distinct Arm B records (PMIDs 27959617 and 39505152 drawn twice) | `validation/data/frozen/within_arm_duplicates_dropped.tsv` |
+| 747 rather than 748 | Perplexity's row for B238 was truncated |
+

@@ -1,0 +1,81 @@
+review_id	screen_relevant	trajectory_code	explicitness	level	scale	observation	anchor	reversibility	meaning	organism	evidence_quote	notes
+A119	-	DEV	-	-	-	-	-	-	-	human	does maturation matter	-
+A253	-	P	explicit	-	-	-	-	-	-	human	ADL score increased on average by 0.03 for every year respondents aged	-
+A343	-	U	-	-	-	-	-	-	-	human	describes the profile of biomarkers and genetic data available in the MHAS study	-
+A094	-	U	-	-	-	-	-	-	-	mouse-rat	MNase as well as DNase I were more active in adult than old	-
+A224	-	U	-	-	-	-	-	-	-	human	intra-specific differences in the pace and patterns of ageing	-
+A243	-	U	-	-	-	-	-	-	-	Drosophila	escalation of aggression in adult male Drosophila melanogaster	-
+A322	-	U	-	-	-	-	-	-	-	human	T cell senescence and exhaustion represent critical aspects of adaptive immune system dysfunction	-
+A192	-	U	-	-	-	-	-	-	-	human	Mg intake is inversely associated with prevalence of the MS in older adults	-
+A282	-	U	-	-	-	-	-	-	-	C. elegans	accumulation of MUFAs is necessary for the lifespan extension	-
+A153	-	P	implicit	-	-	-	-	-	-	other	identified in the adult gland, but they were intensified during senescence	-
+A206	-	U	-	-	-	-	-	-	-	multiple	effects of DR on lifespan in rats and mice	-
+A039	-	P	explicit	-	-	-	-	-	-	human	slight increase in DT in lens proteins with age	-
+A143	-	P	explicit	-	-	-	-	-	-	human	Migration activity decreased with donor age	-
+A104	-	U	-	-	-	-	-	-	-	none	application of high-throughput technologies to aging-related research	-
+A139	-	DEV	-	-	-	-	-	-	-	multiple	expression was down-regulated in brain, muscle and liver during development	-
+A155	-	U	-	-	-	-	-	-	-	mouse-rat	The elderly exhibit reduced responses to vaccinations	-
+A347	-	P	explicit	-	-	-	-	-	-	human	associated with poorer sleep quality across age	-
+A314	-	U	-	-	-	-	-	-	-	mouse-rat	assess the antioxidant capacity of lemon flavonoid extract Eriomin	-
+A091	-	U	-	-	-	-	-	-	-	human	A 70-year-old retired professional man	-
+A024	-	DEV	-	-	-	-	-	-	-	multiple	newborn (5 days old) and adult rat	-
+A300	-	U	-	-	-	-	-	-	-	human	Hypoxia Prevents Mitochondrial Dysfunction and Senescence	-
+A006	-	P	implicit	-	-	-	-	-	-	human	Both aging and hypertension decrease cardiac output	-
+A172	-	DEV	-	-	-	-	-	-	-	mouse-rat	derived from female neonatal or female postpubertal rats	-
+A174	-	P	implicit	-	-	-	-	-	-	human	The phosphorylation of TREM-1 signal transduction molecules was altered with aging	-
+A029	-	U	-	-	-	-	-	-	-	mouse-rat	observed in the aged rats	-
+A073	-	P	explicit	-	-	-	-	-	-	human	declined with in vitro aging, i.e. declined with increasing PDLs	-
+A333	-	U	-	-	-	-	-	-	-	human	centrosome abnormalities contribute to the aging process	-
+A144	-	U	-	-	-	-	-	-	-	multiple	define the role of telomerase in ageing	-
+A079	-	P	implicit	-	-	-	-	-	-	human	age-related increase in reliance on gist-based processing	-
+A052	-	DEV	-	-	-	-	-	-	-	other	ontogenetic changes in their response threshold to sucrose which was inversely related to age	-
+A169	-	P	implicit	-	-	-	-	-	-	multiple	loss of most 5mC from the DNA of various species over their lifespan	-
+A134	-	DEV	-	-	-	-	-	-	-	other	developmental up-regulation and down-regulation of genes	-
+A122	-	DEV	-	-	-	-	-	-	-	mouse-rat	nicotine-induced conditioned place preference in adolescent and adult rats	-
+A175	-	U	-	-	-	-	-	-	-	C. elegans	identified several genes that regulate secretion of insulin-like growth factors	-
+A108	-	NC	explicit	tissue-organ	population	inferred	chronological age	-	-	human	Lipofuscin fluorescence increased linearly until age 70, then declined	-
+B134	no	-	-	-	-	-	-	-	-	mouse-rat	-	-
+B178	yes	P	implicit	-	-	-	-	-	-	multiple	result in a progressive reduction in energy output	-
+B290	yes	NC	explicit	physiological-functional	population	inferred	proximity to death	-	-	human	Decline and acceleration of this decline were detectable in the period before death	[authors: "preterminal phases"]
+B082	no	-	-	-	-	-	-	-	-	mouse-rat	-	-
+B240	no	-	-	-	-	-	-	-	-	human	-	-
+B009	no	-	-	-	-	-	-	-	-	mouse-rat	-	-
+B254	yes	NC	explicit	tissue-organ	population	inferred	chronological age	-	-	human	Physiological circumferential stretch decreased 55-75% after 45 years of age	-
+B393	no	-	-	-	-	-	-	-	-	multiple	-	-
+B339	no	-	-	-	-	-	-	-	-	multiple	-	-
+B209	no	-	-	-	-	-	-	-	-	other	-	-
+B384	no	-	-	-	-	-	-	-	-	human	-	-
+B014	no	-	-	-	-	-	-	-	-	human	-	-
+B172	no	-	-	-	-	-	-	-	-	human	-	-
+B060	yes	P	explicit	-	-	-	-	-	-	mouse-rat	decreased markedly with age	-
+B122	no	-	-	-	-	-	-	-	-	none	-	-
+B024	no	-	-	-	-	-	-	-	-	human	-	-
+B227	no	-	-	-	-	-	-	-	-	human	-	-
+B034	no	-	-	-	-	-	-	-	-	human	-	-
+B123	no	-	-	-	-	-	-	-	-	human	-	-
+B120	yes	P	explicit	-	-	-	-	-	-	human	Progressive insolublisation of the crystallins of the lens nucleus in the first five decades	-
+B083	yes	NC	explicit	physiological-functional	population	inferred	chronological age	-	-	mouse-rat	results indicate a nonlinear age-related spatial memory decline	-
+B137	no	-	-	-	-	-	-	-	-	human	-	-
+B046	no	-	-	-	-	-	-	-	-	human	-	-
+B203	yes	NC	explicit	physiological-functional	individual	inferred	proximity to death	-	-	human	decline that is steeper as compared with typical aging-related change	[authors: "terminal decline"]
+B347	no	-	-	-	-	-	-	-	-	human	-	-
+B177	no	-	-	-	-	-	-	-	-	human	-	-
+B388	no	-	-	-	-	-	-	-	-	mouse-rat	-	-
+B027	no	-	-	-	-	-	-	-	-	mouse-rat	-	-
+B097	no	-	-	-	-	-	-	-	-	mouse-rat	-	-
+B147	no	-	-	-	-	-	-	-	-	mouse-rat	-	-
+B133	no	-	-	-	-	-	-	-	-	human	-	-
+B151	yes	P	explicit	-	-	-	-	-	-	human	small airway clearance over 21 days was found to decrease with age	-
+B239	no	-	-	-	-	-	-	-	-	mouse-rat	-	-
+B340	no	-	-	-	-	-	-	-	-	human	-	-
+B317	yes	NC	explicit	tissue-organ	population	inferred	chronological age	-	-	mouse-rat	reduction in myelin content, particularly at 18 months	-
+B059	yes	P	explicit	-	-	-	-	-	-	human	Age was consistently an independent and significant predictor of the AUC	-
+B256	no	-	-	-	-	-	-	-	-	human	-	-
+B102	no	-	-	-	-	-	-	-	-	none	-	-
+B159	yes	NC	explicit	physiological-functional	population	inferred	chronological age	-	-	human	nonlinear function provided best characterization of the effect of age	-
+B348	no	-	-	-	-	-	-	-	-	human	-	-
+A334	-	U	-	-	-	-	-	-	-	human	evaluate the National Alzheimer's Coordinating Center's Uniform Data Set	-
+A097	-	P	implicit	-	-	-	-	-	-	human	increased age in adulthood is associated with a decrease in the speed	-
+A159	-	P	explicit	-	-	-	-	-	-	human	Aortic root diameter, LV wall thickness, and LV mass slightly increased with age	-
+A212	-	U	-	-	-	-	-	-	-	mouse-rat	Electroacupuncture improves cognitive deficits associated with AMPK activation	-
+A023	-	U	-	-	-	-	-	-	-	mouse-rat	Old rats had a 5- to 7-fold higher yield of grossly visible hepatic tumors	-

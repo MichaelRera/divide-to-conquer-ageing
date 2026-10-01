@@ -1,0 +1,30 @@
+review_id	Opus 5.5	Perplexity	Gemini Flash 3.6	majority	Opus 5.5 in minority	Perplexity in minority	Gemini Flash 3.6 in minority	arm	pmid	title
+A020	D	NC	NC	NC	True	False	False	A	1484951	Coronary heart disease risk factors in relation to the menopause.
+A113	D	D	D	D	False	False	False	A	12928831	Catabolic and anabolic phases of osteodystrophy in aged rats.
+A118	D	NC	P	none (3-way split)	False	False	False	A	15545701	Age-related decreases in gonadal hormones in Long-Evans rats: relationship to rise in arterial pressure.
+A151	D	D	D	D	False	False	False	A	19520539	Relaxo-volumetric multispectral quantitative magnetic resonance imaging of the brain over the human lifespan: global and regional aging patterns.
+A161	D	D	U	D	False	False	True	A	19318942	Stress-induced premature senescence of endothelial cells: a perilous state between recovery and point of no return.
+A168	U	D	P	none (3-way split)	False	False	False	A	15739187	Progressive arthropathy in mice with a targeted disruption of the Mop3/Bmal-1 locus.
+A185	D	U	U	U	True	False	False	A	18555778	Oncogene-induced senescence relayed by an interleukin-dependent inflammatory network.
+A216	U	D	U	U	False	True	False	A	23773060	Functional alteration patterns of default mode networks: comparisons of normal aging, amnestic mild cognitive impairment and Alzheimer's disease.
+A267	D	U	U	U	True	False	False	A	28185406	Detecting senescence: a new method for an old pigment.
+A303	D	D	U	D	False	False	True	A	40970514	Prematurely Aged Human Microglia Exhibit Impaired Stress Response and Defective Nucleocytoplasmic Shuttling of ALS Associated FUS.
+A309	D	U	P	none (3-way split)	False	False	False	A	35560232	Individual variation explains ageing patterns in a cooperatively breeding bird, the long-tailed tit Aegithalos caudatus.
+A345	U	D	U	U	False	True	False	A	37995077	Aging Modulates the Ability of Quiescent Radial Glia-Like Stem Cells in the Hippocampal Dentate Gyrus to be Recruited into Division by Pro-neurogenic Stimuli.
+B012	NC	D	D	D	True	False	False	B	8893683	Age-dependent decrease in embryo implantation rate after in vitro fertilization.
+B031	not relevant	D	D	D	True	False	False	B	7975329	The zones of discontinuity in the human lens: development and distribution with age.
+B032	D	not relevant	D	D	False	True	False	B	8094925	Paired helical filament-like inclusions and Hirano bodies in the mesencephalic nucleus of the trigeminal nerve in the aged rat.
+B041	D	not relevant	D	D	False	True	False	B	10196087	Stochastic mechanism of cellular aging--abrupt telomere shortening as a model for stochastic nature of cellular aging.
+B047	D	not relevant	not relevant	not relevant	True	False	False	B	9467417	Accelerated aging of dermal fibroblast-like cells from the senescence-accelerated mouse (SAM): acceleration of changes in DNA ploidy associated with in vitro cellular aging.
+B056	P	D	NC	none (3-way split)	False	False	False	B	9520014	A prospective study of cognitive function and onset of dementia in cognitively healthy elders.
+B071	NC	not relevant	D	none (3-way split)	False	False	False	B	1860075	Age-related changes in junctional and non-junctional conductances in two electrically coupled peptidergic neurons of the mollusc Lymnaea stagnalis.
+B125	D	D	NC	D	False	False	True	B	16029094	Studying individual aging in an interindividual context: typical paths of age-related, dementia-related, and mortality-related cognitive development in old age.
+B131	D	not relevant	not relevant	not relevant	True	False	False	B	19475566	Stepwise up-regulation of microRNA expression levels from replicating to reversible and irreversible growth arrest states in WI-38 human fibroblasts.
+B136	D	not relevant	not relevant	not relevant	True	False	False	B	15249151	Cognitive status and development in the oldest old: a longitudinal analysis from the Heidelberg Centenarian Study.
+B228	D	D	D	D	False	False	False	B	22610697	Molecular characterization of the transition to mid-life in Caenorhabditis elegans.
+B280	D	D	D	D	False	False	False	B	31713126	Gradual Change, Homeostasis, and Punctuated Equilibrium: Reconsidering Patterns of Health in Later Life.
+B304	not relevant	not relevant	D	not relevant	False	False	True	B	32151149	Resting-State Functional Connectivity Dynamics in Healthy Aging: An Approach Through Network Change Point Detection.
+B311	D	not relevant	D	D	False	True	False	B	39639169	The dynamics of hematopoiesis over the human lifespan.
+B315	D	not relevant	not relevant	not relevant	True	False	False	B	40082090	Design principles of gene circuits for longevity.
+B363	NC	not relevant	D	none (3-way split)	False	False	False	B	41184483	A versatile cohesion manipulation system probes female reproductive age-related egg aneuploidy.
+B397	NC	not relevant	D	none (3-way split)	False	False	False	B	41595467	Transcriptomic Profiling Reveals Biphasic Regulatory Instability and Late-Stage Proteostatic Decline in Aging Mouse Oocytese.

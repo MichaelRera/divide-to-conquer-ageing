@@ -1,0 +1,51 @@
+review_id	screen_relevant	trajectory_code	explicitness	level	scale	observation	anchor	reversibility	meaning	organism	evidence_quote	notes
+A284	-	U	-	-	-	-	-	-	-	human	-	-
+A303	-	U	-	-	-	-	-	-	-	human	-	-
+A157	-	U	-	-	-	-	-	-	-	human	-	-
+A332	-	DEV	-	-	-	-	-	-	-	human	HCVA and LCLA abilities mature into adolescence	-
+A264	-	U	-	-	-	-	-	-	-	mouse-rat	-	-
+A317	-	P	implicit	-	-	-	-	-	-	human	begins to decline at a rate of ~1% year in men	-
+A239	-	U	-	-	-	-	-	-	-	other	-	-
+A084	-	U	-	-	-	-	-	-	-	human	-	-
+A038	-	DEV	-	-	-	-	-	-	-	mouse-rat	hormonal imprinting is characteristic of the neonatal age	-
+A133	-	P	implicit	-	-	-	-	-	-	mouse-rat	progressive pancreatic histoarchitecture distortion was found among the aged animals	-
+A234	-	U	-	-	-	-	-	-	-	other	-	-
+A274	-	U	-	-	-	-	-	-	-	mouse-rat	-	-
+A196	-	NC	explicit	population-demographic	population	inferred	chronological age	-	-	human	frailty index increased with age until the mid-80s, when it leveled off	-
+A312	-	U	-	-	-	-	-	-	-	human	-	-
+A041	-	U	-	-	-	-	-	-	-	mouse-rat	-	-
+A005	-	U	-	-	-	-	-	-	-	mouse-rat	-	-
+A068	-	U	-	-	-	-	-	-	-	mouse-rat	-	-
+A217	-	U	-	-	-	-	-	-	-	mouse-rat	-	-
+A164	-	U	-	-	-	-	-	-	-	human	-	-
+A173	-	U	-	-	-	-	-	-	-	mouse-rat	-	-
+A111	-	U	-	-	-	-	-	-	-	human	-	-
+A222	-	U	-	-	-	-	-	-	-	human	-	-
+A107	-	DEV	-	-	-	-	-	-	-	mouse-rat	activity and expression of FAAH decrease... with age during the neonatal period	-
+A293	-	P	implicit	-	-	-	-	-	-	human	progressive time-related accumulation of changes	-
+A318	-	U	-	-	-	-	-	-	-	none	-	-
+A129	-	U	-	-	-	-	-	-	-	other	-	-
+A126	-	U	-	-	-	-	-	-	-	mouse-rat	-	-
+A053	-	P	implicit	-	-	-	-	-	-	human	progressive reduction from the end of the puberty to aging	-
+A067	-	P	implicit	-	-	-	-	-	-	human	half-life of Dyn A1-13 decreased markedly with age	-
+A265	-	U	-	-	-	-	-	-	-	human	-	-
+A316	-	U	-	-	-	-	-	-	-	human	-	-
+A209	-	U	-	-	-	-	-	-	-	human	-	-
+A329	-	U	-	-	-	-	-	-	-	mouse-rat	-	-
+A251	-	NC	explicit	physiological-functional	population	inferred	chronological age	-	-	human	peak between the ages of 15 and 30... declining performance after 30	-
+A009	-	U	-	-	-	-	-	-	-	human	-	-
+A283	-	DEV	-	-	-	-	-	-	-	human	normal skeletal developmental patterns in the acromial process and distal clavicle in children	-
+A228	-	U	-	-	-	-	-	-	-	human	-	-
+A258	-	U	-	-	-	-	-	-	-	human	-	-
+A205	-	U	-	-	-	-	-	-	-	human	-	-
+A167	-	U	-	-	-	-	-	-	-	human	-	-
+A130	-	U	-	-	-	-	-	-	-	mouse-rat	-	-
+A210	-	U	-	-	-	-	-	-	-	mouse-rat	-	-
+A138	-	U	-	-	-	-	-	-	-	human	-	-
+A019	-	DEV	-	-	-	-	-	-	-	human	Postnatal changes in proximal and distal tubular sodium reabsorption	-
+A221	-	U	-	-	-	-	-	-	-	human	-	-
+A156	-	U	-	-	-	-	-	-	-	human	-	-
+A337	-	U	-	-	-	-	-	-	-	mouse-rat	-	-
+A263	-	U	-	-	-	-	-	-	-	other	-	-
+A176	-	U	-	-	-	-	-	-	-	human	-	-
+A219	-	U	-	-	-	-	-	-	-	human	-	-

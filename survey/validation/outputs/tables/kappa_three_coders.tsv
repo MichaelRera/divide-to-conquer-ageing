@@ -1,0 +1,25 @@
+subset	pair	comparison	n	percent_agreement	cohen_kappa	kappa_ci_low	kappa_ci_high	interpretation
+planned 10% subset	Opus 5.5 vs Perplexity	T, both arms (Arm B not-relevant as a category)	75	0.8933333333333333	0.8556998556998557	0.7521239706298632	0.9434534841207797	almost perfect
+planned 10% subset	Opus 5.5 vs Perplexity	T, Arm A	35	0.9142857142857143	0.8659003831417624	0.6940291068580541	1.0	almost perfect
+planned 10% subset	Opus 5.5 vs Perplexity	Arm B relevance screen	40	0.925	0.8076923076923078	0.5652173913043477	1.0	almost perfect
+planned 10% subset	Opus 5.5 vs Perplexity	D vs not-D, both arms	75	1.0				
+planned 10% subset	Opus 5.5 vs Gemini Flash 3.6	T, both arms (Arm B not-relevant as a category)	75	0.88	0.8364032961706253	0.7308531859725526	0.9265435041802038	almost perfect
+planned 10% subset	Opus 5.5 vs Gemini Flash 3.6	T, Arm A	35	0.8857142857142857	0.8186528497409326	0.6164120126448894	0.9564676616915423	almost perfect
+planned 10% subset	Opus 5.5 vs Gemini Flash 3.6	Arm B relevance screen	40	0.95	0.8671096345514949	0.6350142424781912	1.0	almost perfect
+planned 10% subset	Opus 5.5 vs Gemini Flash 3.6	D vs not-D, both arms	75	1.0				
+planned 10% subset	Perplexity vs Gemini Flash 3.6	T, both arms (Arm B not-relevant as a category)	75	0.9066666666666666	0.8743417903303013	0.7795966132059066	0.9474670354950291	almost perfect
+planned 10% subset	Perplexity vs Gemini Flash 3.6	T, Arm A	35	0.9142857142857143	0.8675914249684741	0.6890466370558377	1.0	almost perfect
+planned 10% subset	Perplexity vs Gemini Flash 3.6	Arm B relevance screen	40	0.925	0.8170731707317075	0.5934959349593496	1.0	almost perfect
+planned 10% subset	Perplexity vs Gemini Flash 3.6	D vs not-D, both arms	75	1.0				
+all coded by all three	Opus 5.5 vs Perplexity	T, both arms (Arm B not-relevant as a category)	747	0.7657295850066934	0.6753149984725089	0.6336303478228895	0.7179456924268388	substantial
+all coded by all three	Opus 5.5 vs Perplexity	T, Arm A	350	0.7628571428571429	0.6387579740602112	0.5732531573671179	0.7035872413898692	substantial
+all coded by all three	Opus 5.5 vs Perplexity	Arm B relevance screen	397	0.7858942065491183	0.33860567217420273	0.240738816043084	0.43341026947209793	fair
+all coded by all three	Opus 5.5 vs Perplexity	D vs not-D, both arms	747	0.9759036144578314	0.4256300726185392	0.16820916437639963	0.6314042899808193	moderate
+all coded by all three	Opus 5.5 vs Gemini Flash 3.6	T, both arms (Arm B not-relevant as a category)	747	0.785809906291834	0.7107768999019952	0.6726137891042456	0.7490108499711495	substantial
+all coded by all three	Opus 5.5 vs Gemini Flash 3.6	T, Arm A	350	0.7485714285714286	0.5820044785234443	0.5050733508826999	0.6563968127097846	moderate
+all coded by all three	Opus 5.5 vs Gemini Flash 3.6	Arm B relevance screen	397	0.853904282115869	0.6474892835272504	0.5634852227299252	0.7213976822306596	substantial
+all coded by all three	Opus 5.5 vs Gemini Flash 3.6	D vs not-D, both arms	747	0.9759036144578314	0.4256300726185392	0.19307791897036916	0.6344172639391428	moderate
+all coded by all three	Perplexity vs Gemini Flash 3.6	T, both arms (Arm B not-relevant as a category)	747	0.7483266398929049	0.6540542138401962	0.6112535138247576	0.6941045813874265	substantial
+all coded by all three	Perplexity vs Gemini Flash 3.6	T, Arm A	350	0.76	0.6283655669321199	0.5583099059584671	0.697050664005236	substantial
+all coded by all three	Perplexity vs Gemini Flash 3.6	Arm B relevance screen	397	0.7556675062972292	0.3115155632631899	0.21680530072772153	0.4043754666849468	fair
+all coded by all three	Perplexity vs Gemini Flash 3.6	D vs not-D, both arms	747	0.9812583668005355	0.4520016767973165	0.1908605430132636	0.6650092952562237	moderate

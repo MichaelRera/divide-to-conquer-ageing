@@ -1,0 +1,201 @@
+BATCH 03: 50 records (A057 ... A034)
+
+### A057 | arm A | 1997
+Title: Mast cell number and maturation in the central nervous system: influence of tissue type, location and exposure to steroid hormones.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A100 | arm A | 1998
+Title: Cellular electrophysiological effects of chronic fluoxetine and duloxetine administration on serotonergic responses in the aging hippocampus.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A050 | arm A | 1994
+Title: Insulin-like growth factor-I receptor densities in human frontal cortex and white matter during aging, in Alzheimer's disease, and in Huntington's disease.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A237 | arm A | 2012
+Title: Coordination of DNA repair by NEIL1 and PARP-1: a possible link to aging.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A018 | arm A | 1993
+Title: The brain-to-liver mercury ratio increases with aging in mice.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A025 | arm A | 1993
+Title: Neurotransmitters and second messengers in aging and Alzheimer's disease.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A266 | arm A | 2016
+Title: Does somatosensation change with age in children and adolescents? A systematic review.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A315 | arm A | 2025
+Title: Eye on the horizon: The metabolic landscape of the RPE in aging and disease.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A117 | arm A | 2004
+Title: Blood profile of pigeons (Columba livia) during growth and breeding.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A072 | arm A | 1996
+Title: Age effects of follicle-stimulating hormone and pulsatile luteinizing hormone secretion across the menstrual cycle of premenopausal women.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A014 | arm A | 1992
+Title: Developmental changes in hindlimb muscles and diaphragm of sheep.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A001 | arm A | 1992
+Title: Age-dependent regeneration of plasma proteins after donor plasmapheresis.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A163 | arm A | 2009
+Title: Prevalence and correlates of musculoskeletal pain in Chinese elderly and the impact on 4-year physical function and quality of life.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A296 | arm A | 2016
+Title: Sleep Alterations in Non-demented Older Individuals: The Role of Cortisol.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A076 | arm A | 1999
+Title: Anaerobic power of the arms and legs of young and older men.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A236 | arm A | 2013
+Title: Skeletal muscle uncoupling-induced longevity in mice is linked to increased substrate metabolism and induction of the endogenous antioxidant defense system.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A308 | arm A | 2021
+Title: Glycyrrhizin mitigates inflammatory bone loss and promotes expression of senescence-protective sirtuins in an aging mouse model of periprosthetic osteolysis.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A288 | arm A | 2017
+Title: Age-related changes in sexual function and steroid-hormone receptors in the medial preoptic area of male rats.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A128 | arm A | 2004
+Title: Heme, iron, and the mitochondrial decay of ageing.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A267 | arm A | 2017
+Title: Detecting senescence: a new method for an old pigment.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A285 | arm A | 2015
+Title: Infant motor development and cognitive performance in early old age: the Helsinki Birth Cohort Study.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A054 | arm A | 1997
+Title: Lack of correlation between plaque burden and cognition in the aged monkey.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A273 | arm A | 2017
+Title: Discrete Barker Frailty and Warped Mortality Dynamics at Older Ages.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A211 | arm A | 2012
+Title: Effects of twinning on the subsequent reproductive performance and productive lifespan of high-producing dairy cows.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A089 | arm A | 1999
+Title: Age-dependent abnormalities of hematopoietic stem cells in (NZW x BXSB)F1 mice.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A116 | arm A | 2002
+Title: Imaging hippocampal function across the human life span: is memory decline normal or not?
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A290 | arm A | 2017
+Title: Self-Perception of Aging and Satisfaction With Children's Support.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A136 | arm A | 2003
+Title: The allele (A)(-110) in the promoter region of the HSP70-1 gene is unfavorable to longevity in women.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A272 | arm A | 2017
+Title: Age affects sleep microstructure more than sleep macrostructure.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A233 | arm A | 2014
+Title: Partial loss of presenilin impairs age-dependent neuronal survival in the cerebral cortex.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A179 | arm A | 2005
+Title: Comparative study of functional limitation and disability in old age: Delhi and New York city.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A277 | arm A | 2018
+Title: The epigenetics of inflammaging: The contribution of age-related heterochromatin loss and locus-specific remodelling and the modulation by environmental stimuli.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A200 | arm A | 2008
+Title: Genetic variation and environmental factors in biological and arterial ageing.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A202 | arm A | 2012
+Title: Light-at-night-induced circadian disruption, cancer and aging.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A096 | arm A | 1999
+Title: Antioxidant systems in rat lens as a function of age: effect of chronic administration of vitamin E and ascorbate.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A051 | arm A | 1996
+Title: Neonatal cranial ultrasound abnormalities in low birth weight infants: relation to cognitive outcomes at six years of age.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A245 | arm A | 2012
+Title: Metabolic syndrome and cognitive decline among the oldest old in Okinawa: in search of a mechanism. The KOCOA Project.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A069 | arm A | 1997
+Title: Effect of ageing on peak expiratory flow variability and nocturnal exacerbations in bronchial asthma.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A215 | arm A | 2010
+Title: Age-related alterations of gene expression patterns in human CD8+ T cells.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A256 | arm A | 2017
+Title: Feelings of uselessness and 3-year mortality in an Italian community older people: the role of the functional status.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A286 | arm A | 2018
+Title: Accelerated DNA Methylation Age: Associations With Posttraumatic Stress Disorder and Mortality.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A292 | arm A | 2017
+Title: Expanding the Circle of Knowledge: Reconceptualizing Successful Aging Among North American Older Indigenous Peoples.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A275 | arm A | 2019
+Title: Body mass index across the life course: emergence of race-by-sex disparities in early childhood.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A195 | arm A | 2008
+Title: Family caregivers of older persons in rehabilitation.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A220 | arm A | 2013
+Title: Ageing is associated with diminished muscle re-growth and myogenic precursor cell expansion early after immobility-induced atrophy in human skeletal muscle.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A287 | arm A | 2016
+Title: X-ray fluorescence microscopic measurement of elemental distribution in the mouse retina with age.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A235 | arm A | 2013
+Title: Personality factors in the Long Life Family Study.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A158 | arm A | 2007
+Title: Bone mineral and predictors of bone mass in white, Hispanic, and Asian early pubertal girls.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A214 | arm A | 2015
+Title: Sedentary time in US older adults associated with disability in activities of daily living independent of physical activity.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A034 | arm A | 1991
+Title: Insulin resistance in the elderly.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]

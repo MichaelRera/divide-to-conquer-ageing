@@ -1,0 +1,135 @@
+{
+ "nodes": 4326,
+ "edges": 3850,
+ "giant": 1914,
+ "communities": [
+  {
+   "name": "Progeroid mouse models, DNA damage",
+   "size": 239,
+   "seeds": [],
+   "coded": {
+    "D": 1,
+    "P": 3,
+    "NC": 1
+   }
+  },
+  {
+   "name": "Biological-age measures",
+   "size": 199,
+   "seeds": [
+    "[41] Pridham 2024"
+   ],
+   "coded": {
+    "P": 3
+   }
+  },
+  {
+   "name": "Brain lifespan trajectories (MRI)",
+   "size": 134,
+   "seeds": [],
+   "coded": {
+    "NC": 6
+   }
+  },
+  {
+   "name": "Terminal decline (cognition, well-being)",
+   "size": 118,
+   "seeds": [],
+   "coded": {
+    "NC": 7,
+    "D": 1,
+    "P": 3
+   }
+  },
+  {
+   "name": "Epigenetic age acceleration",
+   "size": 116,
+   "seeds": [],
+   "coded": {}
+  },
+  {
+   "name": "Accelerated ageing after cancer, frailty",
+   "size": 106,
+   "seeds": [],
+   "coded": {}
+  },
+  {
+   "name": "Omics nonlinearity and two-phase ageing",
+   "size": 102,
+   "seeds": [
+    "[22] Rera 2012",
+    "[23] Zane 2023",
+    "[24] Cansell 2025",
+    "[25] Dambroise 2016",
+    "[32] Tricoire & Rera 2015",
+    "[33] Chen 2012",
+    "[34] Liu 2019",
+    "[35] Timmons 2019",
+    "[36] Lehallier 2019",
+    "[37] Holzscheck 2020",
+    "[38] Akagi 2023",
+    "[39] Li 2023",
+    "[40] Okada 2023",
+    "[42] Olecka 2024",
+    "[43] Shen 2024",
+    "[44] Dohm-Hansen 2024",
+    "[45] Scott 2025",
+    "[81] Roget 2024"
+   ],
+   "coded": {
+    "P": 2,
+    "D": 1,
+    "NC": 2
+   }
+  },
+  {
+   "name": "Stress, psychiatric illness and ageing",
+   "size": 99,
+   "seeds": [],
+   "coded": {
+    "NC": 1
+   }
+  },
+  {
+   "name": "Subjective age",
+   "size": 85,
+   "seeds": [],
+   "coded": {}
+  },
+  {
+   "name": "Pace of ageing",
+   "size": 84,
+   "seeds": [],
+   "coded": {}
+  },
+  {
+   "name": "Organ 'accelerated ageing' (COPD\u2026)",
+   "size": 78,
+   "seeds": [],
+   "coded": {
+    "NC": 1,
+    "P": 2,
+    "D": 1
+   }
+  },
+  {
+   "name": "Loss of physiological complexity",
+   "size": 77,
+   "seeds": [],
+   "coded": {
+    "P": 3,
+    "NC": 3
+   }
+  }
+ ],
+ "seeds_outside_giant": [
+  "[58] Carey 1998"
+ ],
+ "edges_between_coded": {
+  "D->NC": 1,
+  "NC->P": 3,
+  "NC->NC": 4,
+  "P->NC": 1
+ },
+ "manuscript_cluster_in_citations_from_other_communities": 27
+}

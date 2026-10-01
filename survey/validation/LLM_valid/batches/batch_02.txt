@@ -1,0 +1,201 @@
+BATCH 02: 50 records (B024 ... A031)
+
+### B024 | arm B | 1993
+Title: Drug-induced mania in the elderly.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B227 | arm B | 2018
+Title: DNA methylation age is not accelerated in brain or blood of subjects with schizophrenia.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B034 | arm B | 1998
+Title: Comparative pharmacokinetics of three doses of percutaneous dihydrotestosterone gel in healthy elderly men--a clinical research center study.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B123 | arm B | 2007
+Title: The role of cellular senescence in Werner syndrome: toward therapeutic intervention in human premature aging.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B120 | arm B | 2000
+Title: The ageing lens.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B083 | arm B | 1995
+Title: Age-related spatial reference and working memory deficits assessed in the water maze.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B137 | arm B | 2010
+Title: Space, gravity and the physiology of aging: parallel or convergent disciplines? A mini-review.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B046 | arm B | 1999
+Title: Genetic associations in age-related hearing thresholds.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B203 | arm B | 2011
+Title: Aging and the shape of cognitive change before death: terminal decline or terminal drop?
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B347 | arm B | 2024
+Title: Brain age prediction across the human lifespan using multimodal MRI data.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B177 | arm B | 2003
+Title: Dietary phylloquinone depletion and repletion in older women.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B388 | arm B | 2021
+Title: Spectroscopic Signature of Red Blood Cells in a D-Galactose-Induced Accelerated Aging Model.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B027 | arm B | 1997
+Title: Prevention of amyloid-like deposition by a selective prolyl endopeptidase inhibitor, Y-29794, in senescence-accelerated mouse.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B097 | arm B | 1997
+Title: Abnormal renal vascular reactivity to acetylcholine and nitroprusside in aging rats.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B147 | arm B | 2006
+Title: Adenosine A(3) receptor mediated coronary vasodilation in the rat heart: changes that occur with maturation.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B133 | arm B | 2000
+Title: For debate: defective mitochondria, free radicals, cell death, aging-reality or myth-ochondria?
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B151 | arm B | 2005
+Title: Long-term clearance from small airways decreases with age.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B239 | arm B | 2016
+Title: Reducing mTOR augments parietal epithelial cell density in a model of acute podocyte depletion and in aged kidneys.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B340 | arm B | 2020
+Title: Factors Associated with the Psychological Health of Caregiving Older Parents and Support from Their Grown Children: Results from the China Health and Retirement Longitudinal Study.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B317 | arm B | 2024
+Title: Long-term demyelination and aging-associated changes in mice corpus callosum; evidence for the role of accelerated aging in remyelination failure in a mouse model of multiple sclerosis.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B059 | arm B | 1995
+Title: The influence of ageing on cisplatin pharmacokinetics in lung cancer patients with normal organ function.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B256 | arm B | 2017
+Title: A null mutation in SERPINE1 protects against biological aging in humans.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B102 | arm B | 2005
+Title: The evolution of oscillatory behavior in age-structured species.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B159 | arm B | 2001
+Title: Senescent changes of the normal visual field: an age-old problem.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B348 | arm B | 2023
+Title: Longitudinal associations of volunteering, grandparenting, and family care with processing speed: A gender perspective on prosocial activity and cognitive aging in the second half of life.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A334 | arm A | 2024
+Title: Evaluation of the Uniform Data Set version 3 teleneuropsychological measures.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A097 | arm A | 1996
+Title: The processing-speed theory of adult age differences in cognition.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A159 | arm A | 2008
+Title: Normal values of echocardiographic parameters in relation to age in a healthy Japanese population: the JAMP study.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A212 | arm A | 2015
+Title: Electroacupuncture improves cognitive deficits associated with AMPK activation in SAMP8 mice.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A023 | arm A | 1991
+Title: Age-related susceptibility to the carcinogenic effect of the peroxisome proliferator WY-14,643 in rat liver.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A335 | arm A | 2022
+Title: Nicotinamide Mononucleotide and Coenzyme Q10 Protects Fibroblast Senescence Induced by Particulate Matter Preconditioned Mast Cells.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A186 | arm A | 2008
+Title: Physical activity in aging: comparison among young, aged, and nonagenarian individuals.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A071 | arm A | 1997
+Title: The effect of the loss of molar teeth on spatial memory and acetylcholine release from the parietal cortex in aged rats.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A120 | arm A | 2002
+Title: Interactions between texture and trigeminal stimulus in a liquid food system: effects on elderly consumers preferences.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A109 | arm A | 2004
+Title: Changes in posed facial expression of emotion across the adult life span.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A093 | arm A | 1996
+Title: Affective states in normal and depressed older people.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A311 | arm A | 2021
+Title: A prognostic model predicted deterioration in health-related quality of life in older patients with multimorbidity and polypharmacy.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A098 | arm A | 1999
+Title: Influence of aging on gastrointestinal transit time. An ultrasonographic and radiologic study.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A240 | arm A | 2013
+Title: Aging effects on ERP correlates of emotional word discrimination.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A325 | arm A | 2021
+Title: Effects of dichotic listening on gait domains of healthy older adults during dual-tasking: An exploratory observational study.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A008 | arm A | 1993
+Title: Age-related cognitive deficits in rats are associated with a combined loss of cholinergic and serotonergic functions.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A075 | arm A | 1997
+Title: Age-related changes in cerebral MR angiography.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A207 | arm A | 2015
+Title: Association of gait speed with mortality among the Japanese elderly in the New Integrated Suburban Seniority Investigation Project: a prospective cohort study.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A189 | arm A | 2005
+Title: Developmental changes in mental arithmetic: evidence for increased functional specialization in the left inferior parietal cortex.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A027 | arm A | 1991
+Title: Phenotype, ontogeny, and repertoire of CD4-CD8- T cell receptor alpha beta + thymocytes. Variable influence of self-antigens on T cell receptor V beta usage.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A048 | arm A | 1991
+Title: Inheritance of cow durability for linear type traits.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A099 | arm A | 1997
+Title: The GH-releasing effect of Hexarelin, a synthetic hexapeptide, in newborns is lower than in young adults.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A171 | arm A | 2005
+Title: Effects of caloric restriction on insulin pathway gene expression in the skeletal muscle and liver of normal and long-lived GHR-KO mice.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A183 | arm A | 2009
+Title: Clinical and behavioural aspects of aging with HIV infection.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A031 | arm A | 1991
+Title: Synthesis of insulin-dependent activator of hepatocyte plasmatic membrane Na,K-ATPase decreases in aging.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]

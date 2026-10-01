@@ -1,0 +1,51 @@
+review_id	screen_relevant	trajectory_code	explicitness	level	scale	observation	anchor	reversibility	meaning	organism	evidence_quote	notes
+B139	no	-	-	-	-	-	-	-	-	mouse-rat	-	-
+B154	no	-	-	-	-	-	-	-	-	other	-	-
+B217	no	-	-	-	-	-	-	-	-	human	-	-
+B029	yes	P	implicit	-	-	-	-	-	-	human	BC decreased statistically significantly in patients with advanced age	-
+B010	yes	P	explicit	-	-	-	-	-	-	human	age-dependency of right ventricular volume could be demonstrated using linear regression	-
+B132	yes	P	explicit	-	-	-	-	-	-	human	BA predicted actual cognitive change (decline) independent of CA	-
+B237	yes	P	implicit	-	-	-	-	-	-	human	R2 decreased with age for the majority of ROIs	-
+B279	no	-	-	-	-	-	-	-	-	human	-	-
+B106	yes	NC	explicit	tissue-organ	population	observed	chronological age	-	-	mouse-rat	biphasic pattern of gp91(phox) expression in rat liver during aging	-
+B355	no	-	-	-	-	-	-	-	-	human	-	-
+B396	yes	NC	explicit	molecular	population	observed	chronological age	-	-	mouse-rat	A large proportion of genes changed in a nonlinear pattern	[authors: "accelerated ageing"]
+B334	no	-	-	-	-	-	-	-	-	human	-	-
+B287	yes	NC	explicit	physiological-functional	population	observed	chronological age	-	-	human	the prevalence of immunoparesis varied in a nonlinear fashion	-
+B274	no	-	-	-	-	-	-	-	-	human	-	-
+B285	yes	NC	explicit	molecular	population	observed	chronological age	-	-	mouse-rat	The trend with age can be equally well-fit by several non-linear functions	-
+B291	no	-	-	-	-	-	-	-	-	human	-	-
+B069	no	-	-	-	-	-	-	-	-	mouse-rat	-	-
+B234	no	-	-	-	-	-	-	-	-	human	-	-
+B310	no	-	-	-	-	-	-	-	-	human	-	-
+B353	no	-	-	-	-	-	-	-	-	human	-	-
+B212	no	-	-	-	-	-	-	-	-	human	-	-
+B124	no	-	-	-	-	-	-	-	-	mouse-rat	-	-
+B040	no	-	-	-	-	-	-	-	-	human	-	-
+B370	yes	NC	explicit	physiological-functional	population	observed	chronological age	-	-	human	A biphasic effect of age on CPAP adherence	[authors: "biphasic"]
+B288	no	-	-	-	-	-	-	-	-	human	-	-
+B354	no	-	-	-	-	-	-	-	-	human	-	-
+B362	yes	P	explicit	-	-	-	-	-	-	human	This trend showed substantial stability across the adult life course	-
+B262	yes	P	implicit	-	-	-	-	-	-	mouse-rat	Tendon mechanical properties are thought to degrade during aging	-
+B383	no	-	-	-	-	-	-	-	-	human	-	-
+B021	no	-	-	-	-	-	-	-	-	human	-	-
+B104	no	-	-	-	-	-	-	-	-	human	-	-
+B293	no	-	-	-	-	-	-	-	-	other	-	-
+B251	no	-	-	-	-	-	-	-	-	human	-	-
+B146	no	-	-	-	-	-	-	-	-	other	-	-
+B087	yes	P	implicit	-	-	-	-	-	-	human	age and mean blood pressure were independently and negatively correlated	-
+B016	no	-	-	-	-	-	-	-	-	mouse-rat	-	-
+B168	no	-	-	-	-	-	-	-	-	none	-	-
+B176	yes	P	implicit	-	-	-	-	-	-	human	Females express higher enzyme levels as they grow older	-
+B095	no	-	-	-	-	-	-	-	-	other	-	-
+B390	yes	P	implicit	-	-	-	-	-	-	mouse-rat	photoreceptors degenerate in male Per2luc mice during aging	-
+B397	yes	D	explicit	cellular	population	observed	chronological age	not stated	biphasic transition from compensatory resistance to systemic collapse	mouse-rat	oocyte aging follows a biphasic nonlinear trajectory	[authors: "biphasic nonlinear trajectory"]
+B242	no	-	-	-	-	-	-	-	-	Drosophila	-	-
+B302	no	-	-	-	-	-	-	-	-	human	-	-
+B255	no	-	-	-	-	-	-	-	-	human	-	-
+B098	no	-	-	-	-	-	-	-	-	human	-	-
+B233	no	-	-	-	-	-	-	-	-	mouse-rat	-	-
+B322	no	-	-	-	-	-	-	-	-	human	-	-
+B157	no	-	-	-	-	-	-	-	-	human	-	-
+B329	no	-	-	-	-	-	-	-	-	human	-	-
+B163	no	-	-	-	-	-	-	-	-	none	-	-

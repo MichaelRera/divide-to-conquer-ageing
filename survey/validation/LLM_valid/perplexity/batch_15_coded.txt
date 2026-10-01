@@ -1,0 +1,49 @@
+review_id	screen_relevant	trajectory_code	explicitness	level	scale	observation	anchor	reversibility	meaning	organism	evidence_quote	notes
+B022	no	-	-	-	-	-	-	-	-	human	biphasic distribution	-
+B045	no	-	-	-	-	-	-	-	-	human	age associated with non-prescription drug use	-
+B081	no	-	-	-	-	-	-	-	-	mouse-rat	aging diminishes compensatory dilatation	-
+B232	no	-	-	-	-	-	-	-	-	mouse-rat	premature onset of aging-related phenotypes	-
+B019	no	-	-	-	-	-	-	-	-	human	does not form gradually during life span	-
+B171	no	-	-	-	-	-	-	-	-	mouse-rat	critical period of development	-
+B346	no	-	-	-	-	-	-	-	-	human	older female adults	-
+B086	no	-	-	-	-	-	-	-	-	mouse-rat	time course independent of age	-
+B357	no	-	-	-	-	-	-	-	-	human	nonlinear microstructure declines	-
+B331	no	-	-	-	-	-	-	-	-	human	U-shaped association	-
+B094	no	-	-	-	-	-	-	-	-	human	age-dependent 6063 bp deletion	-
+B282	no	-	-	-	-	-	-	-	-	human	accelerated aging and premature cellular senescence	-
+B166	no	-	-	-	-	-	-	-	-	human	increases with age	-
+B071	no	-	-	-	-	-	-	-	-	other	biphasic trend	-
+B297	no	-	-	-	-	-	-	-	-	mouse-rat	biphasic effect	-
+B093	no	-	-	-	-	-	-	-	-	human	partial decrease in testosterone levels with aging	-
+B369	no	-	-	-	-	-	-	-	-	human	stepwise manner	-
+B351	no	-	-	-	-	-	-	-	-	human	accelerated aging	-
+B001	no	-	-	-	-	-	-	-	-	human	progressive decline	-
+B067	no	-	-	-	-	-	-	-	-	human	proceeds steadily	-
+B192	no	-	-	-	-	-	-	-	-	human	late midlife and early old age	-
+B180	no	-	-	-	-	-	-	-	-	mouse-rat	did not accelerate aging	-
+B052	no	-	-	-	-	-	-	-	-	other	developing lamb	-
+B377	no	-	-	-	-	-	-	-	-	human	nonlinear dose-response relationships	-
+B363	no	-	-	-	-	-	-	-	-	mouse-rat	nonlinear vulnerability-triggering cohesion limit	-
+B264	no	-	-	-	-	-	-	-	-	human	older adults	-
+B185	no	-	-	-	-	-	-	-	-	mouse-rat	genetically accelerated aging	-
+B236	no	-	-	-	-	-	-	-	-	human	accelerated neurocognitive aging	-
+B394	no	-	-	-	-	-	-	-	-	human	accelerated aging	-
+B003	no	-	-	-	-	-	-	-	-	human	growth increments until 6 months	-
+B047	no	-	-	-	-	-	-	-	-	mouse-rat	accelerated changes in DNA ploidy	-
+B165	no	-	-	-	-	-	-	-	-	mouse-rat	degenerative and regenerative processes	-
+B250	no	-	-	-	-	-	-	-	-	human	successful aging	-
+B210	no	-	-	-	-	-	-	-	-	human	complex function of age and sex	-
+B129	no	-	-	-	-	-	-	-	-	mouse-rat	accelerated aging compared to nondiabetic	-
+B253	no	-	-	-	-	-	-	-	-	mouse-rat	accelerated loss in cognitive function	-
+B070	no	-	-	-	-	-	-	-	-	human	cognitive decline with advancing age	-
+B035	no	-	-	-	-	-	-	-	-	other	various ages	-
+B174	no	-	-	-	-	-	-	-	-	mouse-rat	age-related changes in cerebral energy production	-
+B033	no	-	-	-	-	-	-	-	-	human	steady increase with age	-
+B226	no	-	-	-	-	-	-	-	-	human	mid- to late-life sexuality	-
+B391	no	-	-	-	-	-	-	-	-	human	nonlinear age-dependent increase	-
+B275	no	-	-	-	-	-	-	-	-	human	accelerated aging	-
+B100	no	-	-	-	-	-	-	-	-	mouse-rat	adult more susceptible	-
+B345	no	-	-	-	-	-	-	-	-	multiple	accelerated aging model	-
+B149	no	-	-	-	-	-	-	-	-	human	subjective health of older people	-
+B392	no	-	-	-	-	-	-	-	-	human	accelerated aging	-
+B380	no	-	-	-	-	-	-	-	-	human	nonlinear historical trend	-

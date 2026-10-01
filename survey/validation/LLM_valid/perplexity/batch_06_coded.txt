@@ -1,0 +1,51 @@
+review_id	screen_relevant	trajectory_code	explicitness	level	scale	observation	anchor	reversibility	meaning	organism	evidence_quote	notes
+A260	-	U	-	-	-	-	-	-	-	human	-	-
+A154	-	U	-	-	-	-	-	-	-	human	-	-
+A328	-	P	explicit	-	-	-	-	-	-	human	With repeated passages senescent cells increased	-
+A012	-	DEV	-	-	-	-	-	-	-	other	exponential growth until postnatal day 30	-
+A327	-	U	-	-	-	-	-	-	-	human	-	-
+A162	-	U	-	-	-	-	-	-	-	human	-	-
+A065	-	P	explicit	-	-	-	-	-	-	mouse-rat	age-associated reductions in cardiovascular beta-adrenergic responsiveness	-
+A349	-	P	explicit	-	-	-	-	-	-	multiple	age-related alterations in the spinal cord and medulla	-
+A231	-	P	explicit	-	-	-	-	-	-	human	T1 rho values correlated positively with aging	-
+A074	-	P	implicit	-	-	-	-	-	-	mouse-rat	age-associated decreases in endogenous NGF responses	-
+A257	-	U	-	-	-	-	-	-	-	human	-	-
+A043	-	U	-	-	-	-	-	-	-	human	no decline in Ki with age	-
+A313	-	U	-	-	-	-	-	-	-	human	-	-
+A193	-	NC	explicit	physiological-functional	population	observed	chronological age	-	-	mouse-rat	least and most sensitive to MPTP respectively	-
+A114	-	P	explicit	-	-	-	-	-	-	other	ejaculate volume decreased with age	-
+A191	-	U	-	-	-	-	-	-	-	human	-	-
+A092	-	P	implicit	-	-	-	-	-	-	mouse-rat	impairment of afferent nerve function occurs with aging	-
+A178	-	P	explicit	-	-	-	-	-	-	human	chance of accumulating deficits increased linearly with number of deficits	-
+A310	-	DEV	-	-	-	-	-	-	-	other	SA peaking 5 d earlier	-
+A082	-	U	-	-	-	-	-	-	-	human	no significant difference	-
+A244	-	DEV	-	-	-	-	-	-	-	human	childhood lead exposure	-
+A055	-	U	-	-	-	-	-	-	-	human	-	-
+A137	-	U	-	-	-	-	-	-	-	human	-	-
+A016	-	U	-	-	-	-	-	-	-	other	-	-
+A227	-	U	-	-	-	-	-	-	-	human	-	-
+A271	-	P	explicit	-	-	-	-	-	-	human	Age and Aβ levels had independent effects on HAR	-
+A105	-	U	-	-	-	-	-	-	-	mouse-rat	-	-
+A295	-	P	explicit	-	-	-	-	-	-	mouse-rat	prevented the age-dependent decrease in slow-twitch muscle fiber function	-
+A121	-	U	-	-	-	-	-	-	-	other	-	-
+A004	-	P	explicit	-	-	-	-	-	-	mouse-rat	RNA synthesis decreased by 41% in senescent hepatocytes	-
+A336	-	P	implicit	-	-	-	-	-	-	mouse-rat	caloric restriction can revert only some age-related changes	-
+A230	-	U	-	-	-	-	-	-	-	human	-	-
+A305	-	U	-	-	-	-	-	-	-	mouse-rat	-	-
+A003	-	DEV	-	-	-	-	-	-	-	mouse-rat	developing rat	-
+A110	-	P	implicit	-	-	-	-	-	-	human	progressive loss of muscle mass with advancing age	-
+A301	-	P	explicit	-	-	-	-	-	-	mouse-rat	declines in follicular reserve	-
+A342	-	P	implicit	-	-	-	-	-	-	human	decreased bone mass increased risk of fracture	-
+A248	-	DEV	-	-	-	-	-	-	-	human	children compared to platelets from adults	-
+A213	-	P	explicit	-	-	-	-	-	-	human	modest age-related differences in self-reported sleep quality	-
+A319	-	P	implicit	-	-	-	-	-	-	mouse-rat	Age-related bone loss in mice is associated with senescent cells	-
+A066	-	P	explicit	-	-	-	-	-	-	human	significant lowering of SFF with age	-
+A246	-	P	explicit	-	-	-	-	-	-	mouse-rat	decreased peroxisomal beta-oxidation with aging	-
+A127	-	P	implicit	-	-	-	-	-	-	human	progressive decrease in physiological capacity	-
+A199	-	P	implicit	-	-	-	-	-	-	human	age-related increases in inflammatory agents	-
+A064	-	U	-	-	-	-	-	-	-	human	-	-
+A131	-	U	-	-	-	-	-	-	-	human	-	-
+A149	-	P	implicit	-	-	-	-	-	-	human	intrinsic age-related changes in neutrophil responses	-
+A060	-	U	-	-	-	-	-	-	-	mouse-rat	-	-
+A170	-	P	explicit	-	-	-	-	-	-	mouse-rat	progressive accumulation of lipofuscin in neuronal cells	-
+A261	-	P	explicit	-	-	-	-	-	-	human	mortality has been declining	-

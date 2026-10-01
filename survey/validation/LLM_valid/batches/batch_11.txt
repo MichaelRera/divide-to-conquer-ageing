@@ -1,0 +1,201 @@
+BATCH 11: 50 records (B318 ... B229)
+
+### B318 | arm B | 2025
+Title: SIRT3 deficiency exacerbates cognitive decline by disrupting mitochondrial antioxidant homeostasis in D-galactose-induced aging mice.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B073 | arm B | 1999
+Title: An unlearned principle for controlling natural movements.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B017 | arm B | 1991
+Title: 99mTc-d,l-HMPAO and SPECT of the brain in normal aging.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B195 | arm B | 2001
+Title: Estimation of bivariate measurements having different change points, with application to cognitive ageing.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B015 | arm B | 1995
+Title: Dimensions of spatial acuity in the touch sense: changes over the life span.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B140 | arm B | 2004
+Title: The positive regulatory effect of TGF-beta2 on primitive murine hemopoietic stem and progenitor cells is dependent on age, genetic background, and serum factors.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B074 | arm B | 1990
+Title: The age-associated decline in glomerular filtration in healthy normotensive volunteers. Lack of relationship to cardiovascular performance.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B056 | arm B | 1998
+Title: A prospective study of cognitive function and onset of dementia in cognitively healthy elders.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B272 | arm B | 2015
+Title: Is Social Capital a Determinant of Oral Health among Older Adults? Findings from the English Longitudinal Study of Ageing.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B385 | arm B | 2025
+Title: The impact of behavioral patterns on accelerated aging in the UK biobank.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B181 | arm B | 2006
+Title: Genetics of aging: implications for drug discovery and development.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B089 | arm B | 1995
+Title: Glucocorticoids, hippocampal corticosteroid receptor gene expression and antidepressant treatment: relationship with spatial learning in young and aged rats.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B020 | arm B | 1999
+Title: Older subjects show no age-related decrease in cardiac baroreceptor sensitivity.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B187 | arm B | 2008
+Title: Tissue-specific accelerated aging in nucleotide excision repair deficiency.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B051 | arm B | 1996
+Title: Health and social precursors of later life retirement-community migration.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B235 | arm B | 2017
+Title: A new role for oxidative stress in aging: The accelerated aging phenotype in Sod1-/- mice is correlated to increased cellular senescence.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B164 | arm B | 2003
+Title: Driving cessation in older men with dementia.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B374 | arm B | 2021
+Title: Prevalence of Mild Cognitive Impairment in the Lothian Birth Cohort 1936.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B211 | arm B | 2014
+Title: Material properties of aged human mitral valve leaflets.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B244 | arm B | 2019
+Title: Childhood Adversity and Adult Health: The Role of Developmental Timing and Associations With Accelerated Aging.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B200 | arm B | 2008
+Title: Direct parameterization of postural stability during quiet upright stance: effects of age and altered sensory conditions.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B013 | arm B | 1992
+Title: Effects of ethanol on Na(+)-dependent amino acid uptake: dependence on rat age and Na+, K(+)-ATPase activity.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B061 | arm B | 1997
+Title: An analysis of age and body weight at first calving for Holsteins in the United States.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B041 | arm B | 1999
+Title: Stochastic mechanism of cellular aging--abrupt telomere shortening as a model for stochastic nature of cellular aging.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B198 | arm B | 2009
+Title: Heart rate variability and its changes over 5 years in older adults.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B126 | arm B | 2007
+Title: The dynamics of structural and functional complexity across the lifespan.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B219 | arm B | 2019
+Title: Transitioning From Successful Aging: A Life Course Approach.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B156 | arm B | 2009
+Title: Mechanical behavior of human cortical bone in cycles of advancing tensile strain for two age groups.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B084 | arm B | 1992
+Title: Modulation of embryonic and muscle-specific enolase gene products in the developing mouse hindlimb.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B152 | arm B | 2009
+Title: The circadian clock gene period extends healthspan in aging Drosophila melanogaster.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B162 | arm B | 2007
+Title: Normal EEG of premature infants born between 24 and 30 weeks gestational age: terminology, definitions and maturation aspects.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B247 | arm B | 2017
+Title: Ectopic fat deposition contributes to age-associated pathology in Caenorhabditis elegans.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B327 | arm B | 2022
+Title: Sex Differences in the Association Between Metabolic Dysregulation and Cognitive Aging: The Health and Retirement Study.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B107 | arm B | 2008
+Title: Alcohol exposure and cognitive development: an example of why we need a contextualized, dynamic life course approach to cognitive ageing--a mini-review.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B205 | arm B | 2010
+Title: Developmental changes in cerebral grey and white matter volume from infancy to adulthood.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B002 | arm B | 1991
+Title: Bone mineral content of British and rural Gambian women aged 18-80+ years.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B072 | arm B | 1990
+Title: Resting and sleeping energy expenditure in the elderly.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B349 | arm B | 2024
+Title: Purpose in Life Links Positive Aging Views to Life Satisfaction: A Within-Person Analysis Spanning 13 Years.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B315 | arm B | 2025
+Title: Design principles of gene circuits for longevity.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B026 | arm B | 1997
+Title: Undernutrition and aging.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B215 | arm B | 2018
+Title: A spatio-temporal reference model of the aging brain.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B386 | arm B | 2021
+Title: Longitudinal Analysis of Sleep Spindle Maturation from Childhood through Late Adolescence.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B341 | arm B | 2025
+Title: MRI signature of brain age underlying post-traumatic stress disorder in World Trade Center responders.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B289 | arm B | 2018
+Title: DNA methylation in ELOVL2 and C1orf132 correctly predicted chronological age of individuals from three disease groups.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B064 | arm B | 1992
+Title: Age-specific correlation analysis of longitudinal physical fitness levels in men.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B367 | arm B | 2023
+Title: Blunted Rest-Activity Circadian Rhythm Is Associated With Increased Rate of Biological Aging: An Analysis of NHANES 2011-2014.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B350 | arm B | 2021
+Title: mTORC1 Activation in Chx10-Specific Tsc1 Knockout Mice Accelerates Retina Aging and Degeneration.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B323 | arm B | 2025
+Title: Changes in Higuchi Fractal Dimension Across Age in Healthy Human EEG Are Anticorrelated With Changes in Oscillatory Power and 1/f Slope.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B039 | arm B | 1996
+Title: Effect of age on superoxide dismutase activity of human trabecular meshwork.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B229 | arm B | 2020
+Title: Targeting miRNAs by polyphenols: Novel therapeutic strategy for aging.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]

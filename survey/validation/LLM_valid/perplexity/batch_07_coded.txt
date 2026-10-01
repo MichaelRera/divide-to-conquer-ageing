@@ -1,0 +1,51 @@
+review_id	screen_relevant	trajectory_code	explicitness	level	scale	observation	anchor	reversibility	meaning	organism	evidence_quote	notes
+A331	-	NC	explicit	physiological-functional	population	observed	chronological age	-	-	mouse-rat	less elevated in HFS condition with advancing age	-
+A201	-	U	-	-	-	-	-	-	-	human	-	-
+A135	-	U	-	-	-	-	-	-	-	human	-	-
+A180	-	P	explicit	-	-	-	-	-	-	mouse-rat	numbers of newborn neuronal cells decreased dramatically	-
+A015	-	P	explicit	-	-	-	-	-	-	human	networks nearly half as large	-
+A070	-	U	-	-	-	-	-	-	-	human	-	-
+A085	-	P	explicit	-	-	-	-	-	-	human	occurrence increased with age	-
+A112	-	P	explicit	-	-	-	-	-	-	human	renal vasoconstriction is enhanced with aging	-
+A140	-	DEV	-	-	-	-	-	-	-	human	healthy pediatric population	-
+A185	-	U	-	-	-	-	-	-	-	human	-	-
+A007	-	DEV	-	-	-	-	-	-	-	other	with increasing age	-
+A046	-	P	implicit	-	-	-	-	-	-	human	Normal age-related changes result in decline in function	-
+A150	-	P	implicit	-	-	-	-	-	-	human	dual-task time costs were greater in older adults	-
+A160	-	U	-	-	-	-	-	-	-	C. elegans	-	-
+A348	-	P	implicit	-	-	-	-	-	-	human	Aging increases susceptibility to molecular damage	-
+A062	-	P	implicit	-	-	-	-	-	-	mouse-rat	Aging alters ion regulation in brain tissue	-
+A324	-	U	-	-	-	-	-	-	-	other	-	-
+A339	-	U	-	-	-	-	-	-	-	human	-	-
+A148	-	DEV	-	-	-	-	-	-	-	human	Infants responded poorly compared with young children	-
+A323	-	P	implicit	-	-	-	-	-	-	human	starts to shift towards a less healthy one	-
+A204	-	U	-	-	-	-	-	-	-	human	-	-
+A279	-	DEV	-	-	-	-	-	-	-	other	juvenile striped bass	-
+A321	-	U	-	-	-	-	-	-	-	other	-	-
+A017	-	U	-	-	-	-	-	-	-	human	-	-
+A298	-	U	-	-	-	-	-	-	-	human	-	-
+A059	-	U	-	-	-	-	-	-	-	human	-	-
+A020	-	NC	explicit	physiological-functional	population	observed	physiological state	-	-	human	increase in coronary heart disease risk factors as women pass menopause	-
+A165	-	P	implicit	-	-	-	-	-	-	human	efficiency and fidelity of repair declines with age	-
+A330	-	U	-	-	-	-	-	-	-	mouse-rat	-	-
+A090	-	DEV	-	-	-	-	-	-	-	human	intracranial volume change in childhood	-
+A232	-	DEV	-	-	-	-	-	-	-	mouse-rat	developmental stage-dependent manner	-
+A080	-	P	explicit	-	-	-	-	-	-	human	loneliness scores increased	-
+A056	-	U	-	-	-	-	-	-	-	human	-	-
+A083	-	NC	explicit	physiological-functional	population	observed	chronological age	-	-	mouse-rat	contractile responses increased with age in rat aorta but decreased in rabbit	-
+A344	-	U	-	-	-	-	-	-	-	human	-	-
+A147	-	P	explicit	-	-	-	-	-	-	human	EMG variables significantly smaller in older group	-
+A320	-	U	-	-	-	-	-	-	-	multiple	-	-
+A340	-	P	implicit	-	-	-	-	-	-	human	Age-associated reduction in endothelial nitric oxide synthesis	-
+A087	-	P	implicit	-	-	-	-	-	-	human	mobility impairment 30% under and 58% over age 75	-
+A194	-	P	explicit	-	-	-	-	-	-	mouse-rat	Senescent tubular cells increased at 3 and 6 months	-
+A216	-	D	explicit	physiological-functional	population	inferred	disease or pathology	not stated	continuum from normal through aMCI to AD	human	continuum from normal through aMCI to AD	-
+A223	-	NC	explicit	physiological-functional	individual	inferred	chronological age	-	-	human	five distinct trajectory subgroups emerged	-
+A326	-	P	implicit	-	-	-	-	-	-	Drosophila	decline in adult stem cell performance	-
+A002	-	P	implicit	-	-	-	-	-	-	human	reduction in liver size and blood flow with advancing age	-
+A197	-	DEV	-	-	-	-	-	-	-	mouse-rat	growth of long bones	-
+A281	-	P	implicit	-	-	-	-	-	-	human	Nodal cell numbers decrease with age	-
+A346	-	P	explicit	-	-	-	-	-	-	mouse-rat	Global reduction in PUFAs in aged LGs	-
+A011	-	DEV	-	-	-	-	-	-	-	other	postnatal development	-
+A081	-	U	-	-	-	-	-	-	-	human	-	-
+A145	-	P	explicit	-	-	-	-	-	-	human	thereafter they showed a tendency to decrease	-

@@ -1,0 +1,51 @@
+review_id	screen_relevant	trajectory_code	explicitness	level	scale	observation	anchor	reversibility	meaning	organism	evidence_quote	notes
+A331	-	P	implicit	-	-	-	-	-	-	mouse-rat	became clearly less elevated in the HFS condition with advancing age	-
+A201	-	U	-	-	-	-	-	-	-	human	-	-
+A135	-	U	-	-	-	-	-	-	-	human	-	-
+A180	-	P	implicit	-	-	-	-	-	-	mouse-rat	capacity of neurogenesis in older rats was considerably lower than that	-
+A015	-	U	-	-	-	-	-	-	-	human	-	-
+A070	-	U	-	-	-	-	-	-	-	human	-	-
+A085	-	P	implicit	-	-	-	-	-	-	human	walking pattern tended to change according to age	-
+A112	-	P	implicit	-	-	-	-	-	-	human	Static exercise-induced renal vasoconstriction is enhanced with aging	-
+A140	-	P	implicit	-	-	-	-	-	-	human	correlated negatively with folate and vitamin B-12(,) but positively with age	-
+A185	-	U	-	-	-	-	-	-	-	human	-	-
+A007	-	DEV	-	-	-	-	-	-	-	other	With increasing age, the increase in the mean value for beta	-
+A046	-	P	implicit	-	-	-	-	-	-	human	Normal age-related changes in the musculoskeletal, neurologic, and cardiopulmonary systems	-
+A150	-	P	implicit	-	-	-	-	-	-	human	ability to coordinate the processing of two tasks did not decline with age	-
+A160	-	U	-	-	-	-	-	-	-	C. elegans	-	-
+A348	-	P	implicit	-	-	-	-	-	-	human	Aging is associated with inflammation and oxidative stress	-
+A062	-	P	implicit	-	-	-	-	-	-	mouse-rat	how aging alters ion regulation in brain tissue	-
+A324	-	P	implicit	-	-	-	-	-	-	other	Seed ageing curves were constructed	-
+A339	-	U	-	-	-	-	-	-	-	human	-	-
+A148	-	DEV	-	-	-	-	-	-	-	human	-	-
+A323	-	P	implicit	-	-	-	-	-	-	human	starts to shift towards a less healthy one	-
+A204	-	U	-	-	-	-	-	-	-	human	-	-
+A279	-	U	-	-	-	-	-	-	-	other	-	-
+A321	-	U	-	-	-	-	-	-	-	other	-	-
+A017	-	U	-	-	-	-	-	-	-	human	-	-
+A298	-	P	implicit	-	-	-	-	-	-	human	mechanisms of cellular aging	-
+A059	-	U	-	-	-	-	-	-	-	human	-	-
+A020	-	NC	implicit	physiological-functional	population	inferred	chronological age	-	-	human	coronary heart disease risk factors in women as they pass through the menopause	-
+A165	-	P	implicit	-	-	-	-	-	-	human	efficiency and fidelity of repair declines with age	-
+A330	-	U	-	-	-	-	-	-	-	mouse-rat	-	-
+A090	-	DEV	-	-	-	-	-	-	-	human	change in intracranial volume that occurs with age is not linear	-
+A232	-	DEV	-	-	-	-	-	-	-	mouse-rat	propofol impairs the survival and maturation of adult-born hippocampal neurons	-
+A080	-	P	implicit	-	-	-	-	-	-	human	whether loneliness increases in old age	-
+A056	-	U	-	-	-	-	-	-	-	human	-	-
+A083	-	P	implicit	-	-	-	-	-	-	multiple	EC50 values of noradrenaline in rat aorta increased with age	-
+A344	-	U	-	-	-	-	-	-	-	human	-	-
+A147	-	P	implicit	-	-	-	-	-	-	human	neuromuscular adaptation that occurs with aging	-
+A320	-	U	-	-	-	-	-	-	-	multiple	-	-
+A340	-	P	implicit	-	-	-	-	-	-	human	Age-associated reduction in endothelial nitric oxide (NO) synthesis	-
+A087	-	U	-	-	-	-	-	-	-	human	-	-
+A194	-	U	-	-	-	-	-	-	-	mouse-rat	-	-
+A216	-	U	-	-	-	-	-	-	-	human	-	-
+A223	-	NC	explicit	physiological-functional	individual	inferred	chronological age	-	-	human	accelerated increase over time	-
+A326	-	P	implicit	-	-	-	-	-	-	other	reversing age-induced hyperproliferation and intestinal dysfunction	-
+A002	-	P	implicit	-	-	-	-	-	-	multiple	reduction in liver size and blood flow with advancing age	-
+A197	-	DEV	-	-	-	-	-	-	-	mouse-rat	effect of carbimazole induced hypothyroidism and thyroxine replacement, on the growth	-
+A281	-	P	implicit	-	-	-	-	-	-	human	Nodal cell numbers decrease with age as part of the normal aging process	-
+A346	-	P	implicit	-	-	-	-	-	-	mouse-rat	Changes in PUFA metabolism were compared between lacrimal glands (LGs) from young and aged	-
+A011	-	DEV	-	-	-	-	-	-	-	other	postnatal development of bilirubin accumulation by the choroid plexus was studied	-
+A081	-	U	-	-	-	-	-	-	-	human	-	-
+A145	-	NC	implicit	molecular	population	inferred	chronological age	-	-	human	highest between 20 and 30 years of age, and thereafter they showed a tendency to decrease	-

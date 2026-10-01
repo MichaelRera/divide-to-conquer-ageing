@@ -1,0 +1,201 @@
+BATCH 10: 50 records (B277 ... B238)
+
+### B277 | arm B | 2018
+Title: Both hyper- and hypo-activation to cognitive challenge are associated with increased beta-amyloid deposition in healthy aging: A nonlinear effect.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B038 | arm B | 1999
+Title: The thymus-pituitary axis and its changes during aging.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B121 | arm B | 2001
+Title: The process of aging changes the interplay of the immune, endocrine and nervous systems.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B381 | arm B | 2022
+Title: The Temporal Relationship Between Self-Acceptance and Generativity over Two Decades.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B169 | arm B | 2000
+Title: Models of health-related quality of life in a population of community-dwelling Dutch elderly.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B366 | arm B | 2020
+Title: Health and Housework in Later Life: A Longitudinal Study of Retired Couples.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B316 | arm B | 2021
+Title: Role of Klotho in the Development of Essential Hypertension.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B160 | arm B | 2007
+Title: A new mutation in TP63 is associated with age-related pathology.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B182 | arm B | 2008
+Title: Accelerated telomere shortening and replicative senescence in human fibroblasts overexpressing mutant and wild-type lamin A.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B281 | arm B | 2014
+Title: Association between informal caregiving and cellular aging in the survey of the health of wisconsin: the role of caregiving characteristics, stress, and strain.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B036 | arm B | 1997
+Title: Age-specific reference values for serum prostate-specific antigen in a community-based population of healthy Swedish men.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B085 | arm B | 1991
+Title: Changes in heart rhythm power spectrum during human aging.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B128 | arm B | 2007
+Title: Reproduction, longevity and life table parameters of Tyrophagus neiswanderi (Acari: Acaridae) at constant temperatures.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B260 | arm B | 2017
+Title: The Canadian HIV and aging cohort study - determinants of increased risk of cardio-vascular diseases in HIV-infected individuals: rationale and study protocol.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B280 | arm B | 2019
+Title: Gradual Change, Homeostasis, and Punctuated Equilibrium: Reconsidering Patterns of Health in Later Life.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B138 | arm B | 2009
+Title: Longitudinal study of the transition from healthy aging to Alzheimer disease.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B115 | arm B | 2006
+Title: Systemically administered bone morphogenetic protein-6 restores bone in aged ovariectomized rats by increasing bone formation and suppressing bone resorption.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B326 | arm B | 2025
+Title: Adverse changes in close social ties reduce fruit and vegetable intake in aging adults: a prospective gender-sensitive study of the Canadian longitudinal study on aging (CLSA).
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B018 | arm B | 1995
+Title: Lipofuscin as a record of "rate of living" in an aquatic poikilotherm.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B263 | arm B | 2018
+Title: Horizons in the evolution of aging.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B066 | arm B | 1994
+Title: Age-related changes in the induction of tyrosine aminotransferase by dexamethasone: correlation with the low-affinity glucocorticoid binding sites.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B311 | arm B | 2025
+Title: The dynamics of hematopoiesis over the human lifespan.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B183 | arm B | 2003
+Title: Determination of kinetic rate constants for 2-[18F]fluoro-2-deoxy-D-glucose and partition coefficient of water in conscious macaques and alterations in aging or anesthesia examined on parametric images with an anatomic standardization technique.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B109 | arm B | 2009
+Title: Protein aggregation as a paradigm of aging.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B161 | arm B | 2008
+Title: Predicting impending death: inconsistency in speed is a selective and early marker.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B252 | arm B | 2018
+Title: Age- and sex-dependent changes in sympathetic activity of the left ventricular apex assessed by 18F-DOPA PET imaging.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B319 | arm B | 2021
+Title: Genes Related to Education Predict Frailty Among Older Adults in the United States.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B324 | arm B | 2021
+Title: Predicting quantity and quality of life with the Future Elderly Model.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B090 | arm B | 1998
+Title: Age-related decline of bone mass and intestinal calcium absorption in normal males.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B142 | arm B | 2005
+Title: Nonlinear elastic-viscoplastic constitutive equations for aging facial tissues.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B023 | arm B | 1997
+Title: Rapid accumulation of genome rearrangements in liver but not in brain of old mice.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B283 | arm B | 2013
+Title: Atypical aging in Down syndrome.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B153 | arm B | 2010
+Title: Productive activities and development of frailty in older adults.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B135 | arm B | 2007
+Title: Development of progressive aortic vasculopathy in a rat model of aging.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B053 | arm B | 1992
+Title: Effect of sialectomy on the superior cervical ganglion sympathetic neurons in young adult and aged mice.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B170 | arm B | 2003
+Title: Cell ageing for 1 day alters both membrane elasticity and viscosity.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B080 | arm B | 1993
+Title: Life span reduction and carcinogenesis in the progeny of rats exposed neonatally to 5-bromo-2'-deoxyuridine.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B197 | arm B | 2001
+Title: The reduction of nitroblue tetrazolium by red blood cells: a measure of Red Cell membrane antioxidant capacity and hemoglobin-membrane binding sites.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B189 | arm B | 2006
+Title: Validation of an approximate approach to compute genetic correlations between longevity and linear traits.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B301 | arm B | 2020
+Title: Education and Cognition in Middle Age and Later Life: The Mediating Role of Physical and Cognitive Activity.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B030 | arm B | 1991
+Title: An epidemiologic estimate of the critical period during which human maxillary central incisors are most susceptible to fluorosis.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B193 | arm B | 2008
+Title: Development of catching by children in kindergarten to grade 8: a multicohort longitudinal study.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B304 | arm B | 2020
+Title: Resting-State Functional Connectivity Dynamics in Healthy Aging: An Approach Through Network Change Point Detection.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B294 | arm B | 2013
+Title: Complexity of spontaneous BOLD activity in default mode network is correlated with cognitive function in normal male elderly: a multiscale entropy analysis.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B062 | arm B | 1993
+Title: Transplanted sympathetic neurons from old rats survive in the anterior eye chamber: a histochemical and electron microscopic study.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B057 | arm B | 1998
+Title: Regional changes in glucose metabolism during brain development from the age of 6 years.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B143 | arm B | 2000
+Title: Adrenergic nerves compensate for a decline in calcium buffering during ageing.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B207 | arm B | 2018
+Title: The mediating effect of coping style on personality and mental health among elderly Chinese empty-nester: A cross-sectional study.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B273 | arm B | 2012
+Title: Social resources and change in functional health: comparing three age groups.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B238 | arm B | 2016
+Title: Forearm muscle quality as a better indicator of physical performance than handgrip strength in older male ground golf players aged 70 to 89.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]

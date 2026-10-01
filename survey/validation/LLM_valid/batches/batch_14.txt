@@ -1,0 +1,201 @@
+BATCH 14: 50 records (B078 ... B225)
+
+### B078 | arm B | 1991
+Title: Physiology of murine B lymphocytes. II. Life-spans of mitogen and thymus-independent antigen (type 2) reactive B lymphocytes from aged mice.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B258 | arm B | 2013
+Title: Corneal endothelial cells provide evidence of accelerated cellular senescence associated with HIV infection: a case-control study.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B230 | arm B | 2012
+Title: Childhood misfortune as a threat to successful aging: avoiding disease.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B150 | arm B | 2005
+Title: Accelerated aging pathology in ad libitum fed Xpd(TTD) mice is accompanied by features suggestive of caloric restriction.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B321 | arm B | 2026
+Title: Aging anxiety and epigenetic aging in a national sample of adult women in the United States.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B259 | arm B | 2018
+Title: Risk factors for self-reported diabetes among Bhutanese adults: A nationally representative survey data analysis.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B371 | arm B | 2020
+Title: The Protective Effect of Adiponectin-Transfected Endothelial Progenitor Cells on Cognitive Function in D-Galactose-Induced Aging Rats.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B330 | arm B | 2025
+Title: Human Pluripotent Stem Cell-Derived Skeletal Muscle Organoid Model of Aging-Induced Sarcopenia.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B266 | arm B | 2016
+Title: Parent-Child Relationships and Parent Psychological Distress: How Do Social Support, Strain, Dissatisfaction, and Equity Matter?
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B342 | arm B | 2026
+Title: How social isolation accelerates biological aging: Exploring underlying behavioral and psychological mechanisms.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B313 | arm B | 2020
+Title: PTSD and the klotho longevity gene: Evaluation of longitudinal effects on inflammation via DNA methylation.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B248 | arm B | 2014
+Title: Smoking accelerates aging of the small airway epithelium.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B144 | arm B | 2008
+Title: Optical power of the isolated human crystalline lens.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B092 | arm B | 1997
+Title: The thickness of human vertebral cortical bone and its changes in aging and osteoporosis: a histomorphometric analysis of the complete spinal column from thirty-seven autopsy specimens.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B179 | arm B | 2002
+Title: Aging has a complex effect on a rat model of ischemic stroke.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B296 | arm B | 2014
+Title: Age and activation determines the anticonvulsant effect of ifenprodil in rats.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B037 | arm B | 1998
+Title: A kinematic comparison between elderly and young subjects standing up from and sitting down in a chair.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B088 | arm B | 1993
+Title: Generation of senescent cell antigen on old cells initiates IgG binding to a neoantigen.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B065 | arm B | 1990
+Title: Cortical microvessels during brain development: a morphometric study in the rat.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B358 | arm B | 2024
+Title: Biological aging mediates the associations of metabolic score for insulin resistance with all-cause and cardiovascular disease mortality among US adults: A nationwide cohort study.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B361 | arm B | 2025
+Title: Approaches to Timescale Choice in Cognitive Aging Research and Potential Implications for Estimated Exposure Effects: Coordinated Analyses in 10 Cohorts of Older Adults.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B201 | arm B | 2010
+Title: Patterns of longitudinal change in older adults' self-rated health: the effect of the point of reference.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B303 | arm B | 2025
+Title: Machine learning in epidemiology: An introduction, comparison with traditional methods, and a case study of predicting extreme longevity.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B117 | arm B | 2005
+Title: A 18F-MPPF PET normative database of 5-HT1A receptor binding in men and women over aging.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B194 | arm B | 2006
+Title: The effect of age on the systemic absorption and systemic disposition of ropivacaine after epidural administration.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B127 | arm B | 2004
+Title: Male sexuality with advancing age.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B076 | arm B | 1995
+Title: Regional distribution and developmental variation of the glycine transporters GLYT1 and GLYT2 in the rat CNS.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B184 | arm B | 2005
+Title: Diabetic neuropathy is a more important determinant of baroreflex sensitivity than carotid elasticity in type 2 diabetes.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B222 | arm B | 2017
+Title: Quantitative neurobiological evidence for accelerated brain aging in alcohol dependence.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B352 | arm B | 2024
+Title: Common Characteristics Between Frailty and Myotonic Dystrophy Type 1: A Narrative Review.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B068 | arm B | 1997
+Title: Rapid decrease of glycogen concentration in the hearts of senescence-accelerated mice during aging.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B131 | arm B | 2009
+Title: Stepwise up-regulation of microRNA expression levels from replicating to reversible and irreversible growth arrest states in WI-38 human fibroblasts.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B105 | arm B | 2009
+Title: Age-related ocular vascular changes.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B286 | arm B | 2012
+Title: Angiotensin II receptor activation in youth triggers persistent insulin resistance and hypertension--a legacy effect?
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B278 | arm B | 2013
+Title: Effect of intermittent glutamine supplementation on skeletal muscle is not long-lasting in very old rats.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B261 | arm B | 2018
+Title: Loss of XBP1 accelerates age-related decline in retinal function and neurodegeneration.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B356 | arm B | 2025
+Title: Combining a novel ensemble model and multiplex methylation SNaPshot assays for saliva age prediction and cross-platform data analysis.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B292 | arm B | 2013
+Title: Vascular calcifications, arterial aging and arterial remodeling in ESRD.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B202 | arm B | 2013
+Title: Thyroid stimulating hormone, free thyroxine and cognitive ability in old age: the Lothian Birth Cohort Study 1936.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B032 | arm B | 1993
+Title: Paired helical filament-like inclusions and Hirano bodies in the mesencephalic nucleus of the trigeminal nerve in the aged rat.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B116 | arm B | 2009
+Title: Ionizing radiation and aging: rejuvenating an old idea.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B136 | arm B | 2004
+Title: Cognitive status and development in the oldest old: a longitudinal analysis from the Heidelberg Centenarian Study.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B091 | arm B | 1991
+Title: Differential regulation of intestinal amino-oligopeptidase gene expression in neonatal and adult rats.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B328 | arm B | 2020
+Title: Towards delineating the chain of events that cause premature senescence in the accelerated aging syndrome Hutchinson-Gilford progeria (HGPS).
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B199 | arm B | 2005
+Title: Lifelong physical training prevents the age-related impairment of heart rate variability and exercise capacity in elderly people.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B130 | arm B | 2007
+Title: Cell cycle checkpoints: the role and evaluation for early diagnosis of senescence, cardiovascular, cancer, and neurodegenerative diseases.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B268 | arm B | 2016
+Title: Is Chronic Obstructive Pulmonary Disease an Accelerated Aging Disease?
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B373 | arm B | 2025
+Title: Multi-omic profiling reveals age-related immune dynamics in healthy adults.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B119 | arm B | 2009
+Title: Relative roles of TGF-beta1 and Wnt in the systemic regulation and aging of satellite cell responses.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B225 | arm B | 2013
+Title: Effect of age on MRI phase behavior in the subcortical deep gray matter of healthy individuals.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]

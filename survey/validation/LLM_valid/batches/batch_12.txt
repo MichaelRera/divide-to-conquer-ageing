@@ -1,0 +1,201 @@
+BATCH 12: 50 records (B139 ... B163)
+
+### B139 | arm B | 2003
+Title: Can growth hormone (GH) accelerate aging? Evidence from GH-transgenic mice.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B154 | arm B | 2000
+Title: A melatonin agonist facilitates circadian resynchronization in old hamsters after abrupt shifts in the light-dark cycle.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B217 | arm B | 2014
+Title: Age and interviewer behavior as predictors of interrogative suggestibility.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B029 | arm B | 1999
+Title: Interrelationships of bladder compliance with age, detrusor instability, and obstruction in elderly men with lower urinary tract symptoms.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B010 | arm B | 1996
+Title: Age related dilatation of the right ventricle in arrhythmogenic right ventricular dysplasia-cardiomyopathy.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B132 | arm B | 2004
+Title: Biological age and 12-year cognitive change in older adults: findings from the Victoria Longitudinal Study.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B237 | arm B | 2014
+Title: Reversible, irreversible and effective transverse relaxation rates in normal aging brain at 3T.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B279 | arm B | 2014
+Title: New advances in CMV and immunosenescence.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B106 | arm B | 2004
+Title: Nuclear factor kappa B activation by NADPH oxidases.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B355 | arm B | 2024
+Title: Childhood and Adulthood Trauma Associate With Cognitive Aging Among Black and White Older Adults.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B396 | arm B | 2025
+Title: Nonlinear ageing gero-marker dynamics of transcriptomic profile during calcific aortic valve mouse modeling.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B334 | arm B | 2020
+Title: Regional patterns and trends of hearing loss in England: evidence from the English longitudinal study of ageing (ELSA) and implications for health policy.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B287 | arm B | 2013
+Title: Immunoparesis and monoclonal gammopathy of undetermined significance are disassociated in advanced age.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B274 | arm B | 2017
+Title: Cockayne syndrome: Clinical features, model systems and pathways.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B285 | arm B | 2018
+Title: Lifespan Kras mutation levels in lung and liver of B6C3F1 mice.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B291 | arm B | 2016
+Title: Cannabis exposure as an interactive cardiovascular risk factor and accelerant of organismal ageing: a longitudinal study.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B069 | arm B | 1998
+Title: Lack of correlation between the effects of transient exposure to glutamate and those of hypoxia/reoxygenation in immature neurons in vitro.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B234 | arm B | 2017
+Title: Serum uric acid and impaired cognitive function in community-dwelling elderly in Beijing.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B310 | arm B | 2023
+Title: Binding objects to their spatiotemporal context: Age gradient and neuropsychological correlates of What-Where-When task performance.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B353 | arm B | 2025
+Title: Supplement-driven iron overload accelerates phenotypic aging via inflammatory biomarkers: Potential counteraction through anti-inflammatory or antioxidant diets.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B212 | arm B | 2016
+Title: Cohort Profile: The Social Environment and Biomarkers of Aging Study (SEBAS) in Taiwan.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B124 | arm B | 2007
+Title: Overexpressing the glucocorticoid receptor in forebrain causes an aging-like neuroendocrine phenotype and mild cognitive dysfunction.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B040 | arm B | 1999
+Title: Attentional capture and aging: implications for visual search performance and oculomotor control.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B370 | arm B | 2023
+Title: A biphasic effect of age on CPAP adherence: a cross-sectional study of 26,343 patients.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B288 | arm B | 2016
+Title: The Protective Effects of Religiosity on Depression: A 2-Year Prospective Study.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B354 | arm B | 2024
+Title: The effect of different types of cognitive tasks on postural sway fluctuations in older and younger adults: A nonlinear study.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B362 | arm B | 2023
+Title: What Do EURO-D Scores Capture? Disentangling Trait and State Variances in Depression Symptoms Across the Adult Life Span in Nine European Nations.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B262 | arm B | 2013
+Title: Effect of age and exercise on the viscoelastic properties of rat tail tendon.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B383 | arm B | 2024
+Title: Depression and Accelerated Aging: The Eveningness Chronotype and Low Adherence to the Mediterranean Diet Are Associated with Depressive Symptoms in Older Subjects.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B021 | arm B | 1993
+Title: A practical equation to predict resting metabolic rate in older men.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B104 | arm B | 2007
+Title: Assessment of age-related changes in inhibition and binding using eye movement monitoring.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B293 | arm B | 2010
+Title: Factors associated with sow stayability in 6 genotypes.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B251 | arm B | 2021
+Title: Patterns of family support exchange and personal mastery in later life: a longitudinal study.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B146 | arm B | 2008
+Title: Fewer active motors per vesicle may explain slowed vesicle transport in chick motoneurons after three days in vitro.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B087 | arm B | 1997
+Title: Aging and severity of hypertension attenuate endothelium-dependent renal vascular relaxation in humans.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B016 | arm B | 1992
+Title: The biphasic effect of morphine on odor conditioning in neonatal rats.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B168 | arm B | 2009
+Title: Altered nuclear functions in progeroid syndromes: a paradigm for aging research.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B176 | arm B | 2006
+Title: Expression of the glutathione enzyme system of human colon mucosa by localisation, gender and age.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B095 | arm B | 1993
+Title: Ontogeny of Na+/D-glucose cotransport in guinea-pig jejunal vesicles: only one system is involved at both 20 degrees C and 35 degrees C.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B390 | arm B | 2021
+Title: Photoreceptor Degeneration in Homozygous Male Per2luc Mice During Aging.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B397 | arm B | 2025
+Title: Transcriptomic Profiling Reveals Biphasic Regulatory Instability and Late-Stage Proteostatic Decline in Aging Mouse Oocytese.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B242 | arm B | 2018
+Title: MiR-34 inhibits polycomb repressive complex 2 to modulate chaperone expression and promote healthy brain aging.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B302 | arm B | 2021
+Title: Clinical presentation, therapeutic approach, and outcome of young patients admitted for COVID-19, with respect to the elderly counterpart.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B255 | arm B | 2017
+Title: The consequences of self-reported vision change in later-life: evidence from the English Longitudinal Study of Ageing.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B098 | arm B | 1990
+Title: The timing of treatment for Class II malocclusions in children: a literature review.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B233 | arm B | 2016
+Title: Effect of ICa,L Blockade on Adrenergic Stimulation in Developing Heart.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B322 | arm B | 2025
+Title: Epigenetic age across development in children and adolescents with ADHD.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B157 | arm B | 2005
+Title: Ageing and switching of the focus of attention in working memory: results from a modified N-back task.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B329 | arm B | 2024
+Title: The Association between Dietary Nutrient Intake and Acceleration of Aging: Evidence from NHANES.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B163 | arm B | 2009
+Title: The global dynamics of a discrete juvenile-adult model with continuous and seasonal reproduction.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]

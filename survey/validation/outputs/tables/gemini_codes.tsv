@@ -1,0 +1,749 @@
+review_id	screen_relevant	trajectory_code	explicitness	level	scale	observation	anchor	reversibility	meaning	organism	evidence_quote	notes	_batch	own_batch	arm	pmid	priority_10pct	coder_id
+A119		DEV								human	does maturation matter		1	True	A	14523305	1	Gemini Flash 3.6
+A253		P	explicit							human	ADL score increased on average by 0.03 for every year respondents aged		1	True	A	26993585	1	Gemini Flash 3.6
+A343		U								human	describes the profile of biomarkers and genetic data available in the MHAS study		1	True	A	39692026	1	Gemini Flash 3.6
+A094		U								mouse-rat	MNase as well as DNase I were more active in adult than old		1	True	A	10634506	1	Gemini Flash 3.6
+A224		U								human	intra-specific differences in the pace and patterns of ageing		1	True	A	21963385	1	Gemini Flash 3.6
+A243		U								Drosophila	escalation of aggression in adult male Drosophila melanogaster		1	True	A	20520823	1	Gemini Flash 3.6
+A322		U								human	T cell senescence and exhaustion represent critical aspects of adaptive immune system dysfunction		1	True	A	40120658	1	Gemini Flash 3.6
+A192		U								human	Mg intake is inversely associated with prevalence of the MS in older adults		1	True	A	18560789	1	Gemini Flash 3.6
+A282		U								C. elegans	accumulation of MUFAs is necessary for the lifespan extension		1	True	A	28379943	1	Gemini Flash 3.6
+A153		P	implicit							other	identified in the adult gland, but they were intensified during senescence		1	True	A	20041966	1	Gemini Flash 3.6
+A206		U								multiple	effects of DR on lifespan in rats and mice		1	True	A	22210149	1	Gemini Flash 3.6
+A039		P	explicit							human	slight increase in DT in lens proteins with age		1	True	A	8509374	1	Gemini Flash 3.6
+A143		P	explicit							human	Migration activity decreased with donor age		1	True	A	14684703	1	Gemini Flash 3.6
+A104		U								none	application of high-throughput technologies to aging-related research		1	True	A	15498757	1	Gemini Flash 3.6
+A139		DEV								multiple	expression was down-regulated in brain, muscle and liver during development		1	True	A	10718294	1	Gemini Flash 3.6
+A155		U								mouse-rat	The elderly exhibit reduced responses to vaccinations		1	True	A	17125950	1	Gemini Flash 3.6
+A347		P	explicit							human	associated with poorer sleep quality across age		1	True	A	40765293	1	Gemini Flash 3.6
+A314		U								mouse-rat	assess the antioxidant capacity of lemon flavonoid extract Eriomin		1	True	A	38791260	1	Gemini Flash 3.6
+A091		U								human	A 70-year-old retired professional man		1	True	A	9733421	1	Gemini Flash 3.6
+A024		DEV								multiple	newborn (5 days old) and adult rat		1	True	A	1314516	1	Gemini Flash 3.6
+A300		U								human	Hypoxia Prevents Mitochondrial Dysfunction and Senescence		1	True	A	30629785	1	Gemini Flash 3.6
+A006		P	implicit							human	Both aging and hypertension decrease cardiac output		1	True	A	1678918	1	Gemini Flash 3.6
+A172		DEV								mouse-rat	derived from female neonatal or female postpubertal rats		1	True	A	17095591	1	Gemini Flash 3.6
+A174		P	implicit							human	The phosphorylation of TREM-1 signal transduction molecules was altered with aging		1	True	A	17336301	1	Gemini Flash 3.6
+A029		U								mouse-rat	observed in the aged rats		1	True	A	2130629	1	Gemini Flash 3.6
+A073		P	explicit							human	declined with in vitro aging, i.e. declined with increasing PDLs		1	True	A	7475350	1	Gemini Flash 3.6
+A333		U								human	centrosome abnormalities contribute to the aging process		1	True	A	39929410	1	Gemini Flash 3.6
+A144		U								multiple	define the role of telomerase in ageing		1	True	A	10799705	1	Gemini Flash 3.6
+A079		P	implicit							human	age-related increase in reliance on gist-based processing		1	True	A	9640584	1	Gemini Flash 3.6
+A052		DEV								other	ontogenetic changes in their response threshold to sucrose which was inversely related to age		1	True	A	10488557	1	Gemini Flash 3.6
+A169		P	implicit							multiple	loss of most 5mC from the DNA of various species over their lifespan		1	True	A	19464391	1	Gemini Flash 3.6
+A134		DEV								other	developmental up-regulation and down-regulation of genes		1	True	A	11852272	1	Gemini Flash 3.6
+A122		DEV								mouse-rat	nicotine-induced conditioned place preference in adolescent and adult rats		1	True	A	12213508	1	Gemini Flash 3.6
+A175		U								C. elegans	identified several genes that regulate secretion of insulin-like growth factors		1	True	A	19043554	1	Gemini Flash 3.6
+A108		NC	explicit	tissue-organ	population	inferred	chronological age			human	Lipofuscin fluorescence increased linearly until age 70, then declined		1	True	A	11431454	1	Gemini Flash 3.6
+B134	no									mouse-rat			1	True	B	16337939	1	Gemini Flash 3.6
+B178	yes	P	implicit							multiple	result in a progressive reduction in energy output		1	True	B	11040957	1	Gemini Flash 3.6
+B290	yes	NC	explicit	physiological-functional	population	inferred	proximity to death			human	Decline and acceleration of this decline were detectable in the period before death	"[authors: ""preterminal phases""]"	1	True	B	21480375	1	Gemini Flash 3.6
+B082	no									mouse-rat			1	True	B	10517806	1	Gemini Flash 3.6
+B240	no									human			1	True	B	20400446	1	Gemini Flash 3.6
+B009	no									mouse-rat			1	True	B	1673153	1	Gemini Flash 3.6
+B254	yes	NC	explicit	tissue-organ	population	inferred	chronological age			human	Physiological circumferential stretch decreased 55-75% after 45 years of age		1	True	B	25301303	1	Gemini Flash 3.6
+B393	no									multiple			1	True	B	38182079	1	Gemini Flash 3.6
+B339	no									multiple			1	True	B	40038418	1	Gemini Flash 3.6
+B209	no									other			1	True	B	30888729	1	Gemini Flash 3.6
+B384	no									human			1	True	B	41208173	1	Gemini Flash 3.6
+B014	no									human			1	True	B	8614925	1	Gemini Flash 3.6
+B172	no									human			1	True	B	16638781	1	Gemini Flash 3.6
+B060	yes	P	explicit							mouse-rat	decreased markedly with age		1	True	B	7723738	1	Gemini Flash 3.6
+B122	no									none			1	True	B	16318865	1	Gemini Flash 3.6
+B024	no									human			2	True	B	8241607	1	Gemini Flash 3.6
+B227	no									human			2	True	B	28988914	1	Gemini Flash 3.6
+B034	no									human			2	True	B	9709942	1	Gemini Flash 3.6
+B123	no									human			2	True	B	17460211	1	Gemini Flash 3.6
+B120	yes	P	implicit							human	progressive insolublisation of the crystallins of the lens nucleus		2	True	B	10657747	1	Gemini Flash 3.6
+B083	yes	NC	explicit	physiological-functional	population	observed	chronological age			mouse-rat	nonlinear age-related spatial memory decline in Fischer-344 rats		2	True	B	7777133	1	Gemini Flash 3.6
+B137	no									human			2	True	B	19851058	1	Gemini Flash 3.6
+B046	no									human			2	True	B	10367922	1	Gemini Flash 3.6
+B203	yes	P	explicit							human	best described as slow and steady decline	"[authors: ""terminal decline""]"	2	True	B	21300703	1	Gemini Flash 3.6
+B347	yes	NC	explicit	tissue-organ	population	inferred	chronological age			human	a nonlinear relationship between the predicted age and the amount of MRI data		2	True	B	37733220	1	Gemini Flash 3.6
+B177	no									human			2	True	B	12888638	1	Gemini Flash 3.6
+B388	no									mouse-rat			2	True	B	33800818	1	Gemini Flash 3.6
+B027	no									mouse-rat			2	True	B	9336340	1	Gemini Flash 3.6
+B097	no									mouse-rat			2	True	B	9112090	1	Gemini Flash 3.6
+B147	no									mouse-rat			2	True	B	16309733	1	Gemini Flash 3.6
+B133	no									none			2	True	B	10802124	1	Gemini Flash 3.6
+B151	yes	P	implicit							human	small airway clearance over 21 days was found to decrease with age		2	True	B	16204590	1	Gemini Flash 3.6
+B239	no									mouse-rat			2	True	B	27440779	1	Gemini Flash 3.6
+B340	no									human			2	True	B	31952302	1	Gemini Flash 3.6
+B317	yes	P	implicit							mouse-rat	myelin degeneration in CC occurs throughout the lifespan		2	True	B	38804500	1	Gemini Flash 3.6
+B059	no									human			2	True	B	7767944	1	Gemini Flash 3.6
+B256	no									human			2	True	B	29152572	1	Gemini Flash 3.6
+B102	no									other			2	True	B	15937790	1	Gemini Flash 3.6
+B159	yes	NC	explicit	physiological-functional	population	inferred	chronological age			human	nonlinear function that provided the best fit to cross-sectional population data		2	True	B	11444634	1	Gemini Flash 3.6
+B348	no									human			2	True	B	37843536	1	Gemini Flash 3.6
+A334		U								human			2	True	A	37366070		Gemini Flash 3.6
+A097		P	implicit							human	increased age in adulthood is associated with a decrease in the speed		2	True	A	8759042		Gemini Flash 3.6
+A159		P	implicit							human	Diastolic parameters assessed by mitral inflow and mitral annular velocities declined with age		2	True	A	18827372		Gemini Flash 3.6
+A212		U								mouse-rat			2	True	A	25502012		Gemini Flash 3.6
+A023		U								mouse-rat			2	True	A	1849052		Gemini Flash 3.6
+A335		U								human			2	True	A	35886889		Gemini Flash 3.6
+A186		P	implicit							human	Physical activity (PA) is known to decline with age		2	True	A	18556430		Gemini Flash 3.6
+A071		U								mouse-rat			2	True	A	9062693		Gemini Flash 3.6
+A120		U								human			2	True	A	12166367		Gemini Flash 3.6
+A109		U								human			2	True	A	15371098		Gemini Flash 3.6
+A093		U								human			2	True	A	8931618		Gemini Flash 3.6
+A311		U								human			2	True	A	33065164		Gemini Flash 3.6
+A098		U								human			2	True	A	10226848		Gemini Flash 3.6
+A240		U								human			2	True	A	23719386		Gemini Flash 3.6
+A325		U								human			2	True	A	33260002		Gemini Flash 3.6
+A008		U								mouse-rat			2	True	A	8239292		Gemini Flash 3.6
+A075		P	implicit							human	age-related decline of visualization of the cerebral arteries		2	True	A	9094049		Gemini Flash 3.6
+A207		U								human			2	True	A	25236846		Gemini Flash 3.6
+A189		DEV								human	increased functional specialization of the left inferior parietal cortex in mental arithmetic		2	True	A	15716474		Gemini Flash 3.6
+A027		DEV								mouse-rat	appear late in ontogeny		2	True	A	1825105		Gemini Flash 3.6
+A048		U								other			2	True	A	1880276		Gemini Flash 3.6
+A099		DEV								human	GH-releasing effect of Hexarelin in newborns is lower than in young adults		2	True	A	9401905		Gemini Flash 3.6
+A171		U								mouse-rat			2	True	A	16054319		Gemini Flash 3.6
+A183		U								human			2	True	A	19444705		Gemini Flash 3.6
+A031		P	implicit							mouse-rat	synthesis of this factor reduces with age		2	True	A	1660552		Gemini Flash 3.6
+A057		DEV								other	During normal development mast cells enter the habenula and complete their differentiation in situ		3	True	A	9284073		Gemini Flash 3.6
+A100		U								mouse-rat	young (3-5 months) and old (17-20 months)		3	True	A	9776135		Gemini Flash 3.6
+A050		NC	explicit	molecular	population	inferred	chronological age			human	higher in neonates than in adults; during adult life there was no further decline		3	True	A	8084545		Gemini Flash 3.6
+A237		U								mouse-rat	differential binding of PARP-1 to recombinant NEIL1 in older mice compared to younger mice		3	True	A	23104860		Gemini Flash 3.6
+A018		NC	explicit	molecular	population	inferred	chronological age			multiple	increase with aging in an exponential manner		3	True	A	8325352		Gemini Flash 3.6
+A025		U								human			3	True	A	7902054		Gemini Flash 3.6
+A266		DEV								human	Somatosensation matures through childhood into adolescence		3	True	A	27470009		Gemini Flash 3.6
+A315		U								human			3	True	A	39433211		Gemini Flash 3.6
+A117		DEV								other	haematological indices neared adult values by the 4th week of age		3	True	A	15275653		Gemini Flash 3.6
+A072		P	implicit							human	age-related increase in FSH concentrations in ovulatory women		3	True	A	8636360		Gemini Flash 3.6
+A014		DEV								other	decreased after birth and with postnatal development in EDL		3	True	A	1415804		Gemini Flash 3.6
+A001		U								human	less than 25 years, greater than 50 years		3	True	A	1600394		Gemini Flash 3.6
+A163		U								human	presence of pain was not correlated with age		3	True	A	19709699		Gemini Flash 3.6
+A296		U								human			3	True	A	27908262		Gemini Flash 3.6
+A076		P	implicit							human	ability to perform high intensity exercise may be an inevitable consequence of ageing		3	True	A	10362857		Gemini Flash 3.6
+A236		U								mouse-rat			3	True	A	23277187		Gemini Flash 3.6
+A308		U								mouse-rat			3	True	A	33770668		Gemini Flash 3.6
+A288		P	implicit							mouse-rat	As males age they show impairments in sexual function		3	True	A	28882473		Gemini Flash 3.6
+A128		P	implicit							none	disturbed heme metabolism causes mitochondrial decay, oxidative stress, and iron accumulation		3	True	A	15231238		Gemini Flash 3.6
+A267		U								none			3	True	A	28185406		Gemini Flash 3.6
+A285		U								human			3	True	A	25929653		Gemini Flash 3.6
+A054		NC	explicit	molecular	population	inferred	chronological age			other	accumulate with age, starting at 25 years of age and escalating after 30 years		3	True	A	9386780		Gemini Flash 3.6
+A273		NC	explicit	population-demographic	population	inferred	chronological age			human	rate of senescence (slope of adult mortality rates) in populations with delayed effects		3	True	A	28188448		Gemini Flash 3.6
+A211		U								other			3	True	A	23043948		Gemini Flash 3.6
+A089		U								mouse-rat	increased in comparison with those of four-week-old W/BF1 or normal mice		3	True	A	10606164		Gemini Flash 3.6
+A116		P	explicit							human	function in two hippocampal subregions--the subiculum and the dentate gyrus--decline normally with age		3	True	A	11891823		Gemini Flash 3.6
+A290		U								human			3	True	A	26773312		Gemini Flash 3.6
+A136		P	explicit							human	A significant age-related decrease of the frequency of allele (A)(-110) was observed in females		3	True	A	14501185		Gemini Flash 3.6
+A272		P	explicit							human	Older age was associated with significantly lower fast spindle		3	True	A	28093830		Gemini Flash 3.6
+A233		P	explicit							mouse-rat	causes progressively more severe neurodegeneration in the mouse cerebral cortex during aging		3	True	A	25429133		Gemini Flash 3.6
+A179		U								human			3	True	A	17013664		Gemini Flash 3.6
+A277		P	implicit							human	age-associated epigenetic modifications concerned with heterochromatin loss		3	True	A	30396810		Gemini Flash 3.6
+A200		P	implicit							human	Telomere length shortens with each cell division		3	True	A	19725392		Gemini Flash 3.6
+A202		U								multiple	accelerated aging and enhanced spontaneous tumorigenesis		3	True	A	23237593		Gemini Flash 3.6
+A096		P	explicit							mouse-rat	observed a significant age-related decrease in GSH-Px, GSH-Red and G6PD activities		3	True	A	10337441		Gemini Flash 3.6
+A051		DEV								human	neonatal cranial ultrasound (US) abnormalities in low birth weight (LBW) infants		3	True	A	8885952		Gemini Flash 3.6
+A245		P	explicit							human	high glycosylated hemoglobin was associated with decline in memory function		3	True	A	22016359		Gemini Flash 3.6
+A069		P	implicit							human	Ageing contributes to increased variability of airway calibre in asthma		3	True	A	9272922		Gemini Flash 3.6
+A215		P	implicit							human	Aging is associated with progressive T-cell deficiency		3	True	A	19878143		Gemini Flash 3.6
+A256		U								human			3	True	A	28130890		Gemini Flash 3.6
+A286		U								human	PTSD hyperarousal symptoms were associated with accelerated DNAm age		3	True	A	29271864		Gemini Flash 3.6
+A292		U								human			3	True	A	27729385		Gemini Flash 3.6
+A275		NC	explicit	physiological-functional	individual	observed	chronological age			human	Race-by-sex disparities in body size were observed by the age of 9-11 years and persisted		3	True	A	30961991		Gemini Flash 3.6
+A195		U								human			3	True	A	18957730		Gemini Flash 3.6
+A220		P	implicit							human	Ageing is associated with diminished muscle re-growth		3	True	A	23732643		Gemini Flash 3.6
+A287		P	explicit							mouse-rat	we detected a progressive loss of phosphorus in the outer nuclear layer		3	True	A	27481440		Gemini Flash 3.6
+A235		P	explicit							human	A significant age trend was found in all five personality domains		3	True	A	23275497		Gemini Flash 3.6
+A158		DEV								human	predictors of bone mass in early pubertal girls		3	True	A	17989943		Gemini Flash 3.6
+A214		U								human			3	True	A	24510000		Gemini Flash 3.6
+A034		U								human	young and aged adults		3	True	A	1956599		Gemini Flash 3.6
+A284		U								human			4	True	A	26214100		Gemini Flash 3.6
+A303		U								human			4	True	A	40970514		Gemini Flash 3.6
+A157		U								human			4	True	A	16525160		Gemini Flash 3.6
+A332		DEV								human	HCVA and LCLA abilities mature into adolescence		4	True	A	31809367		Gemini Flash 3.6
+A264		U								mouse-rat			4	True	A	31618076		Gemini Flash 3.6
+A317		P	implicit							human	begins to decline at a rate of ~1% year in men		4	True	A	33260577		Gemini Flash 3.6
+A239		U								other			4	True	A	22525590		Gemini Flash 3.6
+A084		U								human			4	True	A	8780994		Gemini Flash 3.6
+A038		DEV								mouse-rat	hormonal imprinting is characteristic of the neonatal age		4	True	A	2111076		Gemini Flash 3.6
+A133		P	implicit							mouse-rat	progressive pancreatic histoarchitecture distortion was found among the aged animals		4	True	A	15462563		Gemini Flash 3.6
+A234		U								other			4	True	A	24548258		Gemini Flash 3.6
+A274		U								mouse-rat			4	True	A	28152068		Gemini Flash 3.6
+A196		NC	explicit	population-demographic	population	inferred	chronological age			human	frailty index increased with age until the mid-80s, when it leveled off		4	True	A	16127111		Gemini Flash 3.6
+A312		U								human			4	True	A	40526703		Gemini Flash 3.6
+A041		U								mouse-rat			4	True	A	1706636		Gemini Flash 3.6
+A005		U								mouse-rat			4	True	A	1331252		Gemini Flash 3.6
+A068		U								mouse-rat			4	True	A	8786798		Gemini Flash 3.6
+A217		U								mouse-rat			4	True	A	21504043		Gemini Flash 3.6
+A164		U								human			4	True	A	19008307		Gemini Flash 3.6
+A173		U								mouse-rat			4	True	A	19252136		Gemini Flash 3.6
+A111		U								human			4	True	A	12147567		Gemini Flash 3.6
+A222		U								human			4	True	A	25286899		Gemini Flash 3.6
+A107		DEV								mouse-rat	activity and expression of FAAH decrease... with age during the neonatal period		4	True	A	12488326		Gemini Flash 3.6
+A293		P	implicit							human	progressive time-related accumulation of changes		4	True	A	28397282		Gemini Flash 3.6
+A318		U								none			4	True	A	31977544		Gemini Flash 3.6
+A129		U								other			4	True	A	14580308		Gemini Flash 3.6
+A126		U								mouse-rat			4	True	A	12803907		Gemini Flash 3.6
+A053		P	implicit							human	progressive reduction from the end of the puberty to aging		4	True	A	10595831		Gemini Flash 3.6
+A067		P	implicit							human	half-life of Dyn A1-13 decreased markedly with age		4	True	A	8923483		Gemini Flash 3.6
+A265		U								human			4	True	A	27956574		Gemini Flash 3.6
+A316		U								human			4	True	A	39693634		Gemini Flash 3.6
+A209		U								human			4	True	A	25913762		Gemini Flash 3.6
+A329		U								mouse-rat			4	True	A	39513361		Gemini Flash 3.6
+A251		NC	explicit	physiological-functional	population	inferred	chronological age			human	peak between the ages of 15 and 30... declining performance after 30		4	True	A	29564958		Gemini Flash 3.6
+A009		U								human			4	True	A	2142956		Gemini Flash 3.6
+A283		DEV								human	normal skeletal developmental patterns in the acromial process and distal clavicle in children		4	True	A	25319561		Gemini Flash 3.6
+A228		U								human			4	True	A	25244491		Gemini Flash 3.6
+A258		U								human			4	True	A	27110446		Gemini Flash 3.6
+A205		U								human			4	True	A	21172738		Gemini Flash 3.6
+A167		U								human			4	True	A	18538374		Gemini Flash 3.6
+A130		U								mouse-rat			4	True	A	11523590		Gemini Flash 3.6
+A210		U								mouse-rat			4	True	A	22289892		Gemini Flash 3.6
+A138		U								human			4	True	A	12150992		Gemini Flash 3.6
+A019		DEV								human	Postnatal changes in proximal and distal tubular sodium reabsorption		4	True	A	1932385		Gemini Flash 3.6
+A221		U								human			4	True	A	24345469		Gemini Flash 3.6
+A156		U								human			4	True	A	17563177		Gemini Flash 3.6
+A337		U								mouse-rat			4	True	A	34326251		Gemini Flash 3.6
+A263		U								other			4	True	A	28432521		Gemini Flash 3.6
+A176		U								human			4	True	A	17063362		Gemini Flash 3.6
+A219		U								human			4	True	A	22913477		Gemini Flash 3.6
+A350		U								mouse-rat			5	True	A	39662967		Gemini Flash 3.6
+A033		U								human			5	True	A	8509106		Gemini Flash 3.6
+A190		DEV								mouse-rat	The expression increased gradually with age		5	True	A	15744747		Gemini Flash 3.6
+A345		U								mouse-rat			5	True	A	37995077		Gemini Flash 3.6
+A226		U								multiple			5	True	A	24607515		Gemini Flash 3.6
+A058		U								human			5	True	A	9592691		Gemini Flash 3.6
+A168		P	implicit	tissue-organ	individual	observed	chronological age			mouse-rat	Mop3 null mice display an increased mortality after 26 weeks of age		5	True	A	15739187		Gemini Flash 3.6
+A254		P	implicit	physiological-functional	individual	observed	chronological age			human	attenuated declines over time in visuospatial abilities and executive function		5	True	A	26923400		Gemini Flash 3.6
+A102		U								human			5	True	A	15341805		Gemini Flash 3.6
+A184		P	implicit	tissue-organ	population	inferred	chronological age			human	incorporating a decline of 1 ml min(-1) year(-1) after the age of 40		5	True	A	16261309		Gemini Flash 3.6
+A086		P	implicit	physiological-functional	population	inferred	chronological age			human	risk of severe disease following primary exposure to Plasmodium falciparum increased with age		5	True	A	9697752		Gemini Flash 3.6
+A259		P	implicit	physiological-functional	population	inferred	chronological age			human	obesity seems to induce an accelerated brain aging		5	True	A	28933064		Gemini Flash 3.6
+A304		P	implicit	cellular	individual	observed	chronological age			mouse-rat	regenerative support provided by these cells declines during aging		5	True	A	33475496		Gemini Flash 3.6
+A306		P	implicit	tissue-organ	population	inferred	chronological age			other	significant age-related decrease in the mean number of primordial follicles		5	True	A	32901819		Gemini Flash 3.6
+A276		P	implicit	cellular	population	inferred	chronological age			multiple	persistent γH2AX accumulates in telomeric DNA and in cells undergoing cellular senescence		5	True	A	26596544		Gemini Flash 3.6
+A238		P	implicit	molecular	population	inferred	chronological age			human	increase in mtDNA damage was observed only in the common deletion region		5	True	A	20505194		Gemini Flash 3.6
+A161		U								human			5	True	A	19318942		Gemini Flash 3.6
+A229		P	implicit	physiological-functional	population	inferred	chronological age			mouse-rat	activity, balance, and strength decrease with age		5	True	A	25129573		Gemini Flash 3.6
+A182		P	implicit	physiological-functional	population	inferred	chronological age			human	predicted from declining AMH levels		5	True	A	18334591		Gemini Flash 3.6
+A042		DEV								human	Age-related growth changes in the nasolabial region were analyzed		5	True	A	1643060		Gemini Flash 3.6
+A250		P	implicit	cellular	population	inferred	chronological age			other	spine density, and particularly the density of thin spines, decreased with age		5	True	A	24853052		Gemini Flash 3.6
+A141		U								human			5	True	A	11552909		Gemini Flash 3.6
+A036		U								other			5	True	A	2234289		Gemini Flash 3.6
+A177		U								human			5	True	A	16470462		Gemini Flash 3.6
+A028		U								human			5	True	A	1316327		Gemini Flash 3.6
+A077		U								mouse-rat			5	True	A	9393629		Gemini Flash 3.6
+A032		U								none			5	True	A	8289710		Gemini Flash 3.6
+A262		U								human			5	True	A	28351489		Gemini Flash 3.6
+A013		U								mouse-rat			5	True	A	7934207		Gemini Flash 3.6
+A103		U								human			5	True	A	11404051		Gemini Flash 3.6
+A026		DEV								other	Comparison between adult and infant rabbits		5	True	A	8092518		Gemini Flash 3.6
+A278		U								human			5	True	A	26460207		Gemini Flash 3.6
+A294		U								human			5	True	A	29096878		Gemini Flash 3.6
+A115		P	implicit	physiological-functional	population	inferred	chronological age			human	intraclass correlations showed a continuous increase with age during adulthood		5	True	A	10866058		Gemini Flash 3.6
+A132		U								human			5	True	A	12688228		Gemini Flash 3.6
+A289		U								human			5	True	A	30588835		Gemini Flash 3.6
+A241		U								human			5	True	A	23276601		Gemini Flash 3.6
+A307		U								human			5	True	A	34579157		Gemini Flash 3.6
+A146		U								mouse-rat			5	True	A	11499864		Gemini Flash 3.6
+A247		NC	implicit	molecular	population	inferred	chronological age			mouse-rat	significant decrease in NGF expression from neonatal to young rats and a significant increase		5	True	A	21559866		Gemini Flash 3.6
+A118		P	implicit	physiological-functional	individual	observed	chronological age			mouse-rat	males display an age-related decline in testosterone		5	True	A	15545701		Gemini Flash 3.6
+A181		U								other			5	True	A	17032370		Gemini Flash 3.6
+A291		U								human			5	True	A	31014776		Gemini Flash 3.6
+A047		U								human			5	True	A	1890292		Gemini Flash 3.6
+A203		U								human			5	True	A	24131064		Gemini Flash 3.6
+A123		U								human			5	True	A	12548292		Gemini Flash 3.6
+A152		U								human			5	True	A	17139365		Gemini Flash 3.6
+A188		P	implicit	physiological-functional	population	inferred	chronological age			mouse-rat	efficiency of cholesterol absorption increases with age		5	True	A	16179600		Gemini Flash 3.6
+A151		D	explicit	tissue-organ	population	inferred	chronological age	not stated	distinct periods of life	human	four distinct periods of life, specifically a maturation period... a development period... an adulthood period... and a senescence period		5	True	A	19520539		Gemini Flash 3.6
+A113		D	implicit	tissue-organ	individual	observed	chronological age	not stated	catabolic and anabolic phases of osteodystrophy	mouse-rat	defined and characterized catabolic and anabolic phases of osteodystrophy		5	True	A	12928831		Gemini Flash 3.6
+A260		U								human	mechanisms to reduce BAT mass and its activity in the elderly		6	True	A	29119382		Gemini Flash 3.6
+A154		P	implicit							human	modulate, at least in part, the cognitive changes of aging		6	True	A	16760626		Gemini Flash 3.6
+A328		DEV								human	identify the regulatory transcription factors involved in MSC senescence		6	True	A	33559812		Gemini Flash 3.6
+A012		DEV								other	Dopamine immunoreactivity revealed exponential growth until postnatal day 30		6	True	A	8270782		Gemini Flash 3.6
+A327		U								human	indirect effect of age on visuospatial memory mediated through these hippocampal		6	True	A	37913626		Gemini Flash 3.6
+A162		U								human	analyze the impact of medical and social factors on survival and function		6	True	A	15621214		Gemini Flash 3.6
+A065		P	implicit							mouse-rat	age-associated reductions in cardiovascular beta-adrenergic responsiveness		6	True	A	9451633		Gemini Flash 3.6
+A349		U								multiple	ANB could be a potential aging marker for the central nervous system		6	True	A	39086191		Gemini Flash 3.6
+A231		P	implicit							human	Cartilage T1 rho values correlated positively with aging		6	True	A	22971986		Gemini Flash 3.6
+A074		P	implicit							mouse-rat	age-associated decreases in endogenous NGF responses		6	True	A	9590440		Gemini Flash 3.6
+A257		U								human	Sarcopenic obesity is associated with a higher risk of restrictive lung disease		6	True	A	31642952		Gemini Flash 3.6
+A043		U								human	there was no decline in Ki with age for any of these structures		6	True	A	2126684		Gemini Flash 3.6
+A313		U								human	musical instrument training program improves verbal memory and neural efficiency in novice older		6	True	A	33617124		Gemini Flash 3.6
+A193		P	implicit							mouse-rat	mice from an MPTP-resistant strain lose their resistance as they age		6	True	A	19349914		Gemini Flash 3.6
+A114		P	implicit							other	The ejaculate volume decreased with the age		6	True	A	12778316		Gemini Flash 3.6
+A191		U								human	exercise enhances mitochondria ETC activity in older human skeletal muscle		6	True	A	16799133		Gemini Flash 3.6
+A092		P	implicit							mouse-rat	impairment of afferent nerve function occurs with aging in the rat intestine		6	True	A	8601381		Gemini Flash 3.6
+A178		P	explicit							human	chance of accumulating deficits increased linearly with the number of deficits		6	True	A	17855035		Gemini Flash 3.6
+A310		DEV								other	developmental or stress-induced senescence in Arabidopsis		6	True	A	32900979		Gemini Flash 3.6
+A082		U								human	do not support the hypothesis that reduction of plasma melatonin concentration is a		6	True	A	10569297		Gemini Flash 3.6
+A244		U								human	extent of prefrontal gray matter associated with yearly mean blood lead levels increased		6	True	A	20226811		Gemini Flash 3.6
+A055		U								human	resistance exercise training improved muscle strength and anabolism in older men		6	True	A	7864103		Gemini Flash 3.6
+A137		U								human	safety and efficacy of Rheopheresis for the treatment of AMD patients		6	True	A	12877897		Gemini Flash 3.6
+A016		U								other	Genetic parameters were estimated simultaneously for 5 herd-life traits		6	True	A	1500592		Gemini Flash 3.6
+A227		U								human	alpine skiing is an effective intervention for combating sarcopenia and weakness		6	True	A	21679320		Gemini Flash 3.6
+A271		U								human	factors contributing to hippocampal atrophy rate (HAR) in clinically normal older adults		6	True	A	25175807		Gemini Flash 3.6
+A105		U								mouse-rat	examination of the effect of the drug on the density of GluR1		6	True	A	12197668		Gemini Flash 3.6
+A295		P	implicit							mouse-rat	prevented the age-dependent decrease in slow-twitch muscle fiber function		6	True	A	29943496		Gemini Flash 3.6
+A121		P	implicit							other	transport of circulating A beta across the BBB contributes to brain parenchymal accumulation		6	True	A	12529925		Gemini Flash 3.6
+A004		U								mouse-rat	rates of synthesis of total RNA are decreased in hepatocytes isolated from senescent		6	True	A	1695885		Gemini Flash 3.6
+A336		U								mouse-rat	caloric restriction in late life can revert only some age-related changes		6	True	A	33467406		Gemini Flash 3.6
+A230		U								human	elucidate age-related changes in lower eyelid retractors		6	True	A	21976943		Gemini Flash 3.6
+A305		U								mouse-rat	uncover proteins abundance associated with specific biological processes that differed depending on age		6	True	A	38795389		Gemini Flash 3.6
+A003		DEV								mouse-rat	as this system matures in the developing rat		6	True	A	8466657		Gemini Flash 3.6
+A110		P	implicit							human	sarcopenia is the term widely used to describe the progressive loss of muscle		6	True	A	15571490		Gemini Flash 3.6
+A301		U								mouse-rat	Canagliflozin treatment prevents follicular exhaustion and attenuates hallmarks of ovarian aging		6	True	A	39672978		Gemini Flash 3.6
+A342		U								human	epigenetic regulation mechanisms on age-related bone homeostasis imbalance		6	True	A	38690719		Gemini Flash 3.6
+A248		DEV								human	reflecting an age-specific difference in agonist-stimulated platelet reactivity in children		6	True	A	25266817		Gemini Flash 3.6
+A213		U								human	modest age-related differences in self-reported sleep quality		6	True	A	23746072		Gemini Flash 3.6
+A319		U								mouse-rat	offering new insights into potential therapeutic strategies for age-related osteoporosis		6	True	A	39536932		Gemini Flash 3.6
+A066		P	implicit							human	significant lowering of SFF with age in this group of Australian women		6	True	A	7731202		Gemini Flash 3.6
+A246		U								mouse-rat	decreased liver peroxisomal oxidation was accompanied by changes in brain fatty acid composition		6	True	A	23892932		Gemini Flash 3.6
+A127		P	implicit							human	progressive decrease in physiological capacity and the reduced ability to respond to environmental		6	True	A	12516005		Gemini Flash 3.6
+A199		U								human	age-related increases in inflammatory agents can disrupt the microvascular endothelium		6	True	A	16611596		Gemini Flash 3.6
+A064		U								human	percent body fat estimates from anthropometry and BIA in men of various ages		6	True	A	10051858		Gemini Flash 3.6
+A131		U								human	longitudinal relationship between sexuality and health, and sexuality and chronic illness		6	True	A	14563076		Gemini Flash 3.6
+A149		U								human	reduced efficiency of the innate and adaptive immune system is likely to be		6	True	A	11511394		Gemini Flash 3.6
+A060		U								mouse-rat	semen yielded by para-chloroamphetamine (PCA)-induced ejaculation of aged rats		6	True	A	8938620		Gemini Flash 3.6
+A170		U								mouse-rat	normal aging was associated with significant increases in the activity of monoamine oxidase		6	True	A	18307051		Gemini Flash 3.6
+A261		U								human	residents of states with higher state taxation and higher expenditures per capita have		6	True	A	30978199		Gemini Flash 3.6
+A331		P	implicit							mouse-rat	became clearly less elevated in the HFS condition with advancing age		7	True	A	41215620		Gemini Flash 3.6
+A201		U								human			7	True	A	25266835		Gemini Flash 3.6
+A135		U								human			7	True	A	12591555		Gemini Flash 3.6
+A180		P	implicit							mouse-rat	capacity of neurogenesis in older rats was considerably lower than that		7	True	A	17662700		Gemini Flash 3.6
+A015		U								human			7	True	A	8054179		Gemini Flash 3.6
+A070		U								human			7	True	A	10645137		Gemini Flash 3.6
+A085		P	implicit							human	walking pattern tended to change according to age		7	True	A	8724913		Gemini Flash 3.6
+A112		P	implicit							human	Static exercise-induced renal vasoconstriction is enhanced with aging		7	True	A	15016634		Gemini Flash 3.6
+A140		P	implicit							human	correlated negatively with folate and vitamin B-12(,) but positively with age		7	True	A	11101473		Gemini Flash 3.6
+A185		U								human			7	True	A	18555778		Gemini Flash 3.6
+A007		DEV								other	With increasing age, the increase in the mean value for beta		7	True	A	2035916		Gemini Flash 3.6
+A046		P	implicit							human	Normal age-related changes in the musculoskeletal, neurologic, and cardiopulmonary systems		7	True	A	8020761		Gemini Flash 3.6
+A150		P	implicit							human	ability to coordinate the processing of two tasks did not decline with age		7	True	A	11144318		Gemini Flash 3.6
+A160		U								C. elegans			7	True	A	17900898		Gemini Flash 3.6
+A348		P	implicit							human	Aging is associated with inflammation and oxidative stress		7	True	A	41066002		Gemini Flash 3.6
+A062		P	implicit							mouse-rat	how aging alters ion regulation in brain tissue		7	True	A	10356345		Gemini Flash 3.6
+A324		P	implicit							other	Seed ageing curves were constructed		7	True	A	35366301		Gemini Flash 3.6
+A339		U								human			7	True	A	39168485		Gemini Flash 3.6
+A148		DEV								human			7	True	A	15308365		Gemini Flash 3.6
+A323		P	implicit							human	starts to shift towards a less healthy one		7	True	A	40095191		Gemini Flash 3.6
+A204		U								human			7	True	A	23618565		Gemini Flash 3.6
+A279		U								other			7	True	A	31141466		Gemini Flash 3.6
+A321		U								other			7	True	A	39562515		Gemini Flash 3.6
+A017		U								human			7	True	A	8443742		Gemini Flash 3.6
+A298		P	implicit							human	mechanisms of cellular aging		7	True	A	30637490		Gemini Flash 3.6
+A059		U								human			7	True	A	8920174		Gemini Flash 3.6
+A020		NC	implicit	physiological-functional	population	inferred	chronological age			human	coronary heart disease risk factors in women as they pass through the menopause		7	True	A	1484951		Gemini Flash 3.6
+A165		P	implicit							human	efficiency and fidelity of repair declines with age		7	True	A	15888314		Gemini Flash 3.6
+A330		U								mouse-rat			7	True	A	40132714		Gemini Flash 3.6
+A090		DEV								human	change in intracranial volume that occurs with age is not linear		7	True	A	10507383		Gemini Flash 3.6
+A232		DEV								mouse-rat	propofol impairs the survival and maturation of adult-born hippocampal neurons		7	True	A	23314165		Gemini Flash 3.6
+A080		P	implicit							human	whether loneliness increases in old age		7	True	A	10529046		Gemini Flash 3.6
+A056		U								human			7	True	A	9868854		Gemini Flash 3.6
+A083		P	implicit							multiple	EC50 values of noradrenaline in rat aorta increased with age		7	True	A	8744972		Gemini Flash 3.6
+A344		U								human			7	True	A	39963743		Gemini Flash 3.6
+A147		P	implicit							human	neuromuscular adaptation that occurs with aging		7	True	A	12365243		Gemini Flash 3.6
+A320		U								multiple			7	True	A	40386939		Gemini Flash 3.6
+A340		P	implicit							human	Age-associated reduction in endothelial nitric oxide (NO) synthesis		7	True	A	32568925		Gemini Flash 3.6
+A087		U								human			7	True	A	9089455		Gemini Flash 3.6
+A194		U								mouse-rat			7	True	A	17902269		Gemini Flash 3.6
+A216		U								human			7	True	A	23773060		Gemini Flash 3.6
+A223		NC	explicit	physiological-functional	individual	inferred	chronological age			human	accelerated increase over time		7	True	A	23264442		Gemini Flash 3.6
+A326		P	implicit							other	reversing age-induced hyperproliferation and intestinal dysfunction		7	True	A	40446021		Gemini Flash 3.6
+A002		P	implicit							multiple	reduction in liver size and blood flow with advancing age		7	True	A	2405943		Gemini Flash 3.6
+A197		DEV								mouse-rat	effect of carbimazole induced hypothyroidism and thyroxine replacement, on the growth		7	True	A	17693962		Gemini Flash 3.6
+A281		P	implicit							human	Nodal cell numbers decrease with age as part of the normal aging process		7	True	A	26319648		Gemini Flash 3.6
+A346		P	implicit							mouse-rat	Changes in PUFA metabolism were compared between lacrimal glands (LGs) from young and aged		7	True	A	38705236		Gemini Flash 3.6
+A011		DEV								other	postnatal development of bilirubin accumulation by the choroid plexus was studied		7	True	A	1797126		Gemini Flash 3.6
+A081		U								human			7	True	A	8537590		Gemini Flash 3.6
+A145		NC	implicit	molecular	population	inferred	chronological age			human	highest between 20 and 30 years of age, and thereafter they showed a tendency to decrease		7	True	A	12209515		Gemini Flash 3.6
+A302		P	implicit							human	cerebral pulsatility was associated with age		8	True	A	39614707		Gemini Flash 3.6
+A268		P	implicit							human	with ageing trends		8	True	A	26178206		Gemini Flash 3.6
+A270		P	implicit							multiple	>10-fold age-dependent decline in the level of MeCbl		8	True	A	26799654		Gemini Flash 3.6
+A255		U								human	prevalence of PD increases with age		8	True	A	28554416		Gemini Flash 3.6
+A045		U								human			8	True	A	8313554		Gemini Flash 3.6
+A297		P	implicit							Drosophila	postponed manifestation of histological and ultrastructural features of age-dependent neurodegeneration		8	True	A	25252831		Gemini Flash 3.6
+A106		U								mouse-rat			8	True	A	12868015		Gemini Flash 3.6
+A101		U								human	attributing feeling depressed to old age		8	True	A	14687258		Gemini Flash 3.6
+A040		P	implicit							mouse-rat	decrease in respiratory muscle mitochondrial function in rats		8	True	A	1728300		Gemini Flash 3.6
+A338		U								human			8	True	A	41345704		Gemini Flash 3.6
+A030		U								human	age was not significant		8	True	A	8418140		Gemini Flash 3.6
+A078		P	implicit							human	outcome, assessed using the Glasgow Outcome Scale at 3 months post-SAH, was poorer with advancing age		8	True	A	8751625		Gemini Flash 3.6
+A198		P	implicit							multiple	delay deleterious age-related physiological changes		8	True	A	19853062		Gemini Flash 3.6
+A125		P	implicit							multiple	decrements accruing with age		8	True	A	11000422		Gemini Flash 3.6
+A252		U								human			8	True	A	29115858		Gemini Flash 3.6
+A037		P	implicit							mouse-rat	reduced activities and catalase activities enhanced with age		8	True	A	1890876		Gemini Flash 3.6
+A269		U								human			8	True	A	29849920		Gemini Flash 3.6
+A044		DEV								other	development of the main (nVI) and the accessory abducens		8	True	A	2323026		Gemini Flash 3.6
+A208		P	implicit							human	demonstrates an age related drop in mitochondrial respiratory chain activity		8	True	A	20517892		Gemini Flash 3.6
+A035		DEV								other	synaptogenesis in the ferret cerebral cortex was examined from the day of birth to adulthood		8	True	A	8468403		Gemini Flash 3.6
+A299		P	implicit							mouse-rat	delaying the loss of biological functions characteristic of the aging process		8	True	A	29721150		Gemini Flash 3.6
+A187		U								none			8	True	A	18208355		Gemini Flash 3.6
+A088		P	implicit							mouse-rat	exacerbation in aged rats		8	True	A	7623120		Gemini Flash 3.6
+A021		U								human			8	True	A	2278689		Gemini Flash 3.6
+A061		DEV								multiple	higher in late embryonal compared to newborn or adult animals		8	True	A	7568065		Gemini Flash 3.6
+A022		P	implicit							human	increase in size and intensity of the GA became apparent in individuals from about 70 years and older		8	True	A	8149218		Gemini Flash 3.6
+A280		P	implicit							human	age-related decline in both optimism and working-memory		8	True	A	29063823		Gemini Flash 3.6
+A063		P	implicit							other	organisms whose survival rates decline with age		8	True	A	9435238		Gemini Flash 3.6
+A249		P	implicit							human	processing speed on this test slows 2 to 4 sec. per decade		8	True	A	25244555		Gemini Flash 3.6
+A124		U								human			8	True	A	11058095		Gemini Flash 3.6
+A309		P	explicit							other	no evidence of significant senescent decline in survival or reproductive performance		8	True	A	35560232		Gemini Flash 3.6
+A218		P	implicit							human	unintended side effect of declining cognitive abilities		8	True	A	23276213		Gemini Flash 3.6
+A095		P	implicit							human	modifies the mean daily levels and the amplitude of the diurnal variations		8	True	A	9222748		Gemini Flash 3.6
+A242		U								mouse-rat			8	True	A	20427381		Gemini Flash 3.6
+A341		U								multiple			8	True	A	40516835		Gemini Flash 3.6
+A166		DEV								human	Language development and mild-to-moderate hearing loss		8	True	A	17905913		Gemini Flash 3.6
+A142		U								human			8	True	A	11928207		Gemini Flash 3.6
+A010		DEV								mouse-rat	Pre- and postnatal development of opiate receptor subtypes		8	True	A	2161716		Gemini Flash 3.6
+A225		P	explicit							other	length decreased with age		8	True	A	24449195		Gemini Flash 3.6
+A049		P	implicit							human	ability to mobilize these PMNs from the marrow into blood... is significantly reduced in the elderly		8	True	A	7506277		Gemini Flash 3.6
+B223	no									mouse-rat			8	True	B	21953681		Gemini Flash 3.6
+B158	yes	NC	explicit	physiological-functional	population	inferred	chronological age			human	age has an inverse and nonlinear association with feelings of control		8	True	B	11245366		Gemini Flash 3.6
+B241	no									human			8	True	B	25063353		Gemini Flash 3.6
+B231	no									human			8	True	B	27959617		Gemini Flash 3.6
+B307	no									human			8	True	B	40261284		Gemini Flash 3.6
+B295	no									human			8	True	B	20440547		Gemini Flash 3.6
+B012	yes	D	explicit	physiological-functional	population	inferred	chronological age	not stated	discontinuity at approximately 37 years of age	human	biphasic model with a discontinuity at approximately 37 years of age		8	True	B	8893683		Gemini Flash 3.6
+B101	no									human			8	True	B	17328373		Gemini Flash 3.6
+B167	no									human			8	True	B	17471748		Gemini Flash 3.6
+B196	no									mouse-rat			8	True	B	17996864		Gemini Flash 3.6
+B005	no									mouse-rat			9	True	B	7905759		Gemini Flash 3.6
+B372	no									human			9	True	B	40861447		Gemini Flash 3.6
+B108	yes	NC	explicit	physiological-functional	individual	inferred	chronological age			human	nonlinear models with more dramatic changes at later ages improved overall fit	"[authors: ""two-part spline model""]"	9	True	B	19404731		Gemini Flash 3.6
+B191	no									human			9	True	B	19618189		Gemini Flash 3.6
+B011	no									mouse-rat			9	True	B	7680423		Gemini Flash 3.6
+B360	no									human			9	True	B	41021555		Gemini Flash 3.6
+B359	no									Drosophila			9	True	B	40326415		Gemini Flash 3.6
+B228	yes	D	explicit	whole-organism	individual	observed	chronological age	not stated	morphological transition between two early aging states	C. elegans	morphological transition between two early aging states	"[authors: ""transition""]"	9	True	B	22610697		Gemini Flash 3.6
+B186	no									Drosophila			9	True	B	17964102		Gemini Flash 3.6
+B224	no									human			9	True	B	27557999		Gemini Flash 3.6
+B188	no									mouse-rat			9	True	B	18387442		Gemini Flash 3.6
+B338	no									human			9	True	B	39441032		Gemini Flash 3.6
+B214	yes	NC	explicit	tissue-organ	individual	inferred	chronological age			human	nonlinear longitudinal rate of cortical thinning decelerated over time	"[authors: ""nonlinear longitudinal rate""]"	9	True	B	28444388		Gemini Flash 3.6
+B389	yes	NC	explicit	whole-organism	population	observed	disease or pathology			human	Aging in obesity should be considered as a nonlinear process	"[authors: ""nonlinear process""]"	9	True	B	39315755		Gemini Flash 3.6
+B300	no									human			9	True	B	39347718		Gemini Flash 3.6
+B249	no									human			9	True	B	29849055		Gemini Flash 3.6
+B049	no									mouse-rat			9	True	B	10362290		Gemini Flash 3.6
+B376	no									human			9	True	B	40022176		Gemini Flash 3.6
+B246	no									human			9	True	B	21156325		Gemini Flash 3.6
+B265	no									human			9	True	B	28432144		Gemini Flash 3.6
+B112	yes	P	implicit	whole-organism	population	inferred	chronological age			human	prevalence of the metabolic syndrome increased with aging		9	True	B	17595254		Gemini Flash 3.6
+B063	no									mouse-rat			9	True	B	2087511		Gemini Flash 3.6
+B325	no									human			9	True	B	40119954		Gemini Flash 3.6
+B113	no									mouse-rat			9	True	B	17690294		Gemini Flash 3.6
+B007	no									mouse-rat			9	True	B	1488615		Gemini Flash 3.6
+B042	no									mouse-rat			9	True	B	1632273		Gemini Flash 3.6
+B257	no									human			9	True	B	30227133		Gemini Flash 3.6
+B332	no									human			9	True	B	39505152		Gemini Flash 3.6
+B364	yes	NC	explicit	tissue-organ	population	inferred	chronological age			human	non-linear trajectories of brain structural changes over the lifespan	"[authors: ""non-linear trajectories""]"	9	True	B	35388223		Gemini Flash 3.6
+B096	yes	P	implicit	physiological-functional	population	observed	chronological age			human	Endurance exercise performance declines with age		9	True	B	7649932		Gemini Flash 3.6
+B103	no									mouse-rat			9	True	B	18000831		Gemini Flash 3.6
+B213	yes	NC	explicit	physiological-functional	population	observed	chronological age			human	nonlinear age-dependent progressive deterioration of basic coordination parameters	"[authors: ""nonlinear age-dependent progressive deterioration""]"	9	True	B	20083315		Gemini Flash 3.6
+B075	no									mouse-rat			9	True	B	10027758		Gemini Flash 3.6
+B043	yes	P	implicit	physiological-functional	population	observed	chronological age			human	progressive decline in oral glucose tolerance in women		9	True	B	1634704		Gemini Flash 3.6
+B375	no									human			9	True	B	37113487		Gemini Flash 3.6
+B314	no									human			9	True	B	41318813		Gemini Flash 3.6
+B269	no									human			9	True	B	24331882		Gemini Flash 3.6
+B299	no									human			9	True	B	27702440		Gemini Flash 3.6
+B190	yes	NC	explicit	molecular	population	observed	chronological age			human	biphasic post-natal pattern of the presynaptic markers	"[authors: ""biphasic post-natal pattern""]"	9	True	B	14535941		Gemini Flash 3.6
+B284	no									human			9	True	B	24412105		Gemini Flash 3.6
+B271	no									human			9	True	B	30017009		Gemini Flash 3.6
+B221	no									mouse-rat			9	True	B	20524748		Gemini Flash 3.6
+B031	yes	D	explicit	tissue-organ	population	observed	chronological age	not stated	zones of discontinuity in the lens	human	as many as four sharply demarcated and complementary zones are seen	"[authors: ""zones of discontinuity""]"	9	True	B	7975329		Gemini Flash 3.6
+B111	no									mouse-rat			9	True	B	19302088		Gemini Flash 3.6
+B337	no									human			9	True	B	41258196		Gemini Flash 3.6
+B125	yes	NC	explicit	physiological-functional	individual	inferred	disease or pathology			human	subgroups of individuals develop along different paths characterized by selective changes	"[authors: ""paths of cognitive development""]"	9	True	B	16029094		Gemini Flash 3.6
+B114	no									human			9	True	B	19666783		Gemini Flash 3.6
+B208	no									human			9	True	B	25962494		Gemini Flash 3.6
+B344	no									human			9	True	B	34798081		Gemini Flash 3.6
+B276	yes	NC	explicit	tissue-organ	individual	inferred	disease or pathology			human	acceleration of brain aging was not constant	"[authors: ""acceleration of brain aging""]"	9	True	B	26917166		Gemini Flash 3.6
+B277	yes	NC	explicit	physiological-functional	individual	observed	disease or pathology			human	quadratic relationship between increasing Aβ burden	"[authors: ""nonlinear effect""]"	10	True	B	29108941		Gemini Flash 3.6
+B038	yes	P	implicit							multiple	aging brings about a progressive disruption		10	True	B	9876244		Gemini Flash 3.6
+B121	yes	NC	implicit	physiological-functional	population	inferred	none stated			multiple	In a non-linear dynamic process these changes can contribute	"[authors: ""non-linear dynamic process""]"	10	True	B	11511399		Gemini Flash 3.6
+B381	no									human			10	True	B	35030073		Gemini Flash 3.6
+B169	no									human			10	True	B	11297022		Gemini Flash 3.6
+B366	no									human			10	True	B	29660064		Gemini Flash 3.6
+B316	yes	P	implicit							multiple	serum levels decrease with physiological aging		10	True	B	33423524		Gemini Flash 3.6
+B160	no									multiple			10	True	B	17609671		Gemini Flash 3.6
+B182	no									human			10	True	B	17870066		Gemini Flash 3.6
+B281	no									human			10	True	B	24780842		Gemini Flash 3.6
+B036	yes	NC	explicit	physiological-functional	population	observed	chronological age			human	The relationship between PSA value and age was non-linear	"[authors: ""non-linear""]"	10	True	B	9238758		Gemini Flash 3.6
+B085	yes	NC	explicit	physiological-functional	population	inferred	chronological age			human	decrease in the total power... showed a nonlinear pattern	"[authors: ""nonlinear pattern""]"	10	True	B	1911907		Gemini Flash 3.6
+B128	no									other			10	True	B	17990066		Gemini Flash 3.6
+B260	no									human			10	True	B	28893184		Gemini Flash 3.6
+B280	yes	D	explicit	whole-organism	individual	observed	chronological age	not stated	stasis irregularly punctuated by relatively sudden change in health status	human	stasis irregularly punctuated by relatively sudden change in health status	"[authors: ""punctuated equilibrium""]"	10	True	B	31713126		Gemini Flash 3.6
+B138	yes	NC	explicit	physiological-functional	individual	inferred	disease or pathology			human	piecewise model with accelerated slope after a sharp inflection point	"[authors: ""transition""]"	10	True	B	19822781		Gemini Flash 3.6
+B115	no									mouse-rat			10	True	B	16798745		Gemini Flash 3.6
+B326	no									human			10	True	B	40804679		Gemini Flash 3.6
+B018	yes	NC	explicit	cellular	individual	observed	chronological age			other	complex nonlinear three-dimensional structure	"[authors: ""nonlinear""]"	10	True	B	7583788		Gemini Flash 3.6
+B263	no									multiple			10	True	B	30124168		Gemini Flash 3.6
+B066	yes	NC	explicit	physiological-functional	individual	observed	chronological age			mouse-rat	LAGS level undergoes abrupt changes throughout life	"[authors: ""abrupt changes""]"	10	True	B	7845056		Gemini Flash 3.6
+B311	yes	D	explicit	cellular	individual	observed	chronological age	not stated	fetal-specific HSC state and age-specific differentiation waves	human	stereotypic waves of hematopoiesis have been observed	"[authors: ""waves""]"	10	True	B	39639169		Gemini Flash 3.6
+B183	no									other			10	True	B	14663339		Gemini Flash 3.6
+B109	yes	NC	implicit	molecular	population	inferred	chronological age			none	non-linear increase of damage and the presence of amplifying feedback loops	"[authors: ""non-linear increase""]"	10	True	B	19527771		Gemini Flash 3.6
+B161	yes	NC	explicit	physiological-functional	individual	inferred	proximity to death			human	increases in inconsistency in speed per year closer to death	"[authors: ""terminal decline""]"	10	True	B	18808249		Gemini Flash 3.6
+B252	yes	P	implicit							human	Women showed a prominent increase in myocardial 18F-DOPA uptake with age		10	True	B	30106984		Gemini Flash 3.6
+B319	no									human			10	True	B	31362310		Gemini Flash 3.6
+B324	no									human			10	True	B	33026140		Gemini Flash 3.6
+B090	yes	NC	explicit	tissue-organ	population	observed	chronological age			human	bone loss in men accelerates after age 50 years	"[authors: ""accelerates""]"	10	True	B	9701622		Gemini Flash 3.6
+B142	yes	NC	explicit	tissue-organ	individual	inferred	chronological age			human	Nonlinear elastic-viscoplastic constitutive equations for aging facial tissues	"[authors: ""Nonlinear""]"	10	True	B	16096833		Gemini Flash 3.6
+B023	yes	NC	explicit	molecular	individual	observed	chronological age			mouse-rat	did not increase with age until after 27 months, when they increased rapidly	"[authors: ""increased rapidly""]"	10	True	B	9398844		Gemini Flash 3.6
+B283	no									human			10	True	B	23949829		Gemini Flash 3.6
+B153	no									human			10	True	B	20018794		Gemini Flash 3.6
+B135	yes	NC	explicit	tissue-organ	individual	observed	chronological age			mouse-rat	progressive, but nonlinear, increase in global differential gene expression	"[authors: ""nonlinear""]"	10	True	B	17873024		Gemini Flash 3.6
+B053	no									mouse-rat			10	True	B	1348565		Gemini Flash 3.6
+B170	no									human			10	True	B	12634925		Gemini Flash 3.6
+B080	no									mouse-rat			10	True	B	7689698		Gemini Flash 3.6
+B197	yes	P	implicit							human	antioxidant capacity shows a significant decrease with age		10	True	B	11697036		Gemini Flash 3.6
+B189	no									multiple			10	True	B	16451792		Gemini Flash 3.6
+B301	no									human			10	True	B	30955036		Gemini Flash 3.6
+B030	no									human			10	True	B	1941778		Gemini Flash 3.6
+B193	no									human			10	True	B	18986040		Gemini Flash 3.6
+B304	yes	D	explicit	physiological-functional	individual	inferred	chronological age	not stated	resting-state functional connectivity states separated by significant change points	human	number of significant change points detected through the Network Change Point Detection algorithm	"[authors: ""change points""]"	10	True	B	32151149		Gemini Flash 3.6
+B294	yes	P	implicit							human	complexity of BOLD activity is reduced with aging		10	True	B	22683008		Gemini Flash 3.6
+B062	no									mouse-rat			10	True	B	7948178		Gemini Flash 3.6
+B057	yes	NC	explicit	physiological-functional	population	observed	chronological age			human	adjusted glucose metabolism varied very significantly... best fit was not linear	"[authors: ""nonlinear effects""]"	10	True	B	9698576		Gemini Flash 3.6
+B143	yes	P	implicit							mouse-rat	age-related decline in function of SERCAs		10	True	B	11048956		Gemini Flash 3.6
+B207	no									human			10	True	B	29351838		Gemini Flash 3.6
+B273	no									human			10	True	B	23115911		Gemini Flash 3.6
+B238	no									human			10	True	B	27973381		Gemini Flash 3.6
+B318	no									mouse-rat			11	True	B	41372913		Gemini Flash 3.6
+B073	no									human			11	True	B	10400954		Gemini Flash 3.6
+B017	yes	P	implicit							human	preferential decline of CBF in the frontal cortex		11	True	B	2016360		Gemini Flash 3.6
+B195	yes	NC	explicit	physiological-functional	individual	inferred	disease or pathology			human	accelerated memory decline... begins between seven and eight years		11	True	B	11782027		Gemini Flash 3.6
+B015	yes	P	explicit							human	All four acuity dimensions deteriorate with age		11	True	B	7571941		Gemini Flash 3.6
+B140	no									mouse-rat			11	True	B	15294963		Gemini Flash 3.6
+B074	yes	P	explicit							human	creatinine clearance... declined cross-sectionally with age		11	True	B	2229867		Gemini Flash 3.6
+B056	yes	NC	explicit	physiological-functional	individual	observed	disease or pathology			human	an abrupt deterioration in performance	"[authors: ""abrupt deterioration""]"	11	True	B	9520014		Gemini Flash 3.6
+B272	no									human			11	True	B	25992569		Gemini Flash 3.6
+B385	yes	NC	explicit	molecular	population	inferred	chronological age			human	Sleep duration was correlated with BAA in a U-shaped pattern		11	True	B	40465046		Gemini Flash 3.6
+B181	no									multiple			11	True	B	16470014		Gemini Flash 3.6
+B089	no									mouse-rat			11	True	B	7644021		Gemini Flash 3.6
+B020	yes	NC	explicit	physiological-functional	population	inferred	chronological age			human	There is a non-linear decline in cardiac baroreceptor sensitivity	"[authors: ""non-linear decline""]"	11	True	B	10459786		Gemini Flash 3.6
+B187	no									human			11	True	B	18538374		Gemini Flash 3.6
+B051	no									human			11	True	B	8620362		Gemini Flash 3.6
+B235	no									mouse-rat			11	True	B	27846439		Gemini Flash 3.6
+B164	no									human			11	True	B	12794382		Gemini Flash 3.6
+B374	yes	P	implicit							human	MCI rates showed a proportional increase at each wave		11	True	B	33480611		Gemini Flash 3.6
+B211	no									human			11	True	B	24039052		Gemini Flash 3.6
+B244	no									human			11	True	B	30153738		Gemini Flash 3.6
+B200	no									human			11	True	B	17915226		Gemini Flash 3.6
+B013	no									mouse-rat			11	True	B	1360864		Gemini Flash 3.6
+B061	no									other			11	True	B	9443327		Gemini Flash 3.6
+B041	yes	D	explicit	cellular	individual	inferred	none stated	not stated	sudden onset of cell senescence	none	abrupt transition of cells from the larger to the smaller	"[authors: ""abrupt telomere shortening"", ""sudden senescence syndrome""]"	11	True	B	10196087		Gemini Flash 3.6
+B198	yes	NC	explicit	physiological-functional	population	observed	chronological age			human	Frequency-domain HRV decreased more at 65-69, less at 70-74 and minimally at >=75 years		11	True	B	19147739		Gemini Flash 3.6
+B126	yes	NC	implicit	physiological-functional	population	inferred	chronological age			human	an increase in functional complexity early in the lifespan and an eventual loss		11	True	B	17355813		Gemini Flash 3.6
+B219	no									human			11	True	B	29254405		Gemini Flash 3.6
+B156	no									human			11	True	B	18437693		Gemini Flash 3.6
+B084	no									mouse-rat			11	True	B	1280607		Gemini Flash 3.6
+B152	no									Drosophila			11	True	B	20157575		Gemini Flash 3.6
+B162	no									human			11	True	B	18063233		Gemini Flash 3.6
+B247	yes	P	implicit							C. elegans	Age-dependent collapse of lipid homeostasis results in spillover		11	True	B	27884963		Gemini Flash 3.6
+B327	no									human			11	True	B	34606593		Gemini Flash 3.6
+B107	no									human			11	True	B	18841026		Gemini Flash 3.6
+B205	no									human			11	True	B	20600789		Gemini Flash 3.6
+B002	yes	NC	explicit	tissue-organ	population	observed	chronological age			human	BMC increased slightly to a peak... followed by a decrease		11	True	B	2021710		Gemini Flash 3.6
+B072	no									human			11	True	B	2269253		Gemini Flash 3.6
+B349	no									human			11	True	B	38096586		Gemini Flash 3.6
+B315	no									other			11	True	B	40082090		Gemini Flash 3.6
+B026	no									multiple			11	True	B	9222747		Gemini Flash 3.6
+B215	yes	P	explicit							human	spatio-temporal model of morphological differences in the brain		11	True	B	29203452		Gemini Flash 3.6
+B386	no									human			11	True	B	33785642		Gemini Flash 3.6
+B341	no									human			11	True	B	41315231		Gemini Flash 3.6
+B289	no									human			11	True	B	28725932		Gemini Flash 3.6
+B064	no									human			11	True	B	1618193		Gemini Flash 3.6
+B367	no									human			11	True	B	36124764		Gemini Flash 3.6
+B350	no									mouse-rat			11	True	B	34777691		Gemini Flash 3.6
+B323	yes	P	implicit							human	HFD increased with age for frequencies up to 150 Hz		11	True	B	40692215		Gemini Flash 3.6
+B039	yes	P	explicit							human	The specific activity of superoxide dismutase declined with age		11	True	B	8759353		Gemini Flash 3.6
+B229	no									human			11	True	B	31682793		Gemini Flash 3.6
+B139	no									mouse-rat			12	True	B	14583653		Gemini Flash 3.6
+B154	no									other			12	True	B	11033009		Gemini Flash 3.6
+B217	no									human			12	True	B	23550089		Gemini Flash 3.6
+B029	yes	P	implicit							human	BC decreased statistically significantly in patients with advanced age		12	True	B	10090122		Gemini Flash 3.6
+B010	yes	P	explicit							human	age-dependency of right ventricular volume could be demonstrated using linear regression		12	True	B	8894788		Gemini Flash 3.6
+B132	yes	P	explicit							human	BA predicted actual cognitive change (decline) independent of CA		12	True	B	14963373		Gemini Flash 3.6
+B237	yes	P	implicit							human	R2 decreased with age for the majority of ROIs		12	True	B	24004692		Gemini Flash 3.6
+B279	no									human			12	True	B	24703889		Gemini Flash 3.6
+B106	yes	NC	explicit	tissue-organ	population	observed	chronological age			mouse-rat	biphasic pattern of gp91(phox) expression in rat liver during aging		12	True	B	15541774		Gemini Flash 3.6
+B355	no									human			12	True	B	38288940		Gemini Flash 3.6
+B396	yes	NC	explicit	molecular	population	observed	chronological age			mouse-rat	A large proportion of genes changed in a nonlinear pattern	"[authors: ""accelerated ageing""]"	12	True	B	39922128		Gemini Flash 3.6
+B334	no									human			12	True	B	33319704		Gemini Flash 3.6
+B287	yes	NC	explicit	physiological-functional	population	observed	chronological age			human	the prevalence of immunoparesis varied in a nonlinear fashion		12	True	B	23169485		Gemini Flash 3.6
+B274	no									human			12	True	B	27507608		Gemini Flash 3.6
+B285	yes	NC	explicit	molecular	population	observed	chronological age			mouse-rat	The trend with age can be equally well-fit by several non-linear functions		12	True	B	30255594		Gemini Flash 3.6
+B291	no									human			12	True	B	27821595		Gemini Flash 3.6
+B069	no									mouse-rat			12	True	B	9721743		Gemini Flash 3.6
+B234	no									human			12	True	B	27890742		Gemini Flash 3.6
+B310	no									human			12	True	B	34053387		Gemini Flash 3.6
+B353	no									human			12	True	B	40570516		Gemini Flash 3.6
+B212	no									human			12	True	B	25205853		Gemini Flash 3.6
+B124	no									mouse-rat			12	True	B	17699665		Gemini Flash 3.6
+B040	no									human			12	True	B	10224638		Gemini Flash 3.6
+B370	yes	NC	explicit	physiological-functional	population	observed	chronological age			human	A biphasic effect of age on CPAP adherence	"[authors: ""biphasic""]"	12	True	B	37759266		Gemini Flash 3.6
+B288	no									human			12	True	B	25063937		Gemini Flash 3.6
+B354	no									human			12	True	B	38432843		Gemini Flash 3.6
+B362	yes	P	explicit							human	This trend showed substantial stability across the adult life course		12	True	B	36840515		Gemini Flash 3.6
+B262	yes	P	implicit							mouse-rat	Tendon mechanical properties are thought to degrade during aging		12	True	B	23549897		Gemini Flash 3.6
+B383	no									human			12	True	B	39796538		Gemini Flash 3.6
+B021	no									human			12	True	B	8345818		Gemini Flash 3.6
+B104	no									human			12	True	B	17563180		Gemini Flash 3.6
+B293	no									other			12	True	B	20675607		Gemini Flash 3.6
+B251	no									human			12	True	B	31830815		Gemini Flash 3.6
+B146	no									other			12	True	B	18433736		Gemini Flash 3.6
+B087	yes	P	implicit							human	age and mean blood pressure were independently and negatively correlated		12	True	B	9260989		Gemini Flash 3.6
+B016	no									mouse-rat			12	True	B	1526323		Gemini Flash 3.6
+B168	no									none			12	True	B	20024518		Gemini Flash 3.6
+B176	yes	P	implicit							human	Females express higher enzyme levels as they grow older		12	True	B	16846540		Gemini Flash 3.6
+B095	no									other			12	True	B	8274501		Gemini Flash 3.6
+B390	yes	P	implicit							mouse-rat	photoreceptors degenerate in male Per2luc mice during aging		12	True	B	33135952		Gemini Flash 3.6
+B397	yes	D	explicit	cellular	population	observed	chronological age	not stated	biphasic transition from compensatory resistance to systemic collapse	mouse-rat	oocyte aging follows a biphasic nonlinear trajectory	"[authors: ""biphasic nonlinear trajectory""]"	12	True	B	41595467		Gemini Flash 3.6
+B242	no									Drosophila			12	True	B	30305625		Gemini Flash 3.6
+B302	no									human			12	True	B	33555436		Gemini Flash 3.6
+B255	no									human			12	True	B	28057201		Gemini Flash 3.6
+B098	no									human			12	True	B	2111647		Gemini Flash 3.6
+B233	no									mouse-rat			12	True	B	27785644		Gemini Flash 3.6
+B322	no									human			12	True	B	39855016		Gemini Flash 3.6
+B157	no									human			12	True	B	15881295		Gemini Flash 3.6
+B329	no									human			12	True	B	38892569		Gemini Flash 3.6
+B163	no									none			12	True	B	22880823		Gemini Flash 3.6
+B155	yes	NC	explicit	whole-organism	individual	observed	chronological age			C. elegans	accelerated aging in young adulthood	"[authors: ""accelerated aging""]"	13	True	B	16626392		Gemini Flash 3.6
+B044	yes	NC	explicit	tissue-organ	population	inferred	chronological age			human	non-linear pattern of change in cerebral grey-white	"[authors: ""non-linear pattern""]"	13	True	B	7936078		Gemini Flash 3.6
+B245	yes	P	implicit	physiological-functional	population	inferred	chronological age			human	nonlinear coupling and spectral alpha power decreased with age		13	True	B	22709403		Gemini Flash 3.6
+B387	yes	NC	explicit	physiological-functional	population	inferred	chronological age			human	U-shaped phenotypic associations between sleep duration and	"[authors: ""U-shaped phenotypic associations""]"	13	True	B	40856643		Gemini Flash 3.6
+B308	no									human			13	True	B	39004533		Gemini Flash 3.6
+B008	yes	P	implicit	tissue-organ	population	inferred	chronological age			human	age and the chewing of... gum were positively correlated with calculus		13	True	B	7499596		Gemini Flash 3.6
+B173	no									mouse-rat			13	True	B	20011633		Gemini Flash 3.6
+B378	yes	NC	explicit	molecular	individual	observed	chronological age			human	accelerate within-person change in methylation age from adolescence	"[authors: ""accelerated within-person change""]"	13	True	B	35137412		Gemini Flash 3.6
+B379	no									human			13	True	B	32783580		Gemini Flash 3.6
+B141	yes	P	implicit	physiological-functional	individual	observed	chronological age			mouse-rat	reverse age-related deficits in behavior		13	True	B	16837106		Gemini Flash 3.6
+B343	yes	NC	explicit	physiological-functional	population	inferred	chronological age			human	relationship was nonlinear in individuals aged 18-44 years	"[authors: ""nonlinear""]"	13	True	B	39856735		Gemini Flash 3.6
+B398	no									mouse-rat			13	True	B	39095992		Gemini Flash 3.6
+B368	yes	NC	explicit	molecular	population	inferred	chronological age			mouse-rat	aging is associated with more stringent retention... and more abrupt changes	"[authors: ""abrupt changes""]"	13	True	B	33882817		Gemini Flash 3.6
+B204	yes	P	explicit	physiological-functional	individual	observed	chronological age			human	profiles of residual decline in late life cognition		13	True	B	25495832		Gemini Flash 3.6
+B054	no									mouse-rat			13	True	B	2354852		Gemini Flash 3.6
+B006	no									human			13	True	B	10603304		Gemini Flash 3.6
+B365	no									human			13	True	B	38347745		Gemini Flash 3.6
+B218	yes	P	implicit	whole-organism	population	inferred	chronological age			human	prevalence increasing with age		13	True	B	24248696		Gemini Flash 3.6
+B395	no									human			13	True	B	39197809		Gemini Flash 3.6
+B118	no									mouse-rat			13	True	B	11505367		Gemini Flash 3.6
+B004	no									mouse-rat			13	True	B	9088911		Gemini Flash 3.6
+B298	yes	P	implicit	molecular	population	inferred	chronological age			human	Gradual changes in the DNA methylation landscape occur throughout aging		13	True	B	27587280		Gemini Flash 3.6
+B336	yes	NC	explicit	tissue-organ	population	inferred	chronological age			human	shapes are typically highly nonlinear	"[authors: ""highly nonlinear""]"	13	True	B	33248257		Gemini Flash 3.6
+B335	no									human			13	True	B	39105295		Gemini Flash 3.6
+B148	no									human			13	True	B	18838195		Gemini Flash 3.6
+B079	yes	NC	explicit	physiological-functional	population	inferred	chronological age			human	age-related decline accelerated significantly over the adult life span	"[authors: ""quadratic age effects""]"	13	True	B	9354147		Gemini Flash 3.6
+B175	no									multiple			13	True	B	15456908		Gemini Flash 3.6
+B145	no									human			13	True	B	19457549		Gemini Flash 3.6
+B382	yes	NC	explicit	physiological-functional	population	inferred	chronological age			human	overall pattern of life satisfaction across different ages resembles a J-shape	"[authors: ""J-shape""]"	13	True	B	40973441		Gemini Flash 3.6
+B243	yes	P	explicit	tissue-organ	population	inferred	chronological age			human	coordinate locations describing the shape of each region were regressed with age		13	True	B	25406956		Gemini Flash 3.6
+B270	no									human			13	True	B	26130741		Gemini Flash 3.6
+B206	no									other			13	True	B	25411066		Gemini Flash 3.6
+B099	yes	P	implicit	physiological-functional	population	inferred	chronological age			human	showed a significant stepwise decrease with age	"[authors: ""stepwise decrease""]"	13	True	B	1595678		Gemini Flash 3.6
+B309	no									human			13	True	B	32856316		Gemini Flash 3.6
+B320	yes	NC	explicit	whole-organism	population	inferred	chronological age			human	four BMI trajectories identified were as follows: stable weight, midlife weight gain	"[authors: ""BMI trajectories""]"	13	True	B	40307654		Gemini Flash 3.6
+B077	yes	NC	explicit	physiological-functional	population	inferred	chronological age			human	undergoes a nonlinear decline with age	"[authors: ""nonlinear decline""]"	13	True	B	7968424		Gemini Flash 3.6
+B055	yes	P	implicit	molecular	population	observed	chronological age			mouse-rat	binding activity ... markedly increased with aging		13	True	B	8687038		Gemini Flash 3.6
+B050	no									mouse-rat			13	True	B	1936608		Gemini Flash 3.6
+B312	yes	P	implicit	whole-organism	population	inferred	chronological age			human	prevalence rose stepwise with age	"[authors: ""stepwise""]"	13	True	B	41045866		Gemini Flash 3.6
+B333	no									human			13	True	B	40302773		Gemini Flash 3.6
+B028	no									mouse-rat			13	True	B	8196370		Gemini Flash 3.6
+B267	no									multiple			13	True	B	28193858		Gemini Flash 3.6
+B025	yes	P	implicit	molecular	individual	observed	chronological age			multiple	specific activities of the key glycolytic enzymes declined		13	True	B	1656939		Gemini Flash 3.6
+B110	no									mouse-rat			13	True	B	17537975		Gemini Flash 3.6
+B216	yes	NC	explicit	physiological-functional	population	inferred	proximity to death			human	declined rapidly with impending death	"[authors: ""terminal decline""]"	13	True	B	20545432		Gemini Flash 3.6
+B058	yes	P	explicit	physiological-functional	population	inferred	chronological age			human	mitral ring motion = 18.4 - 0.065 x age		13	True	B	9413650		Gemini Flash 3.6
+B220	yes	P	implicit	physiological-functional	population	observed	chronological age			human	Step length and gait speed progressively decreased with advancing age		13	True	B	25455212		Gemini Flash 3.6
+B305	no									Drosophila			13	True	B	39702854		Gemini Flash 3.6
+B306	no									human			13	True	B	39331812		Gemini Flash 3.6
+B048	no									other			13	True	B	8227679		Gemini Flash 3.6
+B078	no									mouse-rat			14	True	B	1824120		Gemini Flash 3.6
+B258	no									human			14	True	B	23460854		Gemini Flash 3.6
+B230	no									human			14	True	B	21746836		Gemini Flash 3.6
+B150	no									mouse-rat			14	True	B	16115803		Gemini Flash 3.6
+B321	no									human			14	True	B	41297282		Gemini Flash 3.6
+B259	no									human			14	True	B	30439962		Gemini Flash 3.6
+B371	no									mouse-rat			14	True	B	32273888		Gemini Flash 3.6
+B330	no									human			14	True	B	40810394		Gemini Flash 3.6
+B266	no									human			14	True	B	26334963		Gemini Flash 3.6
+B342	no									human			14	True	B	41401565		Gemini Flash 3.6
+B313	no									human			14	True	B	32438247		Gemini Flash 3.6
+B248	no									human			14	True	B	25248511		Gemini Flash 3.6
+B144	yes	NC	explicit	tissue-organ	population	inferred	chronological age			human	total refractive power and surface refractive power both showed a biphasic age dependency	"[authors: ""biphasic""]"	14	True	B	18316704		Gemini Flash 3.6
+B092	yes	NC	explicit	tissue-organ	population	inferred	chronological age			human	revealed a biphasic curve for both the ventral and dorsal shell	"[authors: ""biphasic""]"	14	True	B	9240730		Gemini Flash 3.6
+B179	no									mouse-rat			14	True	B	11792363		Gemini Flash 3.6
+B296	no									mouse-rat			14	True	B	24807824		Gemini Flash 3.6
+B037	no									human			14	True	B	16296673		Gemini Flash 3.6
+B088	no									multiple			14	True	B	8513271		Gemini Flash 3.6
+B065	no									mouse-rat			14	True	B	2084504		Gemini Flash 3.6
+B358	no									human			14	True	B	38853301		Gemini Flash 3.6
+B361	no									human			14	True	B	40164562		Gemini Flash 3.6
+B201	yes	NC	explicit	physiological-functional	individual	observed	chronological age			human	rate of change was found to decelerate over time		14	True	B	20230087		Gemini Flash 3.6
+B303	no									human			14	True	B	40701371		Gemini Flash 3.6
+B117	yes	P	explicit	tissue-organ	population	inferred	chronological age			human	negative linear correlation between age and 18F-MPPF binding		14	True	B	16330560		Gemini Flash 3.6
+B194	no									human			14	True	B	16368843		Gemini Flash 3.6
+B127	no									human			14	True	B	15063946		Gemini Flash 3.6
+B076	no									mouse-rat			14	True	B	7582108		Gemini Flash 3.6
+B184	no									human			14	True	B	15928031		Gemini Flash 3.6
+B222	no									human			14	True	B	29225356		Gemini Flash 3.6
+B352	no									human			14	True	B	39325937		Gemini Flash 3.6
+B068	no									mouse-rat			14	True	B	9234236		Gemini Flash 3.6
+B131	no									human			14	True	B	19475566		Gemini Flash 3.6
+B105	no									human			14	True	B	19084984		Gemini Flash 3.6
+B286	no									mouse-rat			14	True	B	22129514		Gemini Flash 3.6
+B278	no									mouse-rat			14	True	B	24257571		Gemini Flash 3.6
+B261	no									mouse-rat			14	True	B	29615095		Gemini Flash 3.6
+B356	no									human			14	True	B	40448028		Gemini Flash 3.6
+B292	no									human			14	True	B	23343541		Gemini Flash 3.6
+B202	no									human			14	True	B	22959930		Gemini Flash 3.6
+B032	yes	D	explicit	cellular	population	observed	chronological age	not stated	Two phases have been distinguished	mouse-rat	Two phases have been distinguished, similar to those observed	"[authors: ""phases""]"	14	True	B	8094925		Gemini Flash 3.6
+B116	no									multiple			14	True	B	20157573		Gemini Flash 3.6
+B136	no									human			14	True	B	15249151		Gemini Flash 3.6
+B091	no									mouse-rat			14	True	B	1951704		Gemini Flash 3.6
+B328	no									human			14	True	B	32539085		Gemini Flash 3.6
+B199	no									human			14	True	B	16355084		Gemini Flash 3.6
+B130	no									multiple			14	True	B	17136506		Gemini Flash 3.6
+B268	no									human			14	True	B	28005421		Gemini Flash 3.6
+B373	yes	NC	explicit	cellular	population	observed	chronological age			human	robust, non-linear transcriptional reprogramming in T cell subsets with age	"[authors: ""non-linear""]"	14	True	B	41162704		Gemini Flash 3.6
+B119	no									multiple			14	True	B	19732043		Gemini Flash 3.6
+B225	yes	NC	explicit	tissue-organ	population	inferred	chronological age			human	showed a quadratic relationship, with individuals in late middle age	"[authors: ""quadratic relationship""]"	14	True	B	23721902		Gemini Flash 3.6
+B022	no									human			15	True	B	8222123		Gemini Flash 3.6
+B045	no									human			15	True	B	7744274		Gemini Flash 3.6
+B081	no									mouse-rat			15	True	B	9236724		Gemini Flash 3.6
+B232	no									mouse-rat			15	True	B	21108731		Gemini Flash 3.6
+B019	no									human			15	True	B	1576926		Gemini Flash 3.6
+B171	no									mouse-rat			15	True	B	17038423		Gemini Flash 3.6
+B346	no									human			15	True	B	32965797		Gemini Flash 3.6
+B086	no									mouse-rat			15	True	B	7643252		Gemini Flash 3.6
+B357	yes	NC	explicit	tissue-organ	population	inferred	chronological age			human	nonlinear microstructure declines across fiber classes		15	True	B	34332220		Gemini Flash 3.6
+B331	yes	NC	explicit	molecular	population	inferred	chronological age			human	U-shaped association with a critical transition point	"[authors: ""biphasic association""]"	15	True	B	41088627		Gemini Flash 3.6
+B094	yes	P	implicit							human	incidence of the deleted mtDNA was found to increase with age		15	True	B	1627156		Gemini Flash 3.6
+B282	no									multiple			15	True	B	29968395		Gemini Flash 3.6
+B166	no									human			15	True	B	15588798		Gemini Flash 3.6
+B071	yes	D	explicit	cellular	population	inferred	chronological age	not stated	Two phases were distinguished in the development of coupling ratio	other	Two phases were distinguished in the development of coupling ratio		15	True	B	1860075		Gemini Flash 3.6
+B297	no									mouse-rat			15	True	B	25110075		Gemini Flash 3.6
+B093	yes	P	implicit							human	partial decrease in testosterone levels with aging		15	True	B	9237040		Gemini Flash 3.6
+B369	no									human			15	True	B	35052422		Gemini Flash 3.6
+B351	no									human			15	True	B	40602330		Gemini Flash 3.6
+B001	yes	P	implicit							human	progressive decline in visuo-spatial performance		15	True	B	9838178		Gemini Flash 3.6
+B067	yes	P	explicit							human	decline for most of these begins in early life and proceeds steadily		15	True	B	9666043		Gemini Flash 3.6
+B192	no									human			15	True	B	19445346		Gemini Flash 3.6
+B180	no									mouse-rat			15	True	B	20195488		Gemini Flash 3.6
+B052	no									other			15	True	B	8891499		Gemini Flash 3.6
+B377	no									human			15	True	B	40442604		Gemini Flash 3.6
+B363	yes	D	explicit	cellular	individual	observed	chronological age	not stated	cohesion limit	mouse-rat	premature sister chromatid separation sharply increases only when REC8 levels drop		15	True	B	41184483		Gemini Flash 3.6
+B264	no									human			15	True	B	27068303		Gemini Flash 3.6
+B185	no									mouse-rat			15	True	B	15500082		Gemini Flash 3.6
+B236	no									human			15	True	B	28321696		Gemini Flash 3.6
+B394	no									none			15	True	B	38030089		Gemini Flash 3.6
+B003	no									human			15	True	B	10426595		Gemini Flash 3.6
+B047	no									mouse-rat			15	True	B	9467417		Gemini Flash 3.6
+B165	no									mouse-rat			15	True	B	12630785		Gemini Flash 3.6
+B250	no									human			15	True	B	22398143		Gemini Flash 3.6
+B210	no									human			15	True	B	29284674		Gemini Flash 3.6
+B129	no									mouse-rat			15	True	B	16981697		Gemini Flash 3.6
+B253	no									mouse-rat			15	True	B	31641924		Gemini Flash 3.6
+B070	no									human			15	True	B	9293196		Gemini Flash 3.6
+B035	no									other			15	True	B	9364233		Gemini Flash 3.6
+B174	no									mouse-rat			15	True	B	11173878		Gemini Flash 3.6
+B033	yes	P	implicit							human	steady increase with age in the percentage of sphingomyelin		15	True	B	7928192		Gemini Flash 3.6
+B226	no									human			15	True	B	28276931		Gemini Flash 3.6
+B391	yes	NC	explicit	physiological-functional	population	inferred	chronological age			human	difference in observed-vs.-predicted PWV change increased nonlinearly as a function of age		15	True	B	32634245		Gemini Flash 3.6
+B275	yes	P	implicit							human	P2 latency increases about 9 msec per decade of life		15	True	B	26656318		Gemini Flash 3.6
+B100	no									mouse-rat			15	True	B	7868424		Gemini Flash 3.6
+B345	no									multiple			15	True	B	41373554		Gemini Flash 3.6
+B149	no									human			15	True	B	19566802		Gemini Flash 3.6
+B392	no									human			15	True	B	35472831		Gemini Flash 3.6
+B380	yes	NC	explicit	physiological-functional	individual	observed	chronological age			human	historical changes in within-person trajectories of the perceived onset of old age		15	True	B	38647449		Gemini Flash 3.6

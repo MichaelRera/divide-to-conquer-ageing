@@ -1,0 +1,65 @@
+{
+  "codebook": {
+    "screen_relevant": [
+      "yes",
+      "no"
+    ],
+    "trajectory_code": [
+      "P",
+      "NC",
+      "D",
+      "U",
+      "DEV"
+    ],
+    "explicitness": [
+      "explicit",
+      "implicit"
+    ],
+    "level": [
+      "molecular",
+      "cellular",
+      "tissue-organ",
+      "physiological-functional",
+      "whole-organism",
+      "population-demographic"
+    ],
+    "scale": [
+      "individual",
+      "population"
+    ],
+    "observation": [
+      "observed",
+      "inferred"
+    ],
+    "anchor": [
+      "chronological age",
+      "proximity to death",
+      "disease or pathology",
+      "physiological state",
+      "none stated"
+    ],
+    "reversibility": [
+      "irreversible stated",
+      "reversible stated",
+      "not stated"
+    ],
+    "organism": [
+      "human",
+      "mouse-rat",
+      "Drosophila",
+      "C. elegans",
+      "other",
+      "multiple",
+      "none"
+    ]
+  },
+  "rules": [
+    "DEV replaces U for pre-adult development/maturation papers (neonates, postnatal development).",
+    "A plain young-vs-old comparison with no trajectory language is U.",
+    "Wording such as 'declines/increases with (advancing) age', 'age-related reduction/accumulation', or 'ageing leads to reduced X' is P implicit. A bare between-group difference with no such attribution stays U.",
+    "E = explicit only when the study measures or formally models the trajectory (three or more ages, or continuous age) or the paper's own claim is about the shape. A background adjective ('the progressive loss of...') is implicit.",
+    "A change of slope anchored to an event (death, diagnosis) is NC, even when the authors call it a 'transition', 'inflection point' or 'terminal decline'. D requires qualitatively distinct states (a new state or phase, not only a faster rate).",
+    "Arm B: screen first. Relevant only if the abstract claims something about the shape of an ageing trajectory (organism, organ, function or molecular layer, over age or the life course). If not relevant, leave every other code field empty (organism may still be filled).",
+    "Arm B: record the authors' own shape vocabulary in notes as [authors: \"...\"] when it differs from your code."
+  ]
+}

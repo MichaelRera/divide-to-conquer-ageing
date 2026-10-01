@@ -1,0 +1,193 @@
+BATCH 15: 48 records (B022 ... B380)
+
+### B022 | arm B | 1993
+Title: Circadian variation of sudden cardiac death reflects age-related variability in ventricular fibrillation.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B045 | arm B | 1995
+Title: Drug use in an elderly Chinese population: prevalence and associated factors.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B081 | arm B | 1997
+Title: Effect of aging on regulation of brain stem circulation during hypotension.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B232 | arm B | 2011
+Title: Accelerated aging phenotype in mice with conditional deficiency for mitochondrial superoxide dismutase in the connective tissue.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B019 | arm B | 1992
+Title: Lowered membrane fluidity of younger erythrocytes in diabetes.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B171 | arm B | 2006
+Title: Postnatal changes in ventilation during normoxia and acute hypoxia in the rat: implication for a sensitive period.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B346 | arm B | 2020
+Title: Short-term water deprivation attenuates the exercise pressor reflex in older female adults.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B086 | arm B | 1995
+Title: The time course of adaptation of intestinal nutrient uptake in mice is independent of age.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B357 | arm B | 2021
+Title: Age affects white matter microstructure and episodic memory across the older adult lifespan.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B331 | arm B | 2025
+Title: U-shaped association between HDL-C and epigenetic age acceleration: A cross-sectional analysis from NHANES 1999-2002.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B094 | arm B | 1992
+Title: Age-dependent 6kb deletion in human liver mitochondrial DNA.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B282 | arm B | 2018
+Title: Loss of DNA polymerase β induces cellular senescence.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B166 | arm B | 2004
+Title: Aging and upper gastrointestinal disorders.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B071 | arm B | 1991
+Title: Age-related changes in junctional and non-junctional conductances in two electrically coupled peptidergic neurons of the mollusc Lymnaea stagnalis.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B297 | arm B | 2014
+Title: Role of neuropeptide Y in myocardial contractility of rats during early postnatal ontogeny.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B093 | arm B | 1997
+Title: Age-related changes in male gonadal function. Implications for therapy.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B369 | arm B | 2021
+Title: BRCA2 Haploinsufficiency in Telomere Maintenance.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B351 | arm B | 2025
+Title: Motoric cognitive risk syndrome and epigenetic aging in a cohort of the community-dwelling aging population.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B001 | arm B | 1999
+Title: Effects of age on working memory: an event-related potential study.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B067 | arm B | 1998
+Title: Age-related biology and diseases of muscle and nerve.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B192 | arm B | 2009
+Title: Parenthood, stress, and mental health in late midlife and early old age.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B180 | arm B | 2009
+Title: Sod2 haploinsufficiency does not accelerate aging of telomere dysfunctional mice.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B052 | arm B | 1996
+Title: Breath-by-breath determinations of airway occlusion pressure in the developing lamb.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B377 | arm B | 2025
+Title: Healthy sleep without insomnia may go beyond sleep duration for achieving successful aging in Chinese older adults: a cross-sectional study.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B363 | arm B | 2025
+Title: A versatile cohesion manipulation system probes female reproductive age-related egg aneuploidy.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B264 | arm B | 2017
+Title: Are there different factors affecting walking speed and gait cycle variability between men and women in community-dwelling older adults?
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B185 | arm B | 2003
+Title: Effect of neuronol on lifespan and development of spontaneous tumors in SAMP-1 mice with genetically accelerated aging.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B236 | arm B | 2017
+Title: Accelerated and accentuated neurocognitive aging in HIV infection.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B394 | arm B | 2024
+Title: Mitochondria as a sensor, a central hub and a biological clock in psychological stress-accelerated aging.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B003 | arm B | 1999
+Title: Factors influencing changes in maxillary arch dimensions in unilateral cleft lip and palate patients until six months of age.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B047 | arm B | 1998
+Title: Accelerated aging of dermal fibroblast-like cells from the senescence-accelerated mouse (SAM): acceleration of changes in DNA ploidy associated with in vitro cellular aging.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B165 | arm B | 2002
+Title: Discontinuous capillary segments in the extensor digitorum longus muscle of aged BUF/Mna rats.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B250 | arm B | 2012
+Title: Tracing the origins of successful aging: the role of childhood conditions and social inequality in explaining later life health.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B210 | arm B | 2018
+Title: Modeling the Effects of Age and Sex on Normal Pediatric Brain Metabolism Using 18F-FDG PET/CT.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B129 | arm B | 2006
+Title: Activation of the cGMP signaling pathway is essential in delaying oocyte aging in diabetes mellitus.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B253 | arm B | 2019
+Title: Accelerated decline in cognition in a mouse model of increased oxidative stress.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B070 | arm B | 1997
+Title: Aging and intellectual ability in young, middle-aged, and older educated adults: preliminary results from a sample of college faculty.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B035 | arm B | 1997
+Title: Use of age and serum gamma-glutamyltransferase activity to assess passive transfer status in lambs.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B174 | arm B | 2001
+Title: Age-related changes in energy production in fresh senescence-accelerated mouse brain slices as revealed by positron autoradiography.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B033 | arm B | 1994
+Title: Regional and age-dependent differences in the phospholipid composition of human lens membranes.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B226 | arm B | 2018
+Title: The Effects of Subjective Age and Aging Attitudes on Mid- to Late-Life Sexuality.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B391 | arm B | 2020
+Title: Age-Specific Acute Changes in Carotid-Femoral Pulse Wave Velocity With Head-up Tilt.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B275 | arm B | 2016
+Title: Diabetes-Associated Changes in Cortical Auditory-Evoked Potentials in Relation to Normal Aging.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B100 | arm B | 1994
+Title: Age-related differences in diaphragm muscle injury after lengthening activations.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B345 | arm B | 2025
+Title: Multi-Target Botanical Complex Attenuates Cellular Senescence via Bidirectional P21/P53/SIRT1 Regulation: Dual Model Validation.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B149 | arm B | 2009
+Title: Intergenerational support and subjective health of older people in rural China: a gender-based longitudinal study.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B392 | arm B | 2022
+Title: Differences between multimodal brain-age and chronological-age are linked to telomere shortening.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B380 | arm B | 2024
+Title: Postponing old age: Evidence for historical change toward a later perceived onset of old age.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]

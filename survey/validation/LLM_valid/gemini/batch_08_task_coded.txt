@@ -1,0 +1,51 @@
+review_id	screen_relevant	trajectory_code	explicitness	level	scale	observation	anchor	reversibility	meaning	organism	evidence_quote	notes
+A302	-	P	implicit	-	-	-	-	-	-	human	cerebral pulsatility was associated with age	-
+A268	-	P	implicit	-	-	-	-	-	-	human	with ageing trends	-
+A270	-	P	implicit	-	-	-	-	-	-	multiple	>10-fold age-dependent decline in the level of MeCbl	-
+A255	-	U	-	-	-	-	-	-	-	human	prevalence of PD increases with age	-
+A045	-	U	-	-	-	-	-	-	-	human	-	-
+A297	-	P	implicit	-	-	-	-	-	-	Drosophila	postponed manifestation of histological and ultrastructural features of age-dependent neurodegeneration	-
+A106	-	U	-	-	-	-	-	-	-	mouse-rat	-	-
+A101	-	U	-	-	-	-	-	-	-	human	attributing feeling depressed to old age	-
+A040	-	P	implicit	-	-	-	-	-	-	mouse-rat	decrease in respiratory muscle mitochondrial function in rats	-
+A338	-	U	-	-	-	-	-	-	-	human	-	-
+A030	-	U	-	-	-	-	-	-	-	human	age was not significant	-
+A078	-	P	implicit	-	-	-	-	-	-	human	outcome, assessed using the Glasgow Outcome Scale at 3 months post-SAH, was poorer with advancing age	-
+A198	-	P	implicit	-	-	-	-	-	-	multiple	delay deleterious age-related physiological changes	-
+A125	-	P	implicit	-	-	-	-	-	-	multiple	decrements accruing with age	-
+A252	-	U	-	-	-	-	-	-	-	human	-	-
+A037	-	P	implicit	-	-	-	-	-	-	mouse-rat	reduced activities and catalase activities enhanced with age	-
+A269	-	U	-	-	-	-	-	-	-	human	-	-
+A044	-	DEV	-	-	-	-	-	-	-	other	development of the main (nVI) and the accessory abducens	-
+A208	-	P	implicit	-	-	-	-	-	-	human	demonstrates an age related drop in mitochondrial respiratory chain activity	-
+A035	-	DEV	-	-	-	-	-	-	-	other	synaptogenesis in the ferret cerebral cortex was examined from the day of birth to adulthood	-
+A299	-	P	implicit	-	-	-	-	-	-	mouse-rat	delaying the loss of biological functions characteristic of the aging process	-
+A187	-	U	-	-	-	-	-	-	-	none	-	-
+A088	-	P	implicit	-	-	-	-	-	-	mouse-rat	exacerbation in aged rats	-
+A021	-	U	-	-	-	-	-	-	-	human	-	-
+A061	-	DEV	-	-	-	-	-	-	-	multiple	higher in late embryonal compared to newborn or adult animals	-
+A022	-	P	implicit	-	-	-	-	-	-	human	increase in size and intensity of the GA became apparent in individuals from about 70 years and older	-
+A280	-	P	implicit	-	-	-	-	-	-	human	age-related decline in both optimism and working-memory	-
+A063	-	P	implicit	-	-	-	-	-	-	other	organisms whose survival rates decline with age	-
+A249	-	P	implicit	-	-	-	-	-	-	human	processing speed on this test slows 2 to 4 sec. per decade	-
+A124	-	U	-	-	-	-	-	-	-	human	-	-
+A309	-	P	explicit	-	-	-	-	-	-	other	no evidence of significant senescent decline in survival or reproductive performance	-
+A218	-	P	implicit	-	-	-	-	-	-	human	unintended side effect of declining cognitive abilities	-
+A095	-	P	implicit	-	-	-	-	-	-	human	modifies the mean daily levels and the amplitude of the diurnal variations	-
+A242	-	U	-	-	-	-	-	-	-	mouse-rat	-	-
+A341	-	U	-	-	-	-	-	-	-	multiple	-	-
+A166	-	DEV	-	-	-	-	-	-	-	human	Language development and mild-to-moderate hearing loss	-
+A142	-	U	-	-	-	-	-	-	-	human	-	-
+A010	-	DEV	-	-	-	-	-	-	-	mouse-rat	Pre- and postnatal development of opiate receptor subtypes	-
+A225	-	P	explicit	-	-	-	-	-	-	other	length decreased with age	-
+A049	-	P	implicit	-	-	-	-	-	-	human	ability to mobilize these PMNs from the marrow into blood... is significantly reduced in the elderly	-
+B223	no	-	-	-	-	-	-	-	-	mouse-rat	-	-
+B158	yes	NC	explicit	physiological-functional	population	inferred	chronological age	-	-	human	age has an inverse and nonlinear association with feelings of control	-
+B241	no	-	-	-	-	-	-	-	-	human	-	-
+B231	no	-	-	-	-	-	-	-	-	human	-	-
+B307	no	-	-	-	-	-	-	-	-	human	-	-
+B295	no	-	-	-	-	-	-	-	-	human	-	-
+B012	yes	D	explicit	physiological-functional	population	inferred	chronological age	not stated	discontinuity at approximately 37 years of age	human	biphasic model with a discontinuity at approximately 37 years of age	-
+B101	no	-	-	-	-	-	-	-	-	human	-	-
+B167	no	-	-	-	-	-	-	-	-	human	-	-
+B196	no	-	-	-	-	-	-	-	-	mouse-rat	-	-

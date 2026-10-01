@@ -1,0 +1,51 @@
+review_id	screen_relevant	trajectory_code	explicitness	level	scale	observation	anchor	reversibility	meaning	organism	evidence_quote	notes
+A057	-	DEV	-	-	-	-	-	-	-	other	During normal development	-
+A100	-	U	-	-	-	-	-	-	-	mouse-rat	-	-
+A050	-	DEV	-	-	-	-	-	-	-	human	higher in neonates than in adults	-
+A237	-	P	implicit	-	-	-	-	-	-	mouse-rat	Oxidative DNA damage accumulates with age	-
+A018	-	NC	explicit	molecular	population	observed	chronological age	-	-	mouse-rat	increase with aging in an exponential manner	-
+A025	-	U	-	-	-	-	-	-	-	human	-	-
+A266	-	DEV	-	-	-	-	-	-	-	human	Somatosensation matures through childhood into adolescence	-
+A315	-	U	-	-	-	-	-	-	-	human	-	-
+A117	-	DEV	-	-	-	-	-	-	-	other	during growth and breeding cycle	-
+A072	-	P	explicit	-	-	-	-	-	-	human	age-related increase in FSH concentrations	-
+A014	-	DEV	-	-	-	-	-	-	-	other	postnatal development	-
+A001	-	U	-	-	-	-	-	-	-	human	-	-
+A163	-	U	-	-	-	-	-	-	-	human	-	-
+A296	-	U	-	-	-	-	-	-	-	human	-	-
+A076	-	P	implicit	-	-	-	-	-	-	human	significant loss of anaerobic power in the older group	-
+A236	-	U	-	-	-	-	-	-	-	mouse-rat	-	-
+A308	-	U	-	-	-	-	-	-	-	mouse-rat	-	-
+A288	-	P	implicit	-	-	-	-	-	-	mouse-rat	As males age they show impairments in sexual function	-
+A128	-	P	implicit	-	-	-	-	-	-	human	mitochondrial decay of ageing	-
+A267	-	U	-	-	-	-	-	-	-	none	-	-
+A285	-	U	-	-	-	-	-	-	-	human	-	-
+A054	-	NC	explicit	molecular	population	observed	chronological age	-	-	other	accumulate with age starting at 25 years escalating after 30	-
+A273	-	NC	explicit	population-demographic	population	inferred	chronological age	-	-	human	increase decrease or remain steady over time and across adult ages	-
+A211	-	U	-	-	-	-	-	-	-	other	-	-
+A089	-	NC	explicit	cellular	population	observed	chronological age	-	-	mouse-rat	White blood cell counts increased in 12-week-old mice	-
+A116	-	P	explicit	-	-	-	-	-	-	human	function in two hippocampal subregions decline normally with age	-
+A290	-	U	-	-	-	-	-	-	-	human	-	-
+A136	-	P	explicit	-	-	-	-	-	-	human	age-related decrease of the frequency of allele	-
+A272	-	P	explicit	-	-	-	-	-	-	human	Older age was associated with significantly lower fast spindle density	-
+A233	-	P	implicit	-	-	-	-	-	-	mouse-rat	progressively more severe neurodegeneration during aging	-
+A179	-	U	-	-	-	-	-	-	-	human	-	-
+A277	-	P	implicit	-	-	-	-	-	-	human	accumulation of senescent cells that are persistent during aging	-
+A200	-	P	implicit	-	-	-	-	-	-	human	Telomere length shortens with each cell division	-
+A202	-	P	explicit	-	-	-	-	-	-	mouse-rat	Exposure to constant illumination was followed by accelerated aging	-
+A096	-	P	explicit	-	-	-	-	-	-	mouse-rat	significant age-related decrease in GSH-Px GSH-Red and G6PD activities	-
+A051	-	DEV	-	-	-	-	-	-	-	human	Neonatal cranial ultrasound abnormalities	-
+A245	-	P	explicit	-	-	-	-	-	-	human	predicted cognitive decline among persons aged 80 years and older	-
+A069	-	P	explicit	-	-	-	-	-	-	human	Ageing contributes to increased variability of airway calibre	-
+A215	-	P	implicit	-	-	-	-	-	-	human	Aging is associated with progressive T-cell deficiency	-
+A256	-	U	-	-	-	-	-	-	-	human	-	-
+A286	-	P	implicit	-	-	-	-	-	-	human	individuals who are aging at an accelerated rate	-
+A292	-	U	-	-	-	-	-	-	-	human	-	-
+A275	-	DEV	-	-	-	-	-	-	-	human	emergence of race-by-sex disparities in early childhood	-
+A195	-	U	-	-	-	-	-	-	-	human	-	-
+A220	-	P	explicit	-	-	-	-	-	-	human	Ageing is associated with diminished muscle re-growth	-
+A287	-	P	explicit	-	-	-	-	-	-	mouse-rat	progressive loss of phosphorus in the outer nuclear layer	-
+A235	-	P	explicit	-	-	-	-	-	-	human	significant age trend in all five personality domains	-
+A158	-	DEV	-	-	-	-	-	-	-	human	early pubertal girls	-
+A214	-	U	-	-	-	-	-	-	-	human	-	-
+A034	-	U	-	-	-	-	-	-	-	human	-	-

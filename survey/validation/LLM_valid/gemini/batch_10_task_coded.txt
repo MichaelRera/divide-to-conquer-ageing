@@ -1,0 +1,51 @@
+review_id	screen_relevant	trajectory_code	explicitness	level	scale	observation	anchor	reversibility	meaning	organism	evidence_quote	notes
+B277	yes	NC	explicit	physiological-functional	individual	observed	disease or pathology	-	-	human	quadratic relationship between increasing Aβ burden	[authors: "nonlinear effect"]
+B038	yes	P	implicit	-	-	-	-	-	-	multiple	aging brings about a progressive disruption	-
+B121	yes	NC	implicit	physiological-functional	population	inferred	none stated	-	-	multiple	In a non-linear dynamic process these changes can contribute	[authors: "non-linear dynamic process"]
+B381	no	-	-	-	-	-	-	-	-	human	-	-
+B169	no	-	-	-	-	-	-	-	-	human	-	-
+B366	no	-	-	-	-	-	-	-	-	human	-	-
+B316	yes	P	implicit	-	-	-	-	-	-	multiple	serum levels decrease with physiological aging	-
+B160	no	-	-	-	-	-	-	-	-	multiple	-	-
+B182	no	-	-	-	-	-	-	-	-	human	-	-
+B281	no	-	-	-	-	-	-	-	-	human	-	-
+B036	yes	NC	explicit	physiological-functional	population	observed	chronological age	-	-	human	The relationship between PSA value and age was non-linear	[authors: "non-linear"]
+B085	yes	NC	explicit	physiological-functional	population	inferred	chronological age	-	-	human	decrease in the total power... showed a nonlinear pattern	[authors: "nonlinear pattern"]
+B128	no	-	-	-	-	-	-	-	-	other	-	-
+B260	no	-	-	-	-	-	-	-	-	human	-	-
+B280	yes	D	explicit	whole-organism	individual	observed	chronological age	not stated	stasis irregularly punctuated by relatively sudden change in health status	human	stasis irregularly punctuated by relatively sudden change in health status	[authors: "punctuated equilibrium"]
+B138	yes	NC	explicit	physiological-functional	individual	inferred	disease or pathology	-	-	human	piecewise model with accelerated slope after a sharp inflection point	[authors: "transition"]
+B115	no	-	-	-	-	-	-	-	-	mouse-rat	-	-
+B326	no	-	-	-	-	-	-	-	-	human	-	-
+B018	yes	NC	explicit	cellular	individual	observed	chronological age	-	-	other	complex nonlinear three-dimensional structure	[authors: "nonlinear"]
+B263	no	-	-	-	-	-	-	-	-	multiple	-	-
+B066	yes	NC	explicit	physiological-functional	individual	observed	chronological age	-	-	mouse-rat	LAGS level undergoes abrupt changes throughout life	[authors: "abrupt changes"]
+B311	yes	D	explicit	cellular	individual	observed	chronological age	not stated	fetal-specific HSC state and age-specific differentiation waves	human	stereotypic waves of hematopoiesis have been observed	[authors: "waves"]
+B183	no	-	-	-	-	-	-	-	-	other	-	-
+B109	yes	NC	implicit	molecular	population	inferred	chronological age	-	-	none	non-linear increase of damage and the presence of amplifying feedback loops	[authors: "non-linear increase"]
+B161	yes	NC	explicit	physiological-functional	individual	inferred	proximity to death	-	-	human	increases in inconsistency in speed per year closer to death	[authors: "terminal decline"]
+B252	yes	P	implicit	-	-	-	-	-	-	human	Women showed a prominent increase in myocardial 18F-DOPA uptake with age	-
+B319	no	-	-	-	-	-	-	-	-	human	-	-
+B324	no	-	-	-	-	-	-	-	-	human	-	-
+B090	yes	NC	explicit	tissue-organ	population	observed	chronological age	-	-	human	bone loss in men accelerates after age 50 years	[authors: "accelerates"]
+B142	yes	NC	explicit	tissue-organ	individual	inferred	chronological age	-	-	human	Nonlinear elastic-viscoplastic constitutive equations for aging facial tissues	[authors: "Nonlinear"]
+B023	yes	NC	explicit	molecular	individual	observed	chronological age	-	-	mouse-rat	did not increase with age until after 27 months, when they increased rapidly	[authors: "increased rapidly"]
+B283	no	-	-	-	-	-	-	-	-	human	-	-
+B153	no	-	-	-	-	-	-	-	-	human	-	-
+B135	yes	NC	explicit	tissue-organ	individual	observed	chronological age	-	-	mouse-rat	progressive, but nonlinear, increase in global differential gene expression	[authors: "nonlinear"]
+B053	no	-	-	-	-	-	-	-	-	mouse-rat	-	-
+B170	no	-	-	-	-	-	-	-	-	human	-	-
+B080	no	-	-	-	-	-	-	-	-	mouse-rat	-	-
+B197	yes	P	implicit	-	-	-	-	-	-	human	antioxidant capacity shows a significant decrease with age	-
+B189	no	-	-	-	-	-	-	-	-	multiple	-	-
+B301	no	-	-	-	-	-	-	-	-	human	-	-
+B030	no	-	-	-	-	-	-	-	-	human	-	-
+B193	no	-	-	-	-	-	-	-	-	human	-	-
+B304	yes	D	explicit	physiological-functional	individual	inferred	chronological age	not stated	resting-state functional connectivity states separated by significant change points	human	number of significant change points detected through the Network Change Point Detection algorithm	[authors: "change points"]
+B294	yes	P	implicit	-	-	-	-	-	-	human	complexity of BOLD activity is reduced with aging	-
+B062	no	-	-	-	-	-	-	-	-	mouse-rat	-	-
+B057	yes	NC	explicit	physiological-functional	population	observed	chronological age	-	-	human	adjusted glucose metabolism varied very significantly... best fit was not linear	[authors: "nonlinear effects"]
+B143	yes	P	implicit	-	-	-	-	-	-	mouse-rat	age-related decline in function of SERCAs	-
+B207	no	-	-	-	-	-	-	-	-	human	-	-
+B273	no	-	-	-	-	-	-	-	-	human	-	-
+B238	no	-	-	-	-	-	-	-	-	human	-	-

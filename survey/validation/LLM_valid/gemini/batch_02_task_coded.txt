@@ -1,0 +1,51 @@
+review_id	screen_relevant	trajectory_code	explicitness	level	scale	observation	anchor	reversibility	meaning	organism	evidence_quote	notes
+B024	no	-	-	-	-	-	-	-	-	human	-	-
+B227	no	-	-	-	-	-	-	-	-	human	-	-
+B034	no	-	-	-	-	-	-	-	-	human	-	-
+B123	no	-	-	-	-	-	-	-	-	human	-	-
+B120	yes	P	implicit	-	-	-	-	-	-	human	progressive insolublisation of the crystallins of the lens nucleus	-
+B083	yes	NC	explicit	physiological-functional	population	observed	chronological age	-	-	mouse-rat	nonlinear age-related spatial memory decline in Fischer-344 rats	-
+B137	no	-	-	-	-	-	-	-	-	human	-	-
+B046	no	-	-	-	-	-	-	-	-	human	-	-
+B203	yes	P	explicit	-	-	-	-	-	-	human	best described as slow and steady decline	[authors: "terminal decline"]
+B347	yes	NC	explicit	tissue-organ	population	inferred	chronological age	-	-	human	a nonlinear relationship between the predicted age and the amount of MRI data	-
+B177	no	-	-	-	-	-	-	-	-	human	-	-
+B388	no	-	-	-	-	-	-	-	-	mouse-rat	-	-
+B027	no	-	-	-	-	-	-	-	-	mouse-rat	-	-
+B097	no	-	-	-	-	-	-	-	-	mouse-rat	-	-
+B147	no	-	-	-	-	-	-	-	-	mouse-rat	-	-
+B133	no	-	-	-	-	-	-	-	-	none	-	-
+B151	yes	P	implicit	-	-	-	-	-	-	human	small airway clearance over 21 days was found to decrease with age	-
+B239	no	-	-	-	-	-	-	-	-	mouse-rat	-	-
+B340	no	-	-	-	-	-	-	-	-	human	-	-
+B317	yes	P	implicit	-	-	-	-	-	-	mouse-rat	myelin degeneration in CC occurs throughout the lifespan	-
+B059	no	-	-	-	-	-	-	-	-	human	-	-
+B256	no	-	-	-	-	-	-	-	-	human	-	-
+B102	no	-	-	-	-	-	-	-	-	other	-	-
+B159	yes	NC	explicit	physiological-functional	population	inferred	chronological age	-	-	human	nonlinear function that provided the best fit to cross-sectional population data	-
+B348	no	-	-	-	-	-	-	-	-	human	-	-
+A334	-	U	-	-	-	-	-	-	-	human	-	-
+A097	-	P	implicit	-	-	-	-	-	-	human	increased age in adulthood is associated with a decrease in the speed	-
+A159	-	P	implicit	-	-	-	-	-	-	human	Diastolic parameters assessed by mitral inflow and mitral annular velocities declined with age	-
+A212	-	U	-	-	-	-	-	-	-	mouse-rat	-	-
+A023	-	U	-	-	-	-	-	-	-	mouse-rat	-	-
+A335	-	U	-	-	-	-	-	-	-	human	-	-
+A186	-	P	implicit	-	-	-	-	-	-	human	Physical activity (PA) is known to decline with age	-
+A071	-	U	-	-	-	-	-	-	-	mouse-rat	-	-
+A120	-	U	-	-	-	-	-	-	-	human	-	-
+A109	-	U	-	-	-	-	-	-	-	human	-	-
+A093	-	U	-	-	-	-	-	-	-	human	-	-
+A311	-	U	-	-	-	-	-	-	-	human	-	-
+A098	-	U	-	-	-	-	-	-	-	human	-	-
+A240	-	U	-	-	-	-	-	-	-	human	-	-
+A325	-	U	-	-	-	-	-	-	-	human	-	-
+A008	-	U	-	-	-	-	-	-	-	mouse-rat	-	-
+A075	-	P	implicit	-	-	-	-	-	-	human	age-related decline of visualization of the cerebral arteries	-
+A207	-	U	-	-	-	-	-	-	-	human	-	-
+A189	-	DEV	-	-	-	-	-	-	-	human	increased functional specialization of the left inferior parietal cortex in mental arithmetic	-
+A027	-	DEV	-	-	-	-	-	-	-	mouse-rat	appear late in ontogeny	-
+A048	-	U	-	-	-	-	-	-	-	other	-	-
+A099	-	DEV	-	-	-	-	-	-	-	human	GH-releasing effect of Hexarelin in newborns is lower than in young adults	-
+A171	-	U	-	-	-	-	-	-	-	mouse-rat	-	-
+A183	-	U	-	-	-	-	-	-	-	human	-	-
+A031	-	P	implicit	-	-	-	-	-	-	mouse-rat	synthesis of this factor reduces with age	-

@@ -1,0 +1,51 @@
+review_id	screen_relevant	trajectory_code	explicitness	level	scale	observation	anchor	reversibility	meaning	organism	evidence_quote	notes
+B155	no	-	-	-	-	-	-	-	-	C. elegans	accelerated aging in young adulthood	-
+B044	yes	NC	explicit	tissue-organ	population	observed	chronological age	-	-	human	declined from age 20 to age 50 then increased	-
+B245	yes	NC	explicit	physiological-functional	population	observed	chronological age	-	-	human	dynamics during rest and stimulus processing undergo substantial reorganization	-
+B387	no	-	-	-	-	-	-	-	-	human	U-shaped phenotypic associations	-
+B308	no	-	-	-	-	-	-	-	-	human	higher beta-to-theta entropy ratios	-
+B008	no	-	-	-	-	-	-	-	-	human	age correlated with calculus scores	-
+B173	no	-	-	-	-	-	-	-	-	mouse-rat	IOP gradually declined to reach basal values	-
+B378	no	-	-	-	-	-	-	-	-	human	accelerated within-person change in methylation age	-
+B379	no	-	-	-	-	-	-	-	-	human	long-term impact on executive function and memory	-
+B141	no	-	-	-	-	-	-	-	-	mouse-rat	accelerated aging	-
+B343	no	-	-	-	-	-	-	-	-	human	nonlinear relationships among abdominal SFA VFA and PhenoAgeAccel	-
+B398	no	-	-	-	-	-	-	-	-	mouse-rat	accelerated aging Zmpste24-/- mouse model	-
+B368	no	-	-	-	-	-	-	-	-	other	more abrupt changes in others	-
+B204	yes	NC	explicit	physiological-functional	individual	inferred	chronological age	-	-	human	four latent groups with distinct residual decline profiles	-
+B054	no	-	-	-	-	-	-	-	-	mouse-rat	biphasic Arrhenius plot	-
+B006	no	-	-	-	-	-	-	-	-	human	accelerated aging	-
+B365	no	-	-	-	-	-	-	-	-	human	epigenetic landscape and subsequently aging	-
+B218	no	-	-	-	-	-	-	-	-	human	suggesting accelerated aging	-
+B395	no	-	-	-	-	-	-	-	-	human	accelerated aging	-
+B118	no	-	-	-	-	-	-	-	-	mouse-rat	biphasic expression	-
+B004	no	-	-	-	-	-	-	-	-	mouse-rat	accelerated aging	-
+B298	no	-	-	-	-	-	-	-	-	human	gradual changes throughout aging	-
+B336	no	-	-	-	-	-	-	-	-	human	highly nonlinear	-
+B335	no	-	-	-	-	-	-	-	-	human	age differences	-
+B148	no	-	-	-	-	-	-	-	-	human	normal aging and cognitive decline	-
+B079	no	-	-	-	-	-	-	-	-	human	decline accelerated significantly over adult life span	-
+B175	no	-	-	-	-	-	-	-	-	multiple	accelerate aging	-
+B145	no	-	-	-	-	-	-	-	-	human	non-linear developmental deviance	-
+B382	no	-	-	-	-	-	-	-	-	human	J-shaped evolution	-
+B243	no	-	-	-	-	-	-	-	-	human	morphological changes of adult skull with age	-
+B270	no	-	-	-	-	-	-	-	-	human	-	-
+B206	no	-	-	-	-	-	-	-	-	other	vocalization activity decreased	-
+B099	no	-	-	-	-	-	-	-	-	human	stepwise decrease with age	-
+B309	no	-	-	-	-	-	-	-	-	human	slow accumulation and delayed washout	-
+B320	no	-	-	-	-	-	-	-	-	human	BMI trajectories	-
+B077	no	-	-	-	-	-	-	-	-	human	nonlinear decline with age	-
+B055	no	-	-	-	-	-	-	-	-	mouse-rat	accelerated aging	-
+B050	no	-	-	-	-	-	-	-	-	mouse-rat	biphasic insulin secretory response	-
+B312	no	-	-	-	-	-	-	-	-	human	prevalence rose stepwise with age	-
+B333	no	-	-	-	-	-	-	-	-	human	accelerated biological aging	-
+B028	no	-	-	-	-	-	-	-	-	mouse-rat	biphasic pattern	-
+B267	no	-	-	-	-	-	-	-	-	multiple	accelerated aging	-
+B025	no	-	-	-	-	-	-	-	-	multiple	activities declined along distribution profiles	-
+B110	no	-	-	-	-	-	-	-	-	mouse-rat	age-related memory deficits	-
+B216	yes	NC	explicit	physiological-functional	individual	inferred	proximity to death	-	-	multiple	declined rapidly with impending death	[authors: "terminal decline"]
+B058	no	-	-	-	-	-	-	-	-	human	mitral ring motion correlated with age	-
+B220	no	-	-	-	-	-	-	-	-	human	step length and gait speed progressively decreased	-
+B305	no	-	-	-	-	-	-	-	-	Drosophila	accelerates aging	-
+B306	no	-	-	-	-	-	-	-	-	human	trajectories in positive and negative affect	-
+B048	no	-	-	-	-	-	-	-	-	other	heritability of longevity increased gradually	-

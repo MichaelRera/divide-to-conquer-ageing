@@ -1,0 +1,51 @@
+review_id	screen_relevant	trajectory_code	explicitness	level	scale	observation	anchor	reversibility	meaning	organism	evidence_quote	notes
+B155	yes	NC	explicit	whole-organism	individual	observed	chronological age	-	-	C. elegans	accelerated aging in young adulthood	[authors: "accelerated aging"]
+B044	yes	NC	explicit	tissue-organ	population	inferred	chronological age	-	-	human	non-linear pattern of change in cerebral grey-white	[authors: "non-linear pattern"]
+B245	yes	P	implicit	physiological-functional	population	inferred	chronological age	-	-	human	nonlinear coupling and spectral alpha power decreased with age	-
+B387	yes	NC	explicit	physiological-functional	population	inferred	chronological age	-	-	human	U-shaped phenotypic associations between sleep duration and	[authors: "U-shaped phenotypic associations"]
+B308	no	-	-	-	-	-	-	-	-	human	-	-
+B008	yes	P	implicit	tissue-organ	population	inferred	chronological age	-	-	human	age and the chewing of... gum were positively correlated with calculus	-
+B173	no	-	-	-	-	-	-	-	-	mouse-rat	-	-
+B378	yes	NC	explicit	molecular	individual	observed	chronological age	-	-	human	accelerate within-person change in methylation age from adolescence	[authors: "accelerated within-person change"]
+B379	no	-	-	-	-	-	-	-	-	human	-	-
+B141	yes	P	implicit	physiological-functional	individual	observed	chronological age	-	-	mouse-rat	reverse age-related deficits in behavior	-
+B343	yes	NC	explicit	physiological-functional	population	inferred	chronological age	-	-	human	relationship was nonlinear in individuals aged 18-44 years	[authors: "nonlinear"]
+B398	no	-	-	-	-	-	-	-	-	mouse-rat	-	-
+B368	yes	NC	explicit	molecular	population	inferred	chronological age	-	-	mouse-rat	aging is associated with more stringent retention... and more abrupt changes	[authors: "abrupt changes"]
+B204	yes	P	explicit	physiological-functional	individual	observed	chronological age	-	-	human	profiles of residual decline in late life cognition	-
+B054	no	-	-	-	-	-	-	-	-	mouse-rat	-	-
+B006	no	-	-	-	-	-	-	-	-	human	-	-
+B365	no	-	-	-	-	-	-	-	-	human	-	-
+B218	yes	P	implicit	whole-organism	population	inferred	chronological age	-	-	human	prevalence increasing with age	-
+B395	no	-	-	-	-	-	-	-	-	human	-	-
+B118	no	-	-	-	-	-	-	-	-	mouse-rat	-	-
+B004	no	-	-	-	-	-	-	-	-	mouse-rat	-	-
+B298	yes	P	implicit	molecular	population	inferred	chronological age	-	-	human	Gradual changes in the DNA methylation landscape occur throughout aging	-
+B336	yes	NC	explicit	tissue-organ	population	inferred	chronological age	-	-	human	shapes are typically highly nonlinear	[authors: "highly nonlinear"]
+B335	no	-	-	-	-	-	-	-	-	human	-	-
+B148	no	-	-	-	-	-	-	-	-	human	-	-
+B079	yes	NC	explicit	physiological-functional	population	inferred	chronological age	-	-	human	age-related decline accelerated significantly over the adult life span	[authors: "quadratic age effects"]
+B175	no	-	-	-	-	-	-	-	-	multiple	-	-
+B145	no	-	-	-	-	-	-	-	-	human	-	-
+B382	yes	NC	explicit	physiological-functional	population	inferred	chronological age	-	-	human	overall pattern of life satisfaction across different ages resembles a J-shape	[authors: "J-shape"]
+B243	yes	P	explicit	tissue-organ	population	inferred	chronological age	-	-	human	coordinate locations describing the shape of each region were regressed with age	-
+B270	no	-	-	-	-	-	-	-	-	human	-	-
+B206	no	-	-	-	-	-	-	-	-	other	-	-
+B099	yes	P	implicit	physiological-functional	population	inferred	chronological age	-	-	human	showed a significant stepwise decrease with age	[authors: "stepwise decrease"]
+B309	no	-	-	-	-	-	-	-	-	human	-	-
+B320	yes	NC	explicit	whole-organism	population	inferred	chronological age	-	-	human	four BMI trajectories identified were as follows: stable weight, midlife weight gain	[authors: "BMI trajectories"]
+B077	yes	NC	explicit	physiological-functional	population	inferred	chronological age	-	-	human	undergoes a nonlinear decline with age	[authors: "nonlinear decline"]
+B055	yes	P	implicit	molecular	population	observed	chronological age	-	-	mouse-rat	binding activity ... markedly increased with aging	-
+B050	no	-	-	-	-	-	-	-	-	mouse-rat	-	-
+B312	yes	P	implicit	whole-organism	population	inferred	chronological age	-	-	human	prevalence rose stepwise with age	[authors: "stepwise"]
+B333	no	-	-	-	-	-	-	-	-	human	-	-
+B028	no	-	-	-	-	-	-	-	-	mouse-rat	-	-
+B267	no	-	-	-	-	-	-	-	-	multiple	-	-
+B025	yes	P	implicit	molecular	individual	observed	chronological age	-	-	multiple	specific activities of the key glycolytic enzymes declined	-
+B110	no	-	-	-	-	-	-	-	-	mouse-rat	-	-
+B216	yes	NC	explicit	physiological-functional	population	inferred	proximity to death	-	-	human	declined rapidly with impending death	[authors: "terminal decline"]
+B058	yes	P	explicit	physiological-functional	population	inferred	chronological age	-	-	human	mitral ring motion = 18.4 - 0.065 x age	-
+B220	yes	P	implicit	physiological-functional	population	observed	chronological age	-	-	human	Step length and gait speed progressively decreased with advancing age	-
+B305	no	-	-	-	-	-	-	-	-	Drosophila	-	-
+B306	no	-	-	-	-	-	-	-	-	human	-	-
+B048	no	-	-	-	-	-	-	-	-	other	-	-

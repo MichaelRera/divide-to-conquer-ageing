@@ -1,0 +1,201 @@
+BATCH 09: 50 records (B005 ... B276)
+
+### B005 | arm B | 1993
+Title: Effects of tamoxifen and CV 205502 on the morphology and the evolution of the noncancerous mouse mammary gland.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B372 | arm B | 2025
+Title: Accelerated biological aging as a potential mediator mediates the relationship between metabolic syndrome and the risk of psoriasis: a prospective analysis from the UK biobank.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B108 | arm B | 2009
+Title: A biometric latent curve analysis of memory decline in older men of the NAS-NRC twin registry.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B191 | arm B | 2009
+Title: Accelerating regional atrophy rates in the progression from normal aging to Alzheimer's disease.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B011 | arm B | 1993
+Title: Age-related studies on the removal of 7-methylguanine from DNA of mouse kidney tissue following N-methyl-N-nitrosourea treatment.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B360 | arm B | 2025
+Title: Sex differences in the association between visceral adiposity index and biological aging: A cross-sectional analysis of NHANES 1999-2018 with mediation by insulin resistance.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B359 | arm B | 2025
+Title: Selection for Early Reproduction Leads to Accelerated Aging and Extensive Metabolic Remodeling in Drosophila melanogaster.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B228 | arm B | 2013
+Title: Molecular characterization of the transition to mid-life in Caenorhabditis elegans.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B186 | arm B | 2007
+Title: Plasticity of the responses to chronic hypoxia and dietary restriction in an aged organism: evidence from the Drosophila model.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B224 | arm B | 2017
+Title: Allometric scaling of brain regions to intra-cranial volume: An epidemiological MRI study.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B188 | arm B | 2008
+Title: Aging mouse hearts are refractory to infarct size reduction with post-conditioning.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B338 | arm B | 2025
+Title: Elevated 1-hour Post Load Glucose as a Predictor for Telomere Attrition: A Study Based on a Chinese Community Population.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B214 | arm B | 2018
+Title: APOEε4 Genotype and Hypertension Modify 8-year Cortical Thinning: Five Occasion Evidence from the Seattle Longitudinal Study.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B389 | arm B | 2024
+Title: Are patients with severe obesity aging faster? Impact of severe obesity on different aspects of biological age.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B300 | arm B | 2024
+Title: Conceptions of aging and beliefs about how one's life is unfolding over time: A lifespan developmental perspective.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B249 | arm B | 2018
+Title: Reduced GABAergic cortical inhibition in aging and depression.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B049 | arm B | 1999
+Title: Reduced chaos of interspike interval of midbrain dopaminergic neurons in aged rats.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B376 | arm B | 2025
+Title: Association between triglyceride glucose index and biological aging in U.S. adults: National Health and Nutrition Examination Survey.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B246 | arm B | 2011
+Title: Is leg muscle strength correlated with functional balance and mobility among inpatients in geriatric rehabilitation?
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B265 | arm B | 2017
+Title: Age-Related Effects and Sex Differences in Gray Matter Density, Volume, Mass, and Cortical Thickness from Childhood to Young Adulthood.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B112 | arm B | 2007
+Title: Aging, androgens, and the metabolic syndrome in a longitudinal study of aging.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B063 | arm B | 1990
+Title: Diet composition determines course of hyperphagia in developing Zucker obese rats.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B325 | arm B | 2025
+Title: Triglycerides, high-density lipoprotein and cognitive function in middle-aged and older adults: a cross-sectional analysis.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B113 | arm B | 2007
+Title: Augmented Wnt signaling in a mammalian model of accelerated aging.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B007 | arm B | 1992
+Title: Genetic influences on susceptibility of the auditory system to aging and environmental factors.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B042 | arm B | 1992
+Title: Age-related changes in NMDA-induced [3H]acetylcholine release from brain slices of senescence-accelerated mouse.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B257 | arm B | 2018
+Title: Understanding lamin proteins and their roles in aging and cardiovascular diseases.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B332 | arm B | 2025
+Title: Donor-specific immune senescence as a candidate biomarker of operational tolerance following liver transplantation in adults: Results of a prospective, multicenter cohort study.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B364 | arm B | 2022
+Title: Brain charts for the human lifespan.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B096 | arm B | 1995
+Title: Physiological determinants of 10-km performance in highly trained female runners of different ages.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B103 | arm B | 2008
+Title: Prenatal corticosteroid exposure affects hippocampal plasticity and reduces lifespan.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B213 | arm B | 2010
+Title: The age-dependent divergence of strength and coordinating parameters among men and women: the cross-sectional studies.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B075 | arm B | 1999
+Title: Maze learning impairment is associated with stress hemopoiesis induced by chronic treatment of aged rats with human recombinant erythropoietin.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B043 | arm B | 1992
+Title: Glucose tolerance in women: the effects of age, body composition, and sex hormones.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B375 | arm B | 2023
+Title: Association of weight range with telomere length: A retrospective cohort study.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B314 | arm B | 2025
+Title: The association between phenotypic age acceleration and the risk of all-cause and cancer mortality among cancer survivors: NHANES 1999-2018.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B269 | arm B | 2013
+Title: Effects of education on cognition at older ages: evidence from China's Great Famine.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B299 | arm B | 2017
+Title: Epigenetic Aging and Immune Senescence in Women With Insomnia Symptoms: Findings From the Women's Health Initiative Study.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B190 | arm B | 2003
+Title: Marked disparity between age-related changes in dopamine and other presynaptic dopaminergic markers in human striatum.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B284 | arm B | 2015
+Title: Cancer stem cells display extremely large evolvability: alternating plastic and rigid networks as a potential Mechanism: network models, novel therapeutic target strategies, and the contributions of hypoxia, inflammation and cellular senescence.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B271 | arm B | 2019
+Title: The effect of social network on the physical activity-cognitive function nexus in late life.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B221 | arm B | 2010
+Title: Age-dependent regional mechanical properties of the rat hippocampus and cortex.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B031 | arm B | 1994
+Title: The zones of discontinuity in the human lens: development and distribution with age.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B111 | arm B | 2009
+Title: Ethanol-induced social facilitation in adolescent rats: role of endogenous activity at mu opioid receptors.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B337 | arm B | 2025
+Title: Construction and validation of gene signature for prognosis and drug sensitivity in cholangiocarcinoma based on cellular senescence related genes.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B125 | arm B | 2005
+Title: Studying individual aging in an interindividual context: typical paths of age-related, dementia-related, and mortality-related cognitive development in old age.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B114 | arm B | 2010
+Title: Dynamics of volunteering in older Europeans.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B208 | arm B | 2015
+Title: Avoidance of polypharmacy and excessive blood pressure control is associated with improved renal function in older patients.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B344 | arm B | 2022
+Title: Brain health promotion: Tactics within a strategic approach based upon valid, yet evolving scientific evidence.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B276 | arm B | 2016
+Title: Accelerated Brain Aging in Schizophrenia: A Longitudinal Pattern Recognition Study.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]

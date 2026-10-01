@@ -1,0 +1,51 @@
+review_id	screen_relevant	trajectory_code	explicitness	level	scale	observation	anchor	reversibility	meaning	organism	evidence_quote	notes
+A350	-	U	-	-	-	-	-	-	-	mouse-rat	-	-
+A033	-	U	-	-	-	-	-	-	-	human	-	-
+A190	-	DEV	-	-	-	-	-	-	-	mouse-rat	The expression increased gradually with age	-
+A345	-	U	-	-	-	-	-	-	-	mouse-rat	-	-
+A226	-	U	-	-	-	-	-	-	-	multiple	-	-
+A058	-	U	-	-	-	-	-	-	-	human	-	-
+A168	-	P	implicit	tissue-organ	individual	observed	chronological age	-	-	mouse-rat	Mop3 null mice display an increased mortality after 26 weeks of age	-
+A254	-	P	implicit	physiological-functional	individual	observed	chronological age	-	-	human	attenuated declines over time in visuospatial abilities and executive function	-
+A102	-	U	-	-	-	-	-	-	-	human	-	-
+A184	-	P	implicit	tissue-organ	population	inferred	chronological age	-	-	human	incorporating a decline of 1 ml min(-1) year(-1) after the age of 40	-
+A086	-	P	implicit	physiological-functional	population	inferred	chronological age	-	-	human	risk of severe disease following primary exposure to Plasmodium falciparum increased with age	-
+A259	-	P	implicit	physiological-functional	population	inferred	chronological age	-	-	human	obesity seems to induce an accelerated brain aging	-
+A304	-	P	implicit	cellular	individual	observed	chronological age	-	-	mouse-rat	regenerative support provided by these cells declines during aging	-
+A306	-	P	implicit	tissue-organ	population	inferred	chronological age	-	-	other	significant age-related decrease in the mean number of primordial follicles	-
+A276	-	P	implicit	cellular	population	inferred	chronological age	-	-	multiple	persistent γH2AX accumulates in telomeric DNA and in cells undergoing cellular senescence	-
+A238	-	P	implicit	molecular	population	inferred	chronological age	-	-	human	increase in mtDNA damage was observed only in the common deletion region	-
+A161	-	U	-	-	-	-	-	-	-	human	-	-
+A229	-	P	implicit	physiological-functional	population	inferred	chronological age	-	-	mouse-rat	activity, balance, and strength decrease with age	-
+A182	-	P	implicit	physiological-functional	population	inferred	chronological age	-	-	human	predicted from declining AMH levels	-
+A042	-	DEV	-	-	-	-	-	-	-	human	Age-related growth changes in the nasolabial region were analyzed	-
+A250	-	P	implicit	cellular	population	inferred	chronological age	-	-	other	spine density, and particularly the density of thin spines, decreased with age	-
+A141	-	U	-	-	-	-	-	-	-	human	-	-
+A036	-	U	-	-	-	-	-	-	-	other	-	-
+A177	-	U	-	-	-	-	-	-	-	human	-	-
+A028	-	U	-	-	-	-	-	-	-	human	-	-
+A077	-	U	-	-	-	-	-	-	-	mouse-rat	-	-
+A032	-	U	-	-	-	-	-	-	-	none	-	-
+A262	-	U	-	-	-	-	-	-	-	human	-	-
+A013	-	U	-	-	-	-	-	-	-	mouse-rat	-	-
+A103	-	U	-	-	-	-	-	-	-	human	-	-
+A026	-	DEV	-	-	-	-	-	-	-	other	Comparison between adult and infant rabbits	-
+A278	-	U	-	-	-	-	-	-	-	human	-	-
+A294	-	U	-	-	-	-	-	-	-	human	-	-
+A115	-	P	implicit	physiological-functional	population	inferred	chronological age	-	-	human	intraclass correlations showed a continuous increase with age during adulthood	-
+A132	-	U	-	-	-	-	-	-	-	human	-	-
+A289	-	U	-	-	-	-	-	-	-	human	-	-
+A241	-	U	-	-	-	-	-	-	-	human	-	-
+A307	-	U	-	-	-	-	-	-	-	human	-	-
+A146	-	U	-	-	-	-	-	-	-	mouse-rat	-	-
+A247	-	NC	implicit	molecular	population	inferred	chronological age	-	-	mouse-rat	significant decrease in NGF expression from neonatal to young rats and a significant increase	-
+A118	-	P	implicit	physiological-functional	individual	observed	chronological age	-	-	mouse-rat	males display an age-related decline in testosterone	-
+A181	-	U	-	-	-	-	-	-	-	other	-	-
+A291	-	U	-	-	-	-	-	-	-	human	-	-
+A047	-	U	-	-	-	-	-	-	-	human	-	-
+A203	-	U	-	-	-	-	-	-	-	human	-	-
+A123	-	U	-	-	-	-	-	-	-	human	-	-
+A152	-	U	-	-	-	-	-	-	-	human	-	-
+A188	-	P	implicit	physiological-functional	population	inferred	chronological age	-	-	mouse-rat	efficiency of cholesterol absorption increases with age	-
+A151	-	D	explicit	tissue-organ	population	inferred	chronological age	not stated	distinct periods of life	human	four distinct periods of life, specifically a maturation period... a development period... an adulthood period... and a senescence period	-
+A113	-	D	implicit	tissue-organ	individual	observed	chronological age	not stated	catabolic and anabolic phases of osteodystrophy	mouse-rat	defined and characterized catabolic and anabolic phases of osteodystrophy	-

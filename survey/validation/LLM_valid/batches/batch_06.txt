@@ -1,0 +1,201 @@
+BATCH 06: 50 records (A260 ... A261)
+
+### A260 | arm A | 2018
+Title: Role of brown adipose tissue in metabolic syndrome, aging, and cancer cachexia.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A154 | arm A | 2005
+Title: Partial androgen deficiency and neuropsychiatric symptoms in aging men.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A328 | arm A | 2021
+Title: Functional Regulatory Mechanisms Underlying Bone Marrow Mesenchymal Stem Cell Senescence During Cell Passages.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A012 | arm A | 1993
+Title: Maturation of the dopamine innervation during postnatal development of the prefrontal cortex in gerbils (Meriones unguiculatus). A quantitative immunocytochemical study.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A327 | arm A | 2024
+Title: Contributions of hippocampal subfields and subregions to episodic memory performance in healthy cognitive aging.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A162 | arm A | 2005
+Title: Strategies to enhance longevity and independent function: the Jerusalem Longitudinal Study.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A065 | arm A | 1998
+Title: Alterations in myocardial signal transduction due to aging and chronic dynamic exercise.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A349 | arm A | 2025
+Title: A comparative assessment of age-related nicotinamide adenine dinucleotide phosphate-diaphorase positivity in the spinal cord and medulla oblongata of pigeons, rats, and mice.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A231 | arm A | 2012
+Title: The natural degeneration course in the T1rho values of normal knee cartilage.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A074 | arm A | 1998
+Title: Responses of young and aged rat CNS to partial cholinergic immunolesions and NGF treatment.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A257 | arm A | 2020
+Title: Association Between Sarcopenic Obesity and Pulmonary Function in Korean Elderly: Results from the Korean National Health and Nutrition Examination Survey.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A043 | arm A | 1990
+Title: Striatal function in normal aging: implications for Parkinson's disease.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A313 | arm A | 2021
+Title: Musical instrument training program improves verbal memory and neural efficiency in novice older adults.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A193 | arm A | 2009
+Title: Strain-specific sensitivity to MPTP of C57BL/6 and BALB/c mice is age dependent.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A114 | arm A | 2003
+Title: Effect of age on quality of fresh and frozen-thawed semen in White Italian ganders.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A191 | arm A | 2006
+Title: Effects of exercise on mitochondrial content and function in aging human skeletal muscle.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A092 | arm A | 1996
+Title: Aging impairs afferent nerve function in rat intestine. Reduction of mesenteric hyperemia induced by intraduodenal capsaicin and acid.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A178 | arm A | 2007
+Title: Improvement and decline in health status from late middle age: modeling age-related changes in deficit accumulation.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A310 | arm A | 2020
+Title: Dual-Localized WHIRLY1 Affects Salicylic Acid Biosynthesis via Coordination of ISOCHORISMATE SYNTHASE1, PHENYLALANINE AMMONIA LYASE1, and S-ADENOSYL-L-METHIONINE-DEPENDENT METHYLTRANSFERASE1.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A082 | arm A | 1999
+Title: Do plasma melatonin concentrations decline with age?
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A244 | arm A | 2010
+Title: The influence of age of lead exposure on adult gray matter volume.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A055 | arm A | 1995
+Title: Effect of growth hormone and resistance exercise on muscle growth and strength in older men.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A137 | arm A | 2003
+Title: Clinical studies to implement Rheopheresis for age-related macular degeneration guided by evidence-based-medicine.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A016 | arm A | 1992
+Title: Genetic parameters of conformation traits, milk yield, and herd life in Holsteins.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A227 | arm A | 2011
+Title: Skeletal muscle remodeling in response to alpine skiing training in older individuals.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A271 | arm A | 2015
+Title: Variables associated with hippocampal atrophy rate in normal aging and mild cognitive impairment.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A105 | arm A | 2001
+Title: Increased density of glutamate receptor subunit 1 due to Cerebrolysin treatment: an immunohistochemical study on aged rats.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A295 | arm A | 2018
+Title: Role of dietary amino acid balance in diet restriction-mediated lifespan extension, renoprotection, and muscle weakness in aged mice.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A121 | arm A | 2002
+Title: Circulating amyloid-beta peptide crosses the blood-brain barrier in aged monkeys and contributes to Alzheimer's disease lesions.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A004 | arm A | 1990
+Title: RNA synthesis by hepatocytes isolated from adult and senescent Wistar rat liver.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A336 | arm A | 2021
+Title: Effects of Late-Life Caloric Restriction on Age-Related Alterations in the Rat Cortex and Hippocampus.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A230 | arm A | 2011
+Title: Microscopic characteristics of lower eyelid retractors in Koreans.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A305 | arm A | 2024
+Title: Integrated liver and serum proteomics uncover sexual dimorphism and alteration of several immune response proteins in an aging Werner syndrome mouse model.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A003 | arm A | 1993
+Title: Age-dependent effects of hippocampal muscarinic receptor blockade on memory-based learning in the developing rat.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A110 | arm A | 2004
+Title: Emerging drugs for sarcopenia: age-related muscle wasting.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A301 | arm A | 2025
+Title: Canagliflozin treatment prevents follicular exhaustion and attenuates hallmarks of ovarian aging in genetically heterogenous mice.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A342 | arm A | 2024
+Title: Role of epigenetic regulatory mechanisms in age-related bone homeostasis imbalance.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A248 | arm A | 2015
+Title: Platelets from children are hyper-responsive to activation by thrombin receptor activator peptide and adenosine diphosphate compared to platelets from adults.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A213 | arm A | 2014
+Title: Sleep and aging: examining the effect of psychological symptoms and risk of sleep-disordered breathing.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A319 | arm A | 2025
+Title: Matrix Gla protein suppresses osteoblast senescence and promotes osteogenic differentiation by the PI3K-AKT signaling pathway.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A066 | arm A | 1995
+Title: Speaking fundamental frequency changes over time in women: a longitudinal study.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A246 | arm A | 2014
+Title: Decreased liver peroxisomal β-oxidation accompanied by changes in brain fatty acid composition in aged rats.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A127 | arm A | 2003
+Title: The biology of aging.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A199 | arm A | 2006
+Title: Effect of inflammation on the aging microcirculation: impact on skeletal muscle blood flow control.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A064 | arm A | 1999
+Title: Measurement of body fat in healthy elderly men: a comparison of methods.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A131 | arm A | 2003
+Title: Synthesis of scientific disciplines in pursuit of health: the Interactive Biopsychosocial Model.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A149 | arm A | 2001
+Title: Neutrophil ageing and immunesenescence.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A060 | arm A | 1996
+Title: Para-chloroamphetamine (PCA)-induced ejaculation in aged rats, semen analysis and artificial insemination.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A170 | arm A | 2008
+Title: Effect of dehydroepiandrosterone (DHEA) on monoamine oxidase activity, lipid peroxidation and lipofuscin accumulation in aging rat brain regions.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A261 | arm A | 2019
+Title: Middle-aged death and taxes in the USA: Association of state tax burden and expenditures in 2005 with survival from 2006 to 2015.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]

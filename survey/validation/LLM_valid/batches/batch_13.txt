@@ -1,0 +1,201 @@
+BATCH 13: 50 records (B155 ... B048)
+
+### B155 | arm B | 2006
+Title: The nuclear hormone receptor DAF-12 has opposing effects on Caenorhabditis elegans lifespan and regulates genes repressed in multiple long-lived worms.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B044 | arm B | 1994
+Title: Magnetic resonance imaging evaluation of the effects of ageing on grey-white ratio in the human brain.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B245 | arm B | 2012
+Title: Lifespan differences in nonlinear dynamics during rest and auditory oddball performance.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B387 | arm B | 2025
+Title: Evaluating the nonlinear effects of sleep duration on biological aging across phenotypic, genomic, and epigenomic data.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B308 | arm B | 2024
+Title: Beta-to-Theta Entropy Ratio of EEG in Aging, Frontotemporal Dementia, and Alzheimer's Dementia.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B008 | arm B | 1995
+Title: The site-specificity of supragingival calculus deposition on the lingual surfaces of the six permanent lower anterior teeth in humans and the effects of age, sex, gum-chewing habits, and the time since the last prophylaxis on calculus scores.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B173 | arm B | 2009
+Title: Functional and morphological effects of laser-induced ocular hypertension in retinas of adult albino Swiss mice.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B378 | arm B | 2022
+Title: Early adversities accelerate epigenetic aging into adulthood: a 10-year, within-subject analysis.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B379 | arm B | 2021
+Title: Cigarette smoking and cognitive function among older adults living in the community.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B141 | arm B | 2007
+Title: Beneficial effects of fruit extracts on neuronal function and behavior in a rodent model of accelerated aging.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B343 | arm B | 2025
+Title: The association of visceral and subcutaneous fat areas with phenotypic age in non-elderly adults, mediated by HOMA-IR and HDL-C.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B398 | arm B | 2024
+Title: TIPE2 gene transfer ameliorates aging-associated osteoarthritis in a progeria mouse model by reducing inflammation and cellular senescence.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B368 | arm B | 2021
+Title: Resilience, plasticity and robustness in gene expression during aging in the brain of outbred deer mice.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B204 | arm B | 2015
+Title: Residual decline in cognition after adjustment for common neuropathologic conditions.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B054 | arm B | 1990
+Title: Kinetic characteristics of soluble and brush border alkaline phosphatase and sucrase activities in developing rat intestine: effect of hormones.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B006 | arm B | 1999
+Title: Regulation of energy metabolism in human cells in aging and diabetes: FoF(1), mtDNA, UCP, and ROS.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B365 | arm B | 2025
+Title: Sleep Duration Polygenic Risk and Phenotype: Associations with Biomarkers of Accelerated Aging in the Baltimore Longitudinal Study of Aging.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B218 | arm B | 2013
+Title: Physiologic frailty as a sign of accelerated aging among adult survivors of childhood cancer: a report from the St Jude Lifetime cohort study.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B395 | arm B | 2024
+Title: Molecular signaling and clinical implications in the human aging-cancer cycle.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B118 | arm B | 2001
+Title: Expression of connexin43 in mouse Leydig, Sertoli, and germinal cells at different stages of postnatal development.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B004 | arm B | 1997
+Title: Characteristics of age-related behavioral changes in senescence-accelerated mouse SAMP8 and SAMP10.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B298 | arm B | 2016
+Title: Analysis of the machinery and intermediates of the 5hmC-mediated DNA demethylation pathway in aging on samples from the MARK-AGE Study.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B336 | arm B | 2021
+Title: A recipe for accurate estimation of lifespan brain trajectories, distinguishing longitudinal and cohort effects.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B335 | arm B | 2025
+Title: Age Differences Among Within-Person Indicators of Stress and Depressive Affect.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B148 | arm B | 2010
+Title: Multi-modal imaging predicts memory performance in normal aging and cognitive decline.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B079 | arm B | 1997
+Title: Meta-analyses of age-cognition relations in adulthood: estimates of linear and nonlinear age effects and structural models.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B175 | arm B | 2004
+Title: Ras: the other pro-aging pathway.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B145 | arm B | 2009
+Title: Spectral vs. temporal auditory processing in specific language impairment: a developmental ERP study.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B382 | arm B | 2025
+Title: The J-shaped evolution of subjective wellbeing over the life course in rural China.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B243 | arm B | 2016
+Title: Evaluation of morphological changes in the adult skull with age and sex.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B270 | arm B | 2015
+Title: Cohort Profile Update: Australian Longitudinal Study on Women's Health.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B206 | arm B | 2015
+Title: Effects of sex and age on behavior and weight gain in beef calves after abrupt weaning.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B099 | arm B | 1992
+Title: The influence of aging on plasma sex hormones in men: the Telecom Study.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B309 | arm B | 2021
+Title: Slow Accumulation and Elimination of Diazepam and Its Active Metabolite With Extended Treatment in the Elderly.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B320 | arm B | 2025
+Title: Association of longitudinal body mass index trajectories with phenotypic age acceleration: a cross-sectional study based on growth mixture modeling.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B077 | arm B | 1994
+Title: Age dependence of Olympic weightlifting ability.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B055 | arm B | 1996
+Title: Senescence-accelerated mouse. Neurochemical studies on aging.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B050 | arm B | 1991
+Title: Age-dependent expression of protein kinase C isoforms in rat islets.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B312 | arm B | 2026
+Title: Intrinsic capacity deficits across the lifespan in a nationally representative community cohort: findings from the Queenstown study.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B333 | arm B | 2025
+Title: Association of blood cadmium levels with epigenetic age acceleration in U.S. adults aged > 50 years.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B028 | arm B | 1994
+Title: Aging diminishes gastric mucosal regeneration: relationship to tyrosine kinases.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B267 | arm B | 2017
+Title: Senescent cells expose and secrete an oxidized form of membrane-bound vimentin as revealed by a natural polyreactive antibody.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B025 | arm B | 1991
+Title: Changes in glycolytic enzyme activities in aging erythrocytes fractionated by counter-current distribution in aqueous polymer two-phase systems.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B110 | arm B | 2007
+Title: Learning-induced survival of new neurons depends on the cognitive status of aged rats.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B216 | arm B | 2010
+Title: Late-life decline in well-being across adulthood in Germany, the United Kingdom, and the United States: Something is seriously wrong at the end of life.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B058 | arm B | 1997
+Title: Influence of body size and age on mitral ring motion.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B220 | arm B | 2015
+Title: Proactive gait strategies to mitigate risk of obstacle contact are more prevalent with advancing age.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B305 | arm B | 2024
+Title: Ribose-induced advanced glycation end products reduce the lifespan in Drosophila melanogaster by changing the redox state and down-regulating the Sirtuin genes.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B306 | arm B | 2025
+Title: Positive Humor/Affection and Age Advantages in Affective Responses During the COVID-19 Pandemic. A Three-Wave Longitudinal Study.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B048 | arm B | 1993
+Title: Genetic evaluation of length of productive life including predicted longevity of live cows.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]

@@ -1,0 +1,201 @@
+BATCH 01: 50 records (A119 ... B122)
+
+### A119 | arm A | 2003
+Title: Comparison of physical activity in male and female children: does maturation matter?
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A253 | arm A | 2016
+Title: Trajectories of limitations in activities of daily living among older adults in Mexico, 2001-2012.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A343 | arm A | 2024
+Title: Mexican Health and Aging Study Biomarker and Genetic Data Profile.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A094 | arm A | 1999
+Title: Sex-specific alterations in chromatin conformation of the brain of aging mouse.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A224 | arm A | 2012
+Title: Stochastic modulations of the pace and patterns of ageing: impacts on quasi-stochastic distributions of multiple geriatric pathologies.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A243 | arm A | 2010
+Title: Targeted manipulation of serotonergic neurotransmission affects the escalation of aggression in adult male Drosophila melanogaster.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A322 | arm A | 2025
+Title: T cell aging and exhaustion: Mechanisms and clinical implications.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A192 | arm A | 2008
+Title: Dietary magnesium intake is related to metabolic syndrome in older Americans.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A282 | arm A | 2017
+Title: Mono-unsaturated fatty acids link H3K4me3 modifiers to C. elegans lifespan.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A153 | arm A | 2010
+Title: Disorders related with ageing in the gerbil female prostate (Skene's paraurethral glands).
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A206 | arm A | 2012
+Title: Dietary restriction in rats and mice: a meta-analysis and review of the evidence for genotype-dependent effects on lifespan.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A039 | arm A | 1993
+Title: Oxidized amino acids in lens protein with age. Measurement of o-tyrosine and dityrosine in the aging human lens.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A143 | arm A | 2003
+Title: Age-dependent decline of in vitro migration (basal and stimulated by IGF-1 or insulin) of human vascular smooth muscle cells.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A104 | arm A | 2004
+Title: Aging-related research in the "-omics" age.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A139 | arm A | 2000
+Title: Developmental and tissue-specific expression of DEAD box protein p72.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A155 | arm A | 2007
+Title: How vaccines work on the background of the aging immune system.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A347 | arm A | 2025
+Title: Factors Linking Interoception and Sleep Across the Adult Lifespan.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A314 | arm A | 2024
+Title: Lemon Flavonoid Extract Eriomin Improves Pro/Antioxidant Status and Interferes with Cholesterol Metabolism without Affecting Serum Cholesterol Levels in Aged Rats.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A091 | arm A | 1998
+Title: Strategies for well-being in later life: a qualitative analysis.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A024 | arm A | 1992
+Title: Oxidative and glycolytic pathways in rat (newborn and adult) and turtle brain: role during anoxia.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A300 | arm A | 2019
+Title: Hypoxia Prevents Mitochondrial Dysfunction and Senescence in Human c-Kit+ Cardiac Progenitor Cells.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A006 | arm A | 1991
+Title: Clinical implications of pathophysiologic changes in the midlife hypertensive patient.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A172 | arm A | 2007
+Title: Estradiol stimulates progesterone synthesis in hypothalamic astrocyte cultures.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A174 | arm A | 2007
+Title: Effects of aging on triggering receptor expressed on myeloid cells (TREM)-1-induced PMN functions.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A029 | arm A | 1990
+Title: Changes in the synapses in the parietal cortex of senescent rats.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A073 | arm A | 1995
+Title: Age related decline in cytokine induced nitric oxide synthase activation and apoptosis in cultured endothelial cells: minimal involvement of nitric oxide in the apoptosis.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A333 | arm A | 2025
+Title: Drivers of centrosome abnormalities: Senescence progression and tumor immune escape.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A144 | arm A | 2000
+Title: Telomerase and mammalian ageing: a critical appraisal.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A079 | arm A | 1998
+Title: Response latencies for false memories: gist-based processes in normal aging.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A052 | arm A | 1999
+Title: The effect of genotype, age, sex, and caste on response thresholds to sucrose and foraging behavior of honey bees (Apis mellifera L.).
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A169 | arm A | 2009
+Title: Suicidal function of DNA methylation in age-related genome disintegration.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A134 | arm A | 2002
+Title: Cochlear whole mount in situ hybridization: identification of longitudinal and radial gradients.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A122 | arm A | 2002
+Title: Nicotine-induced conditioned place preference in adolescent and adult rats.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A175 | arm A | 2008
+Title: Profiling synaptic proteins identifies regulators of insulin secretion and lifespan.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A108 | arm A | 2001
+Title: Age-related accumulation and spatial distribution of lipofuscin in RPE of normal subjects.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B134 | arm B | 2006
+Title: Dual age-dependent effect of ghrelin administration on serum level of insulin-like growth factor-1 and gastric growth in young rats.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B178 | arm B | 2000
+Title: The biochemistry of aging.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B290 | arm B | 2011
+Title: Are terminal decline and its potential indicators detectable in population studies of the oldest old?
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B082 | arm B | 1999
+Title: Shift from depolarizing to hyperpolarizing glycine action in rat auditory neurones is due to age-dependent Cl- regulation.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B240 | arm B | 2010
+Title: Alcohol consumption and kidney function decline in the elderly: alcohol and kidney disease.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B009 | arm B | 1991
+Title: Postnatal maturation of the GABAergic system in rat neocortex.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B254 | arm B | 2015
+Title: Effects of age on the physiological and mechanical characteristics of human femoropopliteal arteries.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B393 | arm B | 2024
+Title: Hormesis determines lifespan.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B339 | arm B | 2025
+Title: The complex interplay between aging and cancer.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B209 | arm B | 2019
+Title: Reversion to developmental pathways underlies rapid arm regeneration in juvenile European cuttlefish, Sepia officinalis (Linnaeus 1758).
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B384 | arm B | 2025
+Title: Climate-related disasters and biological aging based on DNA methylation: a twin and family study in Australian women.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B014 | arm B | 1996
+Title: Factors of carotid arterial enlargement in a population aged 59 to 71 years: the EVA study.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B172 | arm B | 2006
+Title: Postnatal weight increase and growth velocity of very low birthweight infants.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B060 | arm B | 1995
+Title: Beta-adrenoceptor-G alpha S coupling decreases with age in rat aorta.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B122 | arm B | 2006
+Title: A new approach to the concept and computation of biological age.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]

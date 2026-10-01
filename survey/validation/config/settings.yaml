@@ -1,0 +1,13 @@
+project_name: ageing_trajectory_review
+# Independent re-coding of the frozen 2026-09-25 sample (PROTOCOL.md). No new PubMed draw:
+# the coder re-codes exactly the 750 records that Claude Opus 5.5 coded, so kappa is defined.
+retrieval_date: "2026-09-25"
+base_seed: 20260925
+sheet_order_seed: "20260925-independent-sheet"
+bootstrap_seed: 20260925
+bootstrap_reps: 2000
+source:
+  sample_json: ../data/sample.json          # relative to project root
+  opus_codes_A: ../data/codes_A.tsv
+  opus_codes_B: ../data/codes_B.tsv
+  kappa_sheet: ../data/kappa_sheet.tsv      # the 75-record 10% subset, flagged as priority

@@ -1,0 +1,2 @@
+comparison	n	percent_agreement	cohen_kappa	kappa_ci_low	kappa_ci_high
+T, Gemini chat A vs chat B	30	0.8666666666666667	0.7714285714285716	0.5529615992883266	0.9458532452016724

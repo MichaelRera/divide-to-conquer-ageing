@@ -1,0 +1,351 @@
+pmid	relevant	T	E	L	S	O	A	R	organism	note
+1600394	-	U	-	-	-	-	-	-	human	young vs older donors, regeneration kinetics
+2405943	-	P	implicit	-	-	-	-	-	human	reduction in liver size and blood flow with advancing age
+8466657	-	DEV	-	-	-	-	-	-	mouse-rat	developing rat, postnatal days
+1695885	-	U	-	-	-	-	-	-	mouse-rat	adult vs senescent comparison
+1331252	-	U	-	-	-	-	-	-	mouse-rat	young vs old, reactivation not increased with age
+1678918	-	P	implicit	-	-	-	-	-	human	aging decreases cardiac output
+2035916	-	DEV	-	-	-	-	-	-	other	neonatal foals
+8239292	-	P	implicit	-	-	-	-	-	mouse-rat	age-dependent reduction of cholinergic function
+2142956	-	U	-	-	-	-	-	-	human	young vs old, prospective memory
+2161716	-	DEV	-	-	-	-	-	-	mouse-rat	pre/postnatal development
+1797126	-	DEV	-	-	-	-	-	-	other	postnatal rabbit
+8270782	-	DEV	-	-	-	-	-	-	other	postnatal gerbil maturation
+7934207	-	NC	implicit	molecular	population	inferred	chronological age	-	mouse-rat	enzyme activity peaks in adult, lower in young and old (non-monotonic, 3 ages)
+1415804	-	DEV	-	-	-	-	-	-	other	fetal and neonatal lambs
+8054179	-	P	implicit	physiological-functional	-	-	-	-	human	age-related reductions in network size
+1500592	-	U	-	-	-	-	-	-	other	dairy cow herd life genetics, not senescence
+8443742	-	U	-	-	-	-	-	-	human	sexuality of older women, no trajectory
+8325352	-	NC	explicit	tissue-organ	population	inferred	chronological age	-	mouse-rat	brain-to-liver mercury ratio increases with aging in an exponential manner
+1932385	-	DEV	-	-	-	-	-	-	human	very-low-birth-weight infants
+1484951	-	D	implicit	physiological-functional	population	inferred	physiological state	not stated	human	step increase in CHD risk factors across the menopause, contrasted with age
+2278689	-	U	-	-	-	-	-	-	human	young vs elderly attributional style
+8149218	-	NC	implicit	cellular	population	inferred	chronological age	-	human	neuronal activation apparent from about 70 years onwards
+1849052	-	P	implicit	cellular	-	-	-	-	mouse-rat	greater accumulation of initiated hepatocytes with age
+1314516	-	DEV	-	-	-	-	-	-	mouse-rat	newborn vs adult rat
+7902054	-	U	-	-	-	-	-	-	human	Alzheimer pathology, no trajectory
+8092518	-	DEV	-	-	-	-	-	-	other	infant vs adult rabbit hearts
+1825105	-	DEV	-	-	-	-	-	-	mouse-rat	thymocyte ontogeny
+1316327	-	U	-	-	-	-	-	-	human	cross-sectional correlations in elderly
+2130629	-	U	-	-	-	-	-	-	mouse-rat	young vs aged synapse loss
+8418140	-	U	-	-	-	-	-	-	human	anthropometry, age not significant
+1660552	-	P	implicit	molecular	-	-	-	-	mouse-rat	synthesis of activator reduces with age
+8289710	-	U	-	-	-	-	-	-	none	hypothesis on replicative senescence mechanism
+8509106	-	U	-	-	-	-	-	-	human	young vs old dual-task
+1956599	-	U	-	-	-	-	-	-	human	young vs aged insulin resistance
+8468403	-	DEV	-	-	-	-	-	-	other	postnatal synaptogenesis in ferret
+2234289	-	U	-	-	-	-	-	-	other	aged monkeys, drug effect on memory
+1890876	-	P	implicit	molecular	-	-	-	-	mouse-rat	antioxidants lower with advancing age (3 ages)
+2111076	-	DEV	-	-	-	-	-	-	mouse-rat	adolescent hormonal imprinting
+8509374	-	P	explicit	molecular	-	-	-	-	human	lens protein oxidation markers correlate linearly with age 1-78 y
+1728300	-	P	implicit	molecular	-	-	-	-	mouse-rat	age-related decrease in mitochondrial complex activity (3 ages)
+1706636	-	U	-	-	-	-	-	-	mouse-rat	young vs aging mice, recovery after MPTP
+1643060	-	DEV	-	-	-	-	-	-	human	craniofacial growth 1-18 y
+2126684	-	U	-	-	-	-	-	-	human	no decline with age; suggests Parkinson pathology operates close to presentation (not lifelong degeneration)
+2323026	-	DEV	-	-	-	-	-	-	other	Xenopus tadpole development
+8313554	-	U	-	-	-	-	-	-	human	alcohol and mortality in middle-aged/elderly
+8020761	-	P	implicit	physiological-functional	-	-	-	-	human	normal age-related changes result in some decline in function
+1890292	-	U	-	-	-	-	-	-	human	factor structure of well-being
+1880276	-	U	-	-	-	-	-	-	other	dairy cow durability, not senescence
+7506277	-	U	-	-	-	-	-	-	human	young vs old neutrophil reserves
+8084545	-	U	-	-	-	-	-	-	human	receptor density higher in neonates, no decline in adult life
+8885952	-	DEV	-	-	-	-	-	-	human	low birth weight infants, cognition at 6 y
+10488557	-	DEV	-	-	-	-	-	-	other	honey bee ontogenetic changes
+10595831	-	P	explicit	physiological-functional	-	-	-	-	human	DHEA-S progressive reduction from puberty to old age; linear decline with age
+9386780	-	NC	explicit	tissue-organ	population	inferred	chronological age	-	other	plaques accumulate only after ~25 y and escalate after 30; cognitive impairment begins ~20 y
+7864103	-	U	-	-	-	-	-	-	human	GH and exercise in older men
+9868854	-	U	-	-	-	-	-	-	none	information system for aging services
+9284073	-	DEV	-	-	-	-	-	-	other	mast cell development in habenula grafts
+9592691	-	U	-	-	-	-	-	-	human	tetanus by age group
+8920174	-	P	implicit	physiological-functional	-	-	-	-	human	age-associated cognitive decline as therapeutic target
+8938620	-	U	-	-	-	-	-	-	mouse-rat	aged rat reproduction
+7568065	-	DEV	-	-	-	-	-	-	mouse-rat	embryonal vs adult DNA-binding factor levels
+10356345	-	U	-	-	-	-	-	-	mouse-rat	methods paper
+9435238	-	P	implicit	whole-organism	-	-	-	-	other	survival rates decline with age; senescence curve in lizards
+10051858	-	U	-	-	-	-	-	-	human	body fat methods in men 20-95
+9451633	-	P	implicit	molecular	-	-	-	-	mouse-rat	normal aging leads to diminished adrenergic responses
+7731202	-	P	implicit	physiological-functional	-	-	-	-	human	longitudinal lowering of voice frequency with age
+8923483	-	P	explicit	molecular	-	-	-	-	human	CSF peptide half-life decreases with age (regression)
+8786798	-	P	implicit	physiological-functional	-	-	-	-	mouse-rat	age-related decline in drug potency (4, 8, 12 months)
+9272922	-	U	-	-	-	-	-	-	human	younger vs older asthmatics
+10645137	-	U	-	-	-	-	-	-	human	polypharmacy intervention
+9062693	-	U	-	-	-	-	-	-	mouse-rat	tooth loss and memory in aged rats
+8636360	-	U	-	-	-	-	-	-	human	gonadotropins in women 40-50 vs 19-39
+7475350	-	P	implicit	cellular	-	-	-	-	human	NOS induction and apoptosis decline with increasing population doublings (in vitro aging)
+9590440	-	U	-	-	-	-	-	-	mouse-rat	young vs aged lesion response
+9094049	-	P	explicit	tissue-organ	-	-	-	-	human	age-related decline of MRA visualization (correlation, 7-82 y)
+10362857	-	U	-	-	-	-	-	-	human	young vs older anaerobic power
+9393629	-	U	-	-	-	-	-	-	mouse-rat	young vs old SEB response
+8751625	-	P	implicit	physiological-functional	-	-	-	-	human	outcome worsens with advancing age across age groups
+9640584	-	P	implicit	physiological-functional	-	-	-	-	human	age-related increase in false memory
+10529046	-	NC	implicit	physiological-functional	individual	observed	chronological age	-	human	loneliness increases only in the oldest cohort (longitudinal), attributed to ageing
+8537590	-	U	-	-	-	-	-	-	human	older vs younger hyperthyroid presentation
+10569297	-	U	-	-	-	-	-	-	human	no melatonin decline with age
+8744972	-	U	-	-	-	-	-	-	mouse-rat	vessel responses 1-10 months, divergent by vessel
+8780994	-	U	-	-	-	-	-	-	human	young vs elderly talkers
+8724913	-	NC	implicit	physiological-functional	population	inferred	chronological age	-	human	finger festination increases with age, especially in the eighties
+9697752	-	U	-	-	-	-	-	-	human	malaria severity children vs adults, not senescence
+9089455	-	U	-	-	-	-	-	-	human	morbidity in ageing people with intellectual disability
+7623120	-	U	-	-	-	-	-	-	mouse-rat	lesion effect exacerbated in aged rats
+10606164	-	U	-	-	-	-	-	-	mouse-rat	autoimmune strain 4 vs 12 weeks
+10507383	-	DEV	-	-	-	-	-	-	human	childhood intracranial volume, segmental (piecewise) growth
+9733421	-	U	-	-	-	-	-	-	human	qualitative well-being case study
+8601381	-	P	implicit	physiological-functional	-	-	-	-	mouse-rat	impairment of afferent nerve function attributed to aging (2 vs 12 months)
+8931618	-	U	-	-	-	-	-	-	human	affect in depressed older people
+10634506	-	U	-	-	-	-	-	-	mouse-rat	adult vs old chromatin
+9222748	-	U	-	-	-	-	-	-	human	two age groups, rhythm preserved
+10337441	-	P	implicit	molecular	-	-	-	-	mouse-rat	age-related decrease in lens antioxidant enzymes (1, 4, 24 months)
+8759042	-	P	explicit	physiological-functional	-	-	-	-	human	processing-speed theory: age associated with continuous decrease in speed
+10226848	-	P	implicit	physiological-functional	-	-	-	-	human	progressive autonomic dysfunction occurring with aging
+9401905	-	DEV	-	-	-	-	-	-	human	newborns vs children vs young adults
+9776135	-	U	-	-	-	-	-	-	mouse-rat	young vs old drug responses
+14687258	-	U	-	-	-	-	-	-	human	attribution of depression to old age
+15341805	-	U	-	-	-	-	-	-	human	incontinence management
+11404051	-	U	-	-	-	-	-	-	human	homozygosity in centenarians vs young
+15498757	-	U	-	-	-	-	-	-	none	omics in aging research, perspective
+12197668	-	U	-	-	-	-	-	-	mouse-rat	drug effect in aged rats
+12868015	-	U	-	-	-	-	-	-	mouse-rat	young vs senescent optic nerve head
+12488326	-	DEV	-	-	-	-	-	-	mouse-rat	neonatal Sertoli cells
+11431454	-	NC	explicit	cellular	population	inferred	chronological age	-	human	lipofuscin increases linearly until age 70, then declines (cross-sectional 15-80 y)
+15371098	-	U	-	-	-	-	-	-	human	three age groups, facial expression
+15571490	-	P	implicit	tissue-organ	-	-	-	-	human	sarcopenia as progressive loss of muscle mass, gradual decline in strength
+12147567	-	U	-	-	-	-	-	-	human	health expenditure by age group
+15016634	-	U	-	-	-	-	-	-	human	young vs older renal vasoconstriction
+12928831	-	D	explicit	tissue-organ	individual	observed	disease or pathology	not stated	mouse-rat	catabolic then anabolic phases of osteodystrophy defined morphologically in aged rats kept until death
+12778316	-	U	-	-	-	-	-	-	other	gander semen quality at 1-3 years
+10866058	-	DEV	-	-	-	-	-	-	human	childhood to young adulthood risk clustering
+11891823	-	P	explicit	tissue-organ	-	-	-	-	human	subregions decline normally with age (parametric, 20-88 y); entorhinal decline pathological in a subset
+15275653	-	DEV	-	-	-	-	-	-	other	pigeon growth and breeding cycle
+15545701	-	D	explicit	physiological-functional	individual	observed	physiological state	not stated	mouse-rat	longitudinal reproductive stages: regular -> irregular cycles (~10 mo) -> extended -> persistent estrous
+14523305	-	DEV	-	-	-	-	-	-	human	children 9-18 y, maturation
+12166367	-	U	-	-	-	-	-	-	human	young vs elderly food preference
+12529925	-	U	-	-	-	-	-	-	other	amyloid transport in aged monkeys
+12213508	-	DEV	-	-	-	-	-	-	mouse-rat	adolescent vs adult rats
+12548292	-	U	-	-	-	-	-	-	human	65-74 vs 75+ dietary intake
+11058095	-	U	-	-	-	-	-	-	human	induced cellular senescence morphology
+11000422	-	U	-	-	-	-	-	-	mouse-rat	compensatory increases rather than assumed decline
+12803907	-	U	-	-	-	-	-	-	mouse-rat	adult vs aged urine odour
+12516005	-	P	implicit	whole-organism	-	-	-	-	human	progressive decrease in physiological capacity; mortality rises exponentially
+15231238	-	P	implicit	cellular	-	-	-	-	none	mitochondrial decay of ageing
+14580308	-	P	implicit	cellular	-	-	-	-	human	immune impairments and cytokine overexpression occur with aging
+11523590	-	P	implicit	cellular	-	-	-	-	mouse-rat	aging leads to impairment of Kupffer cell function (young vs aged)
+14563076	-	U	-	-	-	-	-	-	human	biopsychosocial model
+12688228	-	U	-	-	-	-	-	-	human	osteoporosis management
+15462563	-	P	explicit	tissue-organ	-	-	-	-	mouse-rat	progressive pancreatic distortion and progressive adipose increment across young, old, senescent
+11852272	-	DEV	-	-	-	-	-	-	mouse-rat	developmental cochlear expression, methods
+12591555	-	U	-	-	-	-	-	-	human	lifestyle and longevity essay
+14501185	-	U	-	-	-	-	-	-	human	allele frequency decrease across ages reflects survival selection, not ageing trajectory
+12877897	-	U	-	-	-	-	-	-	human	AMD treatment
+12150992	-	U	-	-	-	-	-	-	none	p53 in cancer and aging review
+10718294	-	DEV	-	-	-	-	-	-	mouse-rat	developmental expression of p72
+11101473	-	DEV	-	-	-	-	-	-	human	homocysteine in children
+11552909	-	U	-	-	-	-	-	-	human	older vs younger GERD acid clearance
+11928207	-	U	-	-	-	-	-	-	human	perceived vs chronological worker age
+14684703	-	P	explicit	cellular	-	-	-	-	human	SMC migration decreases linearly with donor age 43-77 (r2 0.78-0.87)
+10799705	-	U	-	-	-	-	-	-	none	telomerase and ageing, critical review
+12209515	-	P	explicit	tissue-organ	-	-	-	-	human	synovial chondroitin sulfates highest at 20-30 then decrease; negative correlation with age
+11499864	-	U	-	-	-	-	-	-	mouse-rat	aged and ovariectomized rat bone expression
+12365243	-	U	-	-	-	-	-	-	human	young vs older EMG
+15308365	-	DEV	-	-	-	-	-	-	human	infants vs young children vaccine response
+11511394	-	P	implicit	cellular	-	-	-	-	human	as humans age, infection morbidity increases and vaccine response declines
+11144318	-	U	-	-	-	-	-	-	human	young vs older dual-task strategies
+19520539	-	D	explicit	tissue-organ	population	inferred	chronological age	not stated	human	four distinct periods of brain life (maturation 0-2, development 2-20, adulthood 20-60, senescence 60+) from cross-sectional MRI curves
+17139365	-	U	-	-	-	-	-	-	human	thrombosis proteomics before age 40
+20041966	-	U	-	-	-	-	-	-	other	prostate lesions in aged female gerbils
+16760626	-	U	-	-	-	-	-	-	human	androgen deficiency and symptoms review
+17125950	-	P	implicit	cellular	-	-	-	-	mouse-rat	decline in vaccine responses with the aging immune system
+17563177	-	U	-	-	-	-	-	-	human	younger vs older dual-task
+16525160	-	U	-	-	-	-	-	-	human	aging vs youthful kidney adaptation similar
+17989943	-	DEV	-	-	-	-	-	-	human	early pubertal girls
+18827372	-	P	implicit	tissue-organ	-	-	-	-	human	echo parameters slightly increase or decline with age (20-79 y norms)
+17900898	-	U	-	-	-	-	-	-	C. elegans	TGF-beta pathway regulates longevity
+19318942	-	D	explicit	cellular	individual	observed	physiological state	reversible stated	human	premature senescence as a state between recovery and point of no return; reversal of senescence discussed
+15621214	-	U	-	-	-	-	-	-	human	predictors of survival 70-82
+19709699	-	U	-	-	-	-	-	-	human	pain not correlated with age
+19008307	-	U	-	-	-	-	-	-	human	sensory impairment and falls
+15888314	-	P	explicit	molecular	-	-	-	-	none	accumulation of mutations and declining repair form a vicious cycle amplifying damage and progression of aging
+17905913	-	DEV	-	-	-	-	-	-	human	adolescents with hearing loss
+18538374	-	U	-	-	-	-	-	-	human	progeroid DNA repair syndromes review
+15739187	-	U	-	-	-	-	-	-	mouse-rat	progressive arthropathy in knockout mice (mutant pathology)
+19464391	-	P	implicit	molecular	-	-	-	-	none	accumulation of methylation-dependent mutations, age-related genome disintegration
+18307051	-	P	implicit	cellular	-	-	-	-	mouse-rat	progressive accumulation of lipofuscin, fall of DHEA with age
+16054319	-	U	-	-	-	-	-	-	mouse-rat	caloric restriction gene expression
+17095591	-	DEV	-	-	-	-	-	-	mouse-rat	neonatal vs postpubertal astrocytes
+19252136	-	U	-	-	-	-	-	-	mouse-rat	diabetic neuropathy
+17336301	-	U	-	-	-	-	-	-	human	elderly vs young neutrophil TREM-1 response
+19043554	-	U	-	-	-	-	-	-	C. elegans	synaptic proteins and lifespan genetics
+17063362	-	P	implicit	tissue-organ	-	-	-	-	human	age-related degeneration of muscle-tendon units
+16470462	-	U	-	-	-	-	-	-	human	hearing loss in elderly review
+17855035	-	P	explicit	whole-organism	individual	-	-	-	human	stochastic deficit accumulation: chance of new deficits rises linearly with existing deficits (frailty index, Poisson model)
+17013664	-	U	-	-	-	-	-	-	human	cross-national grip strength
+17662700	-	P	implicit	cellular	-	-	-	-	mouse-rat	age-related decrease of neurogenesis (3-18 months)
+17032370	-	U	-	-	-	-	-	-	other	tern demography by age class
+18334591	-	P	explicit	physiological-functional	-	-	-	-	human	AMH declines with age; menopause predicted as threshold crossing of a continuous decline
+19444705	-	U	-	-	-	-	-	-	human	HIV and age groups
+16261309	-	NC	explicit	tissue-organ	population	inferred	chronological age	-	human	GFR assumed stable then declining 1 ml/min/yr after age 40 (piecewise)
+18555778	-	D	explicit	cellular	individual	observed	physiological state	not stated	human	entry into and maintenance of oncogene-induced senescence state
+18556430	-	P	implicit	physiological-functional	-	-	-	-	human	physical activity declines with age across young, aged, nonagenarians
+18208355	-	U	-	-	-	-	-	-	none	proteasome and oxidative stress review
+16179600	-	P	implicit	physiological-functional	-	-	-	-	mouse-rat	cholesterol absorption increases with age (8, 36, 50 wk)
+15716474	-	DEV	-	-	-	-	-	-	human	children 8-19 arithmetic development
+15744747	-	DEV	-	-	-	-	-	-	mouse-rat	postnatal ceruloplasmin development
+16799133	-	P	implicit	cellular	-	-	-	-	human	age-related loss of function as background to exercise intervention
+18560789	-	U	-	-	-	-	-	-	human	magnesium and metabolic syndrome
+19349914	-	NC	implicit	physiological-functional	population	inferred	chronological age	-	mouse-rat	resistant strain loses MPTP resistance only at older ages (10-18 months)
+17902269	-	U	-	-	-	-	-	-	mouse-rat	tubular senescence after ischemia injury
+18957730	-	U	-	-	-	-	-	-	human	caregivers review
+16127111	-	NC	explicit	whole-organism	population	inferred	chronological age	-	human	frailty index increases with age until mid-80s then levels off (Weibull distribution)
+17693962	-	DEV	-	-	-	-	-	-	mouse-rat	long bone growth under hypothyroidism
+19853062	-	U	-	-	-	-	-	-	multiple	caloric restriction review
+16611596	-	P	implicit	tissue-organ	-	-	-	-	none	age-related increases in inflammatory agents over the course of aging
+19725392	-	P	implicit	tissue-organ	-	-	-	-	human	arterial ageing described as a continuously distributed phenotype
+25266835	-	U	-	-	-	-	-	-	human	age-related esotropia surgery
+23237593	-	U	-	-	-	-	-	-	mouse-rat	light at night accelerates aging and tumorigenesis
+24131064	-	U	-	-	-	-	-	-	human	education and metamemory
+23618565	-	U	-	-	-	-	-	-	human	surgery outcomes over 80
+21172738	-	U	-	-	-	-	-	-	human	early vs late elderly pharmacokinetics
+22210149	-	U	-	-	-	-	-	-	mouse-rat	dietary restriction meta-analysis
+25236846	-	U	-	-	-	-	-	-	human	gait speed and mortality
+20517892	-	P	implicit	molecular	-	-	-	-	human	loss of respiratory chain activity in serially passaged (aged) fibroblasts
+25913762	-	P	implicit	physiological-functional	-	-	-	-	human	decline in emotion recognition with age, 18-86 y
+22289892	-	U	-	-	-	-	-	-	mouse-rat	HSC changes with aging, Rantes mechanism
+23043948	-	U	-	-	-	-	-	-	other	dairy cow twinning, not senescence
+25502012	-	U	-	-	-	-	-	-	mouse-rat	electroacupuncture in SAMP8 mice
+23746072	-	P	explicit	physiological-functional	-	-	-	-	human	small linear relation between older age and poorer sleep quality, 18-89 y
+24510000	-	U	-	-	-	-	-	-	human	sedentary time and disability
+19878143	-	P	implicit	cellular	-	-	-	-	human	aging associated with progressive T-cell deficiency
+23773060	-	U	-	-	-	-	-	-	human	normal-aMCI-AD continuum, disease
+21504043	-	U	-	-	-	-	-	-	mouse-rat	postovulatory oocyte aging in culture
+23276213	-	U	-	-	-	-	-	-	human	emotional processing and cognition in older adults
+22913477	-	U	-	-	-	-	-	-	human	loneliness and physical activity
+23732643	-	U	-	-	-	-	-	-	human	young vs older muscle regrowth
+24345469	-	U	-	-	-	-	-	-	human	in vitro lifespan of disc chondrocytes
+25286899	-	P	implicit	physiological-functional	-	-	-	-	human	normal consequence of aging is general deterioration of balance systems
+23264442	-	NC	explicit	physiological-functional	individual	inferred	chronological age	-	human	latent BMI trajectory classes with accelerating or decelerating change (14-y longitudinal mixture models)
+21963385	-	U	-	-	-	-	-	-	human	stochastic modulation of pace and patterns of ageing, essay
+24449195	-	P	explicit	molecular	-	-	-	-	other	telomere length decreases with age in mosquitofish
+24607515	-	U	-	-	-	-	-	-	none	mitochondria-autophagy review
+21679320	-	U	-	-	-	-	-	-	human	skiing training in older people
+25244491	-	U	-	-	-	-	-	-	human	prospective memory training
+25129573	-	P	implicit	physiological-functional	-	-	-	-	mouse-rat	activity, balance and strength decrease with age in SAMP8
+21976943	-	U	-	-	-	-	-	-	human	eyelid histology two age groups
+22971986	-	P	explicit	tissue-organ	-	-	-	-	human	cartilage T1rho increases linearly with age (regression)
+23314165	-	U	-	-	-	-	-	-	mouse-rat	anesthesia and adult-born neuron maturation
+25429133	-	U	-	-	-	-	-	-	mouse-rat	presenilin knockout neurodegeneration
+24548258	-	U	-	-	-	-	-	-	other	young vs old baboon intestinal contractility
+23275497	-	P	explicit	physiological-functional	-	-	-	-	human	linear age trend in all five personality domains (mixed model)
+23277187	-	U	-	-	-	-	-	-	mouse-rat	UCP1 longevity mechanism
+23104860	-	P	implicit	molecular	-	-	-	-	human	oxidative DNA damage accumulates with age
+20505194	-	P	explicit	molecular	-	-	-	-	human	mtDNA damage increases with age 34-88 in deletion region
+22525590	-	U	-	-	-	-	-	-	none	hormesis dose-response review
+23719386	-	U	-	-	-	-	-	-	human	young vs elderly ERPs
+23276601	-	U	-	-	-	-	-	-	human	life expectancy at 65 across countries
+20427381	-	U	-	-	-	-	-	-	mouse-rat	young vs old cardioprotection
+20520823	-	U	-	-	-	-	-	-	Drosophila	serotonin and aggression
+20226811	-	DEV	-	-	-	-	-	-	human	childhood lead exposure and adult grey matter
+22016359	-	U	-	-	-	-	-	-	human	metabolic syndrome and cognitive decline in oldest old
+23892932	-	P	implicit	molecular	-	-	-	-	mouse-rat	age-related decreases in peroxisomal beta-oxidation
+21559866	-	U	-	-	-	-	-	-	mouse-rat	NGF expression neonatal, young, old
+25266817	-	DEV	-	-	-	-	-	-	human	children vs adult platelets
+25244555	-	P	explicit	physiological-functional	-	-	-	-	human	processing speed slows linearly 2-4 s per decade, 18-85 y
+24853052	-	P	explicit	cellular	-	-	-	-	other	dlPFC spine density decreases with age; V1 unaffected
+29564958	-	NC	explicit	physiological-functional	population	inferred	chronological age	-	human	emotion perception peaks 15-30 then declines (100k cross-sectional)
+29115858	-	U	-	-	-	-	-	-	human	forgiveness and functioning in residential elderly
+26993585	-	P	explicit	physiological-functional	-	-	-	-	human	ADL limitations increase linearly 0.03 per year after 60 (longitudinal)
+26923400	-	U	-	-	-	-	-	-	human	vitamin D and cognition
+28554416	-	U	-	-	-	-	-	-	human	Parkinson treatment in older patients
+28130890	-	U	-	-	-	-	-	-	human	uselessness and mortality
+31642952	-	U	-	-	-	-	-	-	human	sarcopenic obesity and lung function
+27110446	-	U	-	-	-	-	-	-	human	youth telomere intervention
+28933064	-	U	-	-	-	-	-	-	human	adipose tissue and brain across life, review
+29119382	-	U	-	-	-	-	-	-	human	brown adipose tissue review
+30978199	-	U	-	-	-	-	-	-	human	state tax burden and midlife mortality
+28351489	-	U	-	-	-	-	-	-	human	hypothesis linking menopausal microbiome to prostate cancer
+28432521	-	U	-	-	-	-	-	-	other	late-onset food restriction in annual fish
+31618076	-	U	-	-	-	-	-	-	mouse-rat	exercise and LINE-1 expression
+27956574	-	U	-	-	-	-	-	-	human	uric acid and arterial stiffness
+27470009	-	DEV	-	-	-	-	-	-	human	somatosensation development in children
+28185406	-	D	implicit	cellular	-	-	-	irreversible stated	none	cellular senescence defined as a state of irreversible cell-cycle arrest (detection method)
+26178206	-	U	-	-	-	-	-	-	human	sexual behaviour and quality of life
+29849920	-	U	-	-	-	-	-	-	human	glioblastoma transcription factors
+26799654	-	P	explicit	molecular	-	-	-	-	human	>10-fold age-dependent decline of brain methylcobalamin, fetal to 80 y
+25175807	-	NC	implicit	tissue-organ	individual	inferred	chronological age	-	human	hippocampal atrophy rate increases with age (longitudinal rates)
+28093830	-	P	explicit	physiological-functional	-	-	-	-	human	sleep microstructure measures decrease with age (regression 22-71)
+28188448	-	P	explicit	population-demographic	-	-	-	-	human	adult mortality slope (rate of senescence) distorted by delayed-effect frailty; continuous mortality model
+28152068	-	P	implicit	cellular	-	-	-	-	mouse-rat	aging-induced cognitive decline and synapse loss
+30961991	-	DEV	-	-	-	-	-	-	human	BMI disparities from age 5
+26596544	-	U	-	-	-	-	-	-	human	persistent gammaH2AX as marker, review
+30396810	-	P	implicit	molecular	-	-	-	-	human	age-related heterochromatin loss and accumulation of senescent cells fuel inflammaging
+26460207	-	U	-	-	-	-	-	-	human	attitudes toward ageing
+31141466	-	U	-	-	-	-	-	-	other	juvenile fish hypoxia tolerance
+29063823	-	P	implicit	physiological-functional	-	-	-	-	human	age-related decline in optimism and working memory
+26319648	-	P	implicit	cellular	-	-	-	-	human	nodal cell numbers decrease with age as part of normal aging
+28379943	-	U	-	-	-	-	-	-	C. elegans	H3K4me3 and fat metabolism in lifespan
+25319561	-	DEV	-	-	-	-	-	-	human	skeletal development in children
+26214100	-	U	-	-	-	-	-	-	human	young vs older everyday memory
+25929653	-	U	-	-	-	-	-	-	human	infant motor development and cognition at 64
+29271864	-	U	-	-	-	-	-	-	human	accelerated DNAm age and PTSD
+27481440	-	P	explicit	tissue-organ	-	-	-	-	mouse-rat	progressive loss of phosphorus in retina, 1-8 months
+28882473	-	U	-	-	-	-	-	-	mouse-rat	mature vs aged male rats sexual function
+30588835	-	U	-	-	-	-	-	-	human	memory encoding in older adults
+26773312	-	U	-	-	-	-	-	-	human	self-perception of aging and support
+31014776	-	U	-	-	-	-	-	-	human	parenting style and telomere length
+27729385	-	U	-	-	-	-	-	-	human	successful aging in Indigenous peoples
+28397282	-	P	implicit	cellular	-	-	-	-	none	aging defined as progressive time-related accumulation of changes; neurodegeneration exponential with age
+29096878	-	U	-	-	-	-	-	-	human	centenarian epigenetics review
+29943496	-	P	implicit	tissue-organ	-	-	-	-	mouse-rat	age-dependent decrease in slow-twitch fibre function
+27908262	-	U	-	-	-	-	-	-	human	sleep in institutionalised older people
+25252831	-	P	implicit	cellular	-	-	-	-	Drosophila	age-dependent neurodegeneration postponed by GADD45
+30637490	-	U	-	-	-	-	-	-	human	cell senescence in lupus review
+29721150	-	P	implicit	cellular	-	-	-	-	mouse-rat	delayed loss of biological functions characteristic of aging
+30629785	-	U	-	-	-	-	-	-	human	hypoxia and progenitor senescence in culture
+39672978	-	P	implicit	tissue-organ	-	-	-	-	mouse-rat	ovarian aging as declining reserve that eventually results in menopause
+39614707	-	U	-	-	-	-	-	-	human	white matter hyperintensities and vascular aging
+40970514	-	D	implicit	cellular	population	inferred	physiological state	not stated	human	microglia shift from neuroprotective to neurotoxic phenotype with brain ageing
+33475496	-	P	implicit	cellular	-	-	-	-	mouse-rat	regenerative support declines during aging
+38795389	-	U	-	-	-	-	-	-	mouse-rat	Werner syndrome model proteomics
+32901819	-	P	implicit	tissue-organ	-	-	-	-	other	age-related decrease in ovarian follicles and DHEA in macaques
+34579157	-	U	-	-	-	-	-	-	human	induced senescence of endothelial cells
+33770668	-	U	-	-	-	-	-	-	mouse-rat	osteolysis model in aged mice
+35560232	-	D	implicit	whole-organism	individual	inferred	proximity to death	not stated	other	no senescent decline with age, but reduced inclusive fitness in the last year of life (terminal effect, 25-y longitudinal)
+32900979	-	U	-	-	-	-	-	-	other	plant leaf senescence, not animal ageing
+33065164	-	U	-	-	-	-	-	-	human	prognostic model of quality-of-life deterioration
+40526703	-	U	-	-	-	-	-	-	human	predicting slow gait
+33617124	-	U	-	-	-	-	-	-	human	musical training in older adults
+38791260	-	U	-	-	-	-	-	-	mouse-rat	flavonoid extract in aged rats
+39433211	-	U	-	-	-	-	-	-	human	RPE metabolism review
+39693634	-	U	-	-	-	-	-	-	human	cultural study of gerontophobia
+33260577	-	NC	implicit	tissue-organ	population	inferred	chronological age	-	human	muscle mass stable in early life, declines ~1%/yr after age 50
+31977544	-	U	-	-	-	-	-	-	human	mitochondrial markers in glaucoma
+39536932	-	P	implicit	tissue-organ	-	-	-	-	mouse-rat	age-related bone loss with senescent cell accumulation
+40386939	-	U	-	-	-	-	-	-	human	senescent cells in lupus
+39562515	-	U	-	-	-	-	-	-	other	storms and seabird survival
+40120658	-	U	-	-	-	-	-	-	human	T cell senescence and exhaustion review
+40095191	-	NC	implicit	physiological-functional	population	inferred	chronological age	-	human	gut microbiota starts to shift toward a less healthy composition in older age
+35366301	-	U	-	-	-	-	-	-	other	orchid seed longevity, not animal ageing
+33260002	-	U	-	-	-	-	-	-	human	dual-task gait in older adults
+40446021	-	P	implicit	molecular	-	-	-	-	Drosophila	age-associated decline of CoA in intestinal stem cells
+37913626	-	U	-	-	-	-	-	-	human	hippocampal subfields and memory, 18-85
+33559812	-	P	implicit	cellular	-	-	-	-	human	senescent cells increase and proliferation decreases with repeated passages
+39513361	-	U	-	-	-	-	-	-	mouse-rat	radiation-induced senescence, glioblastoma
+40132714	-	U	-	-	-	-	-	-	mouse-rat	osteoarthritis therapy
+41215620	-	U	-	-	-	-	-	-	mouse-rat	dietary restriction and insulin sensitivity
+31809367	-	DEV	-	-	-	-	-	-	human	visual acuity maturation 5-20 y
+39929410	-	U	-	-	-	-	-	-	human	centrosome abnormalities review
+37366070	-	U	-	-	-	-	-	-	human	teleneuropsychology reliability
+35886889	-	U	-	-	-	-	-	-	human	induced fibroblast senescence
+33467406	-	U	-	-	-	-	-	-	mouse-rat	late-life caloric restriction in rats
+34326251	-	U	-	-	-	-	-	-	mouse-rat	p53 and senescence in tumour lines
+41345704	-	U	-	-	-	-	-	-	human	senescence bypass in lung cancer
+39168485	-	U	-	-	-	-	-	-	human	aging suit in young adults
+32568925	-	P	implicit	molecular	-	-	-	-	human	age-associated reduction in nitric oxide synthesis
+40516835	-	U	-	-	-	-	-	-	mouse-rat	age-related hearing loss hub genes
+38690719	-	P	implicit	tissue-organ	-	-	-	-	human	aging decreases osteogenic activity leading to decreased bone mass
+39692026	-	U	-	-	-	-	-	-	human	cohort data profile
+39963743	-	U	-	-	-	-	-	-	human	subjective age and daily affect
+37995077	-	U	-	-	-	-	-	-	mouse-rat	aging modulates stem cell recruitment
+38705236	-	U	-	-	-	-	-	-	mouse-rat	young vs aged lacrimal gland lipids
+40765293	-	U	-	-	-	-	-	-	human	interoception and sleep across adulthood
+41066002	-	U	-	-	-	-	-	-	human	cardiomyopathy in older adults review
+39086191	-	U	-	-	-	-	-	-	multiple	young vs aged spinal cord histochemistry
+39662967	-	U	-	-	-	-	-	-	none	muscle stem cell metabolism review

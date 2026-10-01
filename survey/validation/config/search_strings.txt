@@ -1,0 +1,7 @@
+Arm A population:
+"Aging"[Majr] AND english[la]
+
+Arm B:
+"Aging"[Majr] AND english[la] AND (nonlinear[tiab] OR non-linear[tiab] OR discontinu*[tiab] OR biphasic[tiab] OR "two-phase"[tiab] OR "two phase"[tiab] OR "two phases"[tiab] OR "phase transition"[tiab] OR "tipping point"[tiab] OR "tipping points"[tiab] OR "critical transition"[tiab] OR "critical transitions"[tiab] OR "state transition"[tiab] OR "transition point"[tiab] OR "breakpoint"[tiab] OR "change point"[tiab] OR "changepoint"[tiab] OR "inflection point"[tiab] OR "waves of"[tiab] OR "switch-like"[tiab] OR "abrupt"[tiab] OR "stepwise"[tiab] OR "terminal decline"[tiab] OR "phases of aging"[tiab] OR "phases of ageing"[tiab] OR "stages of aging"[tiab] OR "stages of ageing"[tiab] OR "accelerat* aging"[tiab] OR "Smurf"[tiab])
+
+Dates: publication date (pdat) 1990/01/01-2025/12/31; seed 20260925

@@ -1,0 +1,51 @@
+review_id	screen_relevant	trajectory_code	explicitness	level	scale	observation	anchor	reversibility	meaning	organism	evidence_quote	notes
+B078	no	-	-	-	-	-	-	-	-	mouse-rat	aging does not significantly alter life spans	-
+B258	no	-	-	-	-	-	-	-	-	human	accelerated cellular senescence associated with HIV infection	-
+B230	no	-	-	-	-	-	-	-	-	human	successful aging	-
+B150	no	-	-	-	-	-	-	-	-	mouse-rat	segmental progeroid phenotype	-
+B321	no	-	-	-	-	-	-	-	-	human	accelerated epigenetic aging	-
+B259	no	-	-	-	-	-	-	-	-	human	age groups	-
+B371	no	-	-	-	-	-	-	-	-	mouse-rat	accelerating aging	-
+B330	no	-	-	-	-	-	-	-	-	human	aging-induced sarcopenia	-
+B266	no	-	-	-	-	-	-	-	-	human	mid- to later life	-
+B342	no	-	-	-	-	-	-	-	-	human	accelerated biological aging	-
+B313	no	-	-	-	-	-	-	-	-	human	accelerated aging	-
+B248	no	-	-	-	-	-	-	-	-	human	progressive decrease in lung function	-
+B144	no	-	-	-	-	-	-	-	-	human	biphasic age dependency	-
+B092	no	-	-	-	-	-	-	-	-	human	biphasic curve	-
+B179	no	-	-	-	-	-	-	-	-	mouse-rat	developed neurological impairment gradually	-
+B296	no	-	-	-	-	-	-	-	-	mouse-rat	biphasic tachycardia	-
+B037	no	-	-	-	-	-	-	-	-	human	age-related differences	-
+B088	no	-	-	-	-	-	-	-	-	human	accelerated aging	-
+B065	no	-	-	-	-	-	-	-	-	mouse-rat	two phases	-
+B358	no	-	-	-	-	-	-	-	-	human	nonlinear relationship	-
+B361	no	-	-	-	-	-	-	-	-	human	cognitive change	-
+B201	no	-	-	-	-	-	-	-	-	human	trajectory of subjective health	-
+B303	no	-	-	-	-	-	-	-	-	human	predicting extreme longevity	-
+B117	no	-	-	-	-	-	-	-	-	human	negative linear correlation between age and binding	-
+B194	no	-	-	-	-	-	-	-	-	human	biphasic systemic absorption	-
+B127	no	-	-	-	-	-	-	-	-	human	advancing age	-
+B076	no	-	-	-	-	-	-	-	-	mouse-rat	developmental variation	-
+B184	no	-	-	-	-	-	-	-	-	human	age and baroreflex sensitivity	-
+B222	no	-	-	-	-	-	-	-	-	human	accelerated aging model	-
+B352	no	-	-	-	-	-	-	-	-	human	accelerated aging	-
+B068	no	-	-	-	-	-	-	-	-	mouse-rat	decreases more quickly	-
+B131	no	-	-	-	-	-	-	-	-	human	stepwise up-regulation	-
+B105	no	-	-	-	-	-	-	-	-	human	stepwise hemodynamic and vascular changes	-
+B286	no	-	-	-	-	-	-	-	-	mouse-rat	persistent insulin resistance and hypertension	-
+B278	no	-	-	-	-	-	-	-	-	mouse-rat	aging-induced stress	-
+B261	no	-	-	-	-	-	-	-	-	mouse-rat	accelerates age-related decline	-
+B356	no	-	-	-	-	-	-	-	-	human	age-associated CpG sites	-
+B292	no	-	-	-	-	-	-	-	-	human	accelerated arterial aging	-
+B202	no	-	-	-	-	-	-	-	-	human	mean level decreases across waves	-
+B032	no	-	-	-	-	-	-	-	-	mouse-rat	two phases	-
+B116	no	-	-	-	-	-	-	-	-	human	accelerate aging	-
+B136	no	-	-	-	-	-	-	-	-	human	terminal decline or drop	-
+B091	no	-	-	-	-	-	-	-	-	mouse-rat	abrupt rise in AOP catalytic activity	-
+B328	no	-	-	-	-	-	-	-	-	human	premature aging syndrome	-
+B199	no	-	-	-	-	-	-	-	-	human	age-related impairment	-
+B130	no	-	-	-	-	-	-	-	-	human	accelerated aging	-
+B268	no	-	-	-	-	-	-	-	-	human	progressive degeneration of tissues	-
+B373	no	-	-	-	-	-	-	-	-	human	non-linear transcriptional reprogramming with age	-
+B119	no	-	-	-	-	-	-	-	-	mouse-rat	biphasic fashion	-
+B225	no	-	-	-	-	-	-	-	-	human	quadratic relationship	-

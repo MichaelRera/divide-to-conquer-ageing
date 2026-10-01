@@ -1,0 +1,51 @@
+review_id	screen_relevant	trajectory_code	explicitness	level	scale	observation	anchor	reversibility	meaning	organism	evidence_quote	notes
+A119	-	DEV	-	-	-	-	-	-	-	human	Participants were 9-18 yr of age	-
+A253	-	P	explicit	-	-	-	-	-	-	human	ADL score increased on average by 0.03 for every year	-
+A343	-	U	-	-	-	-	-	-	-	human	-	-
+A094	-	U	-	-	-	-	-	-	-	mouse-rat	-	-
+A224	-	U	-	-	-	-	-	-	-	multiple	-	-
+A243	-	U	-	-	-	-	-	-	-	Drosophila	-	-
+A322	-	U	-	-	-	-	-	-	-	human	-	-
+A192	-	U	-	-	-	-	-	-	-	human	-	-
+A282	-	U	-	-	-	-	-	-	-	C. elegans	-	-
+A153	-	P	implicit	-	-	-	-	-	-	other	lesions were intensified during senescence	-
+A206	-	U	-	-	-	-	-	-	-	mouse-rat	-	-
+A039	-	P	explicit	-	-	-	-	-	-	human	increased 11-fold between ages 1 and 78	-
+A143	-	P	explicit	-	-	-	-	-	-	human	Migration activity decreased with donor age	-
+A104	-	U	-	-	-	-	-	-	-	multiple	-	-
+A139	-	DEV	-	-	-	-	-	-	-	mouse-rat	during development	-
+A155	-	P	implicit	-	-	-	-	-	-	mouse-rat	The elderly exhibit reduced responses to vaccinations	-
+A347	-	U	-	-	-	-	-	-	-	human	-	-
+A314	-	U	-	-	-	-	-	-	-	mouse-rat	-	-
+A091	-	P	implicit	-	-	-	-	-	-	human	physical slow-down	-
+A024	-	DEV	-	-	-	-	-	-	-	mouse-rat	newborn and adult	-
+A300	-	U	-	-	-	-	-	-	-	human	-	-
+A006	-	P	implicit	-	-	-	-	-	-	human	Both aging and hypertension decrease cardiac output	-
+A172	-	DEV	-	-	-	-	-	-	-	mouse-rat	female neonatal or female postpubertal rats	-
+A174	-	P	implicit	-	-	-	-	-	-	human	phosphorylation of TREM-1 signal transduction molecules was altered with aging	-
+A029	-	U	-	-	-	-	-	-	-	mouse-rat	-	-
+A073	-	P	explicit	-	-	-	-	-	-	human	declined with increasing PDLs of HUVECs	-
+A333	-	U	-	-	-	-	-	-	-	none	-	-
+A144	-	U	-	-	-	-	-	-	-	multiple	-	-
+A079	-	P	implicit	-	-	-	-	-	-	human	age-related increase in reliance on gist-based processing	-
+A052	-	DEV	-	-	-	-	-	-	-	other	ontogenetic changes in their response threshold	-
+A169	-	P	implicit	-	-	-	-	-	-	human	accumulation of 5mC-dependent mutations	-
+A134	-	DEV	-	-	-	-	-	-	-	mouse-rat	developmental up-regulation and down-regulation of genes	-
+A122	-	DEV	-	-	-	-	-	-	-	mouse-rat	during adolescence	-
+A175	-	U	-	-	-	-	-	-	-	C. elegans	-	-
+A108	-	NC	explicit	molecular	population	inferred	chronological age	-	-	human	increased linearly until age 70 then declined	-
+B134	no	-	-	-	-	-	-	-	-	mouse-rat	biphasic effect on gastric growth in young rats	-
+B178	yes	P	implicit	-	-	-	-	-	-	multiple	progressive reduction in energy output	-
+B290	yes	NC	explicit	physiological-functional	individual	inferred	proximity to death	-	-	human	Decline and acceleration of this decline were detectable	[authors: "terminal decline"]
+B082	no	-	-	-	-	-	-	-	-	mouse-rat	developmental shift from depolarizing to hyperpolarizing glycine responses	-
+B240	yes	P	explicit	physiological-functional	individual	observed	chronological age	-	-	human	rapid kidney function as an annual estimated GFR loss	-
+B009	no	-	-	-	-	-	-	-	-	mouse-rat	postnatal maturation	-
+B254	yes	NC	explicit	tissue-organ	population	inferred	chronological age	-	-	human	Physiological circumferential stretch decreased 55-75% after 45 years	-
+B393	no	-	-	-	-	-	-	-	-	multiple	biphasic dose response	-
+B339	no	-	-	-	-	-	-	-	-	multiple	aging-modulated pathways to cancer progression	-
+B209	no	-	-	-	-	-	-	-	-	other	stepwise process with staged specification of tissues	-
+B384	no	-	-	-	-	-	-	-	-	human	persisted for ≤6 months after exposure	-
+B014	no	-	-	-	-	-	-	-	-	human	-	-
+B172	no	-	-	-	-	-	-	-	-	human	two peaks and subsequent slow decrease in growth velocity	-
+B060	yes	P	explicit	tissue-organ	population	observed	chronological age	-	-	mouse-rat	beta-adrenoceptor-G alpha S coupling decreases with age	-
+B122	no	-	-	-	-	-	-	-	-	none	nonlinear cases	-

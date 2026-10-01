@@ -1,0 +1,51 @@
+review_id	screen_relevant	trajectory_code	explicitness	level	scale	observation	anchor	reversibility	meaning	organism	evidence_quote	notes
+B139	no	-	-	-	-	-	-	-	-	mouse-rat	accelerated aging	-
+B154	no	-	-	-	-	-	-	-	-	other	abrupt shifts in the light-dark cycle	-
+B217	no	-	-	-	-	-	-	-	-	human	elderly participants	-
+B029	no	-	-	-	-	-	-	-	-	human	BC decreased with advanced age	-
+B010	no	-	-	-	-	-	-	-	-	human	abrupt onset	-
+B132	no	-	-	-	-	-	-	-	-	human	cognitive change decline	-
+B237	no	-	-	-	-	-	-	-	-	human	increased with age	-
+B279	no	-	-	-	-	-	-	-	-	human	accelerated aging of the immune system	-
+B106	no	-	-	-	-	-	-	-	-	mouse-rat	biphasic pattern	-
+B355	no	-	-	-	-	-	-	-	-	human	nonlinear trauma effects	-
+B396	no	-	-	-	-	-	-	-	-	mouse-rat	nonlinear dynamics	-
+B334	no	-	-	-	-	-	-	-	-	human	trends of hearing loss	-
+B287	no	-	-	-	-	-	-	-	-	human	nonlinear fashion	-
+B274	no	-	-	-	-	-	-	-	-	human	accelerated aging	-
+B285	no	-	-	-	-	-	-	-	-	mouse-rat	non-linear functions	-
+B291	no	-	-	-	-	-	-	-	-	human	acceleration of cardiovascular age	-
+B069	no	-	-	-	-	-	-	-	-	mouse-rat	biphasic increase	-
+B234	no	-	-	-	-	-	-	-	-	human	impaired cognitive function	-
+B310	no	-	-	-	-	-	-	-	-	human	developmental discontinuities	-
+B353	no	-	-	-	-	-	-	-	-	human	U-shaped relationship	-
+B212	no	-	-	-	-	-	-	-	-	human	change in biological measures and health	-
+B124	no	-	-	-	-	-	-	-	-	mouse-rat	aging-like phenotype	-
+B040	no	-	-	-	-	-	-	-	-	human	age-related sparing	-
+B370	no	-	-	-	-	-	-	-	-	human	biphasic effect of age	-
+B288	no	-	-	-	-	-	-	-	-	human	depression outcomes	-
+B354	no	-	-	-	-	-	-	-	-	human	nonlinear analysis	-
+B362	no	-	-	-	-	-	-	-	-	human	adult life span	-
+B262	no	-	-	-	-	-	-	-	-	mouse-rat	nonlinear superposition	-
+B383	no	-	-	-	-	-	-	-	-	human	accelerated aging	-
+B021	no	-	-	-	-	-	-	-	-	human	resting metabolic rate	-
+B104	no	-	-	-	-	-	-	-	-	human	age-related memory deficits	-
+B293	no	-	-	-	-	-	-	-	-	other	age at first farrowing	-
+B251	no	-	-	-	-	-	-	-	-	human	later life	-
+B146	no	-	-	-	-	-	-	-	-	other	maturing motoneurons	-
+B087	no	-	-	-	-	-	-	-	-	human	aging and hypertension	-
+B016	no	-	-	-	-	-	-	-	-	mouse-rat	biphasic effect	-
+B168	no	-	-	-	-	-	-	-	-	human	progeroid diseases	-
+B176	no	-	-	-	-	-	-	-	-	human	increase from under 50 years to over 70 years	-
+B095	no	-	-	-	-	-	-	-	-	other	ontogeny	-
+B390	no	-	-	-	-	-	-	-	-	mouse-rat	premature aging	-
+B397	no	-	-	-	-	-	-	-	-	mouse-rat	biphasic nonlinear trajectory	-
+B242	no	-	-	-	-	-	-	-	-	Drosophila	accelerated aging	-
+B302	no	-	-	-	-	-	-	-	-	human	through increasing age classes	-
+B255	no	-	-	-	-	-	-	-	-	human	deterioration and improvement in self-reported vision	-
+B098	no	-	-	-	-	-	-	-	-	human	pre-adolescence and adolescent years	-
+B233	no	-	-	-	-	-	-	-	-	mouse-rat	biphasic tachycardia	-
+B322	no	-	-	-	-	-	-	-	-	human	EpiAge Gap comparable between ADHD and controls	-
+B157	no	-	-	-	-	-	-	-	-	human	abrupt increase in reaction time	-
+B329	no	-	-	-	-	-	-	-	-	human	acceleration of aging	-
+B163	no	-	-	-	-	-	-	-	-	other	nonlinear survivorship rates	-

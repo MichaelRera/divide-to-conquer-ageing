@@ -1,0 +1,201 @@
+BATCH 05: 50 records (A350 ... A113)
+
+### A350 | arm A | 2025
+Title: Metabolic regulation in adult and aging skeletal muscle stem cells.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A033 | arm A | 1993
+Title: Effects of age and task similarity on dual-task performance.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A190 | arm A | 2005
+Title: Effects of development and iron status on ceruloplasmin expression in rat brain.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A345 | arm A | 2024
+Title: Aging Modulates the Ability of Quiescent Radial Glia-Like Stem Cells in the Hippocampal Dentate Gyrus to be Recruited into Division by Pro-neurogenic Stimuli.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A226 | arm A | 2014
+Title: The interplay between mitochondria and autophagy and its role in the aging process.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A058 | arm A | 1998
+Title: Tetanus in the elderly: is it different from that in younger age groups?
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A168 | arm A | 2005
+Title: Progressive arthropathy in mice with a targeted disruption of the Mop3/Bmal-1 locus.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A254 | arm A | 2016
+Title: State- and trait-dependent associations of vitamin-D with brain function during aging.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A102 | arm A | 2004
+Title: Urinary incontinence and the community-dwelling elder: a practical approach to diagnosis and management for the primary care geriatrician.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A184 | arm A | 2005
+Title: Renal hyperfiltration in type 2 diabetes: effect of age-related decline in glomerular filtration rate.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A086 | arm A | 1998
+Title: Age-dependent susceptibility to severe disease with primary exposure to Plasmodium falciparum.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A259 | arm A | 2017
+Title: The Influence of Adipose Tissue on Brain Development, Cognition, and Risk of Neurodegenerative Disorders.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A304 | arm A | 2021
+Title: Failures of nerve regeneration caused by aging or chronic denervation are rescued by restoring Schwann cell c-Jun.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A306 | arm A | 2020
+Title: Lack of effect of short-term DHEA supplementation on the perimenopausal ovary†.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A276 | arm A | 2015
+Title: Persistent γH2AX: A promising molecular marker of DNA damage and aging.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A238 | arm A | 2010
+Title: Mitochondrial DNA damage as a potential mechanism for age-related macular degeneration.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A161 | arm A | 2009
+Title: Stress-induced premature senescence of endothelial cells: a perilous state between recovery and point of no return.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A229 | arm A | 2014
+Title: Long-term wheel running changes on sensorimotor activity and skeletal muscle in male and female mice of accelerated senescence.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A182 | arm A | 2008
+Title: Relationship of serum antimüllerian hormone concentration to age at menopause.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A042 | arm A | 1992
+Title: Growth patterns of the nasolabial region: a morphometric study.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A250 | arm A | 2014
+Title: Differential effects of aging on dendritic spines in visual cortex and prefrontal cortex of the rhesus monkey.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A141 | arm A | 2001
+Title: The role of age and salivation in acid clearance in symptomatic patients with gastro-oesophageal reflux disease.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A036 | arm A | 1990
+Title: Aging and cognition: facilitation of recent memory in aged nonhuman primates by nimodipine.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A177 | arm A | 2005
+Title: Hearing loss and aging: new research findings and clinical implications.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A028 | arm A | 1992
+Title: Fat distribution and blood lipids in a sample of healthy elderly people.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A077 | arm A | 1997
+Title: Increased mortality and impaired clonal deletion after staphylococcal enterotoxin B injection in old mice: relation to cytokines and nitric oxide production.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A032 | arm A | 1993
+Title: Is 'senescence' of diploid cells an ad hoc mechanism suppressing 'replicon' or not?
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A262 | arm A | 2017
+Title: Dying for love: Perimenopausal degeneration of vaginal microbiome drives the chronic inflammation-malignant transformation of benign prostatic hyperplasia to prostatic adenocarcinoma.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A013 | arm A | 1994
+Title: Choline acetyltransferase and acetylcholinesterase in the hippocampus of aged rats: sensitivity to choline alphoscerate treatment.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A103 | arm A | 2001
+Title: Increase of homozygosity in centenarians revealed by a new inter-Alu PCR technique.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A026 | arm A | 1994
+Title: Direct myocardial effects of halothane and isoflurane. Comparison between adult and infant rabbits.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A278 | arm A | 2016
+Title: Dimensions of stereotypical attitudes among older adults: Analysis of two countries.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A294 | arm A | 2018
+Title: Centenarians as a model to discover genetic and epigenetic signatures of healthy ageing.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A115 | arm A | 2000
+Title: Age-related patterns of the clustering of cardiovascular risk variables of syndrome X from childhood to young adulthood in a population made up of black and white subjects: the Bogalusa Heart Study.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A132 | arm A | 2003
+Title: Osteoporosis in aging--challenges and opportunities.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A289 | arm A | 2019
+Title: Episodic memory boosting in older adults: exploring the association of encoding strategies and physical activity.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A241 | arm A | 2013
+Title: Health at advanced age: social inequality and other factors potentially impacting longevity in nine high-income countries.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A307 | arm A | 2021
+Title: Dietary Nucleotides Retard Oxidative Stress-Induced Senescence of Human Umbilical Vein Endothelial Cells.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A146 | arm A | 2001
+Title: Expression profiles of receptor activator of nuclear factor kappaB ligand, receptor activator of nuclear factor kappaB, and osteoprotegerin messenger RNA in aged and ovariectomized rat bones.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A247 | arm A | 2012
+Title: Age-related regional differences in cardiac nerve growth factor expression.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A118 | arm A | 2004
+Title: Age-related decreases in gonadal hormones in Long-Evans rats: relationship to rise in arterial pressure.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A181 | arm A | 2006
+Title: The contributions of age and sex to variation in common tern population growth rate.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A291 | arm A | 2019
+Title: Cold parenting is associated with cellular aging in offspring: A retrospective study.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A047 | arm A | 1991
+Title: A longitudinal investigation of the factor structure of subjective well-being: the case of the Philadelphia Geriatric Center Morale Scale.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A203 | arm A | 2013
+Title: Education level predicts retrospective metamemory accuracy in healthy aging and Alzheimer's disease.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A123 | arm A | 2003
+Title: Dietary intake and eating patterns of elderly people in Israel: who is at nutritional risk?
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A152 | arm A | 2006
+Title: SELDI-TOF plasma profiles distinguish individuals in a protein C-deficient family with thrombotic episodes occurring before age 40.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A188 | arm A | 2006
+Title: Role of intestinal sterol transporters Abcg5, Abcg8, and Npc1l1 in cholesterol absorption in mice: gender and age effects.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A151 | arm A | 2009
+Title: Relaxo-volumetric multispectral quantitative magnetic resonance imaging of the brain over the human lifespan: global and regional aging patterns.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A113 | arm A | 2003
+Title: Catabolic and anabolic phases of osteodystrophy in aged rats.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]

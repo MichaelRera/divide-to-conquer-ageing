@@ -1,0 +1,51 @@
+review_id	screen_relevant	trajectory_code	explicitness	level	scale	observation	anchor	reversibility	meaning	organism	evidence_quote	notes
+A260	-	U	-	-	-	-	-	-	-	human	mechanisms to reduce BAT mass and its activity in the elderly	-
+A154	-	P	implicit	-	-	-	-	-	-	human	modulate, at least in part, the cognitive changes of aging	-
+A328	-	DEV	-	-	-	-	-	-	-	human	identify the regulatory transcription factors involved in MSC senescence	-
+A012	-	DEV	-	-	-	-	-	-	-	other	Dopamine immunoreactivity revealed exponential growth until postnatal day 30	-
+A327	-	U	-	-	-	-	-	-	-	human	indirect effect of age on visuospatial memory mediated through these hippocampal	-
+A162	-	U	-	-	-	-	-	-	-	human	analyze the impact of medical and social factors on survival and function	-
+A065	-	P	implicit	-	-	-	-	-	-	mouse-rat	age-associated reductions in cardiovascular beta-adrenergic responsiveness	-
+A349	-	U	-	-	-	-	-	-	-	multiple	ANB could be a potential aging marker for the central nervous system	-
+A231	-	P	implicit	-	-	-	-	-	-	human	Cartilage T1 rho values correlated positively with aging	-
+A074	-	P	implicit	-	-	-	-	-	-	mouse-rat	age-associated decreases in endogenous NGF responses	-
+A257	-	U	-	-	-	-	-	-	-	human	Sarcopenic obesity is associated with a higher risk of restrictive lung disease	-
+A043	-	U	-	-	-	-	-	-	-	human	there was no decline in Ki with age for any of these structures	-
+A313	-	U	-	-	-	-	-	-	-	human	musical instrument training program improves verbal memory and neural efficiency in novice older	-
+A193	-	P	implicit	-	-	-	-	-	-	mouse-rat	mice from an MPTP-resistant strain lose their resistance as they age	-
+A114	-	P	implicit	-	-	-	-	-	-	other	The ejaculate volume decreased with the age	-
+A191	-	U	-	-	-	-	-	-	-	human	exercise enhances mitochondria ETC activity in older human skeletal muscle	-
+A092	-	P	implicit	-	-	-	-	-	-	mouse-rat	impairment of afferent nerve function occurs with aging in the rat intestine	-
+A178	-	P	explicit	-	-	-	-	-	-	human	chance of accumulating deficits increased linearly with the number of deficits	-
+A310	-	DEV	-	-	-	-	-	-	-	other	developmental or stress-induced senescence in Arabidopsis	-
+A082	-	U	-	-	-	-	-	-	-	human	do not support the hypothesis that reduction of plasma melatonin concentration is a	-
+A244	-	U	-	-	-	-	-	-	-	human	extent of prefrontal gray matter associated with yearly mean blood lead levels increased	-
+A055	-	U	-	-	-	-	-	-	-	human	resistance exercise training improved muscle strength and anabolism in older men	-
+A137	-	U	-	-	-	-	-	-	-	human	safety and efficacy of Rheopheresis for the treatment of AMD patients	-
+A016	-	U	-	-	-	-	-	-	-	other	Genetic parameters were estimated simultaneously for 5 herd-life traits	-
+A227	-	U	-	-	-	-	-	-	-	human	alpine skiing is an effective intervention for combating sarcopenia and weakness	-
+A271	-	U	-	-	-	-	-	-	-	human	factors contributing to hippocampal atrophy rate (HAR) in clinically normal older adults	-
+A105	-	U	-	-	-	-	-	-	-	mouse-rat	examination of the effect of the drug on the density of GluR1	-
+A295	-	P	implicit	-	-	-	-	-	-	mouse-rat	prevented the age-dependent decrease in slow-twitch muscle fiber function	-
+A121	-	P	implicit	-	-	-	-	-	-	other	transport of circulating A beta across the BBB contributes to brain parenchymal accumulation	-
+A004	-	U	-	-	-	-	-	-	-	mouse-rat	rates of synthesis of total RNA are decreased in hepatocytes isolated from senescent	-
+A336	-	U	-	-	-	-	-	-	-	mouse-rat	caloric restriction in late life can revert only some age-related changes	-
+A230	-	U	-	-	-	-	-	-	-	human	elucidate age-related changes in lower eyelid retractors	-
+A305	-	U	-	-	-	-	-	-	-	mouse-rat	uncover proteins abundance associated with specific biological processes that differed depending on age	-
+A003	-	DEV	-	-	-	-	-	-	-	mouse-rat	as this system matures in the developing rat	-
+A110	-	P	implicit	-	-	-	-	-	-	human	sarcopenia is the term widely used to describe the progressive loss of muscle	-
+A301	-	U	-	-	-	-	-	-	-	mouse-rat	Canagliflozin treatment prevents follicular exhaustion and attenuates hallmarks of ovarian aging	-
+A342	-	U	-	-	-	-	-	-	-	human	epigenetic regulation mechanisms on age-related bone homeostasis imbalance	-
+A248	-	DEV	-	-	-	-	-	-	-	human	reflecting an age-specific difference in agonist-stimulated platelet reactivity in children	-
+A213	-	U	-	-	-	-	-	-	-	human	modest age-related differences in self-reported sleep quality	-
+A319	-	U	-	-	-	-	-	-	-	mouse-rat	offering new insights into potential therapeutic strategies for age-related osteoporosis	-
+A066	-	P	implicit	-	-	-	-	-	-	human	significant lowering of SFF with age in this group of Australian women	-
+A246	-	U	-	-	-	-	-	-	-	mouse-rat	decreased liver peroxisomal oxidation was accompanied by changes in brain fatty acid composition	-
+A127	-	P	implicit	-	-	-	-	-	-	human	progressive decrease in physiological capacity and the reduced ability to respond to environmental	-
+A199	-	U	-	-	-	-	-	-	-	human	age-related increases in inflammatory agents can disrupt the microvascular endothelium	-
+A064	-	U	-	-	-	-	-	-	-	human	percent body fat estimates from anthropometry and BIA in men of various ages	-
+A131	-	U	-	-	-	-	-	-	-	human	longitudinal relationship between sexuality and health, and sexuality and chronic illness	-
+A149	-	U	-	-	-	-	-	-	-	human	reduced efficiency of the innate and adaptive immune system is likely to be	-
+A060	-	U	-	-	-	-	-	-	-	mouse-rat	semen yielded by para-chloroamphetamine (PCA)-induced ejaculation of aged rats	-
+A170	-	U	-	-	-	-	-	-	-	mouse-rat	normal aging was associated with significant increases in the activity of monoamine oxidase	-
+A261	-	U	-	-	-	-	-	-	-	human	residents of states with higher state taxation and higher expenditures per capita have	-

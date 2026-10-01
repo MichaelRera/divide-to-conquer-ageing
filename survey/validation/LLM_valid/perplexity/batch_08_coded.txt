@@ -1,0 +1,51 @@
+review_id	screen_relevant	trajectory_code	explicitness	level	scale	observation	anchor	reversibility	meaning	organism	evidence_quote	notes
+A302	-	U	-	-	-	-	-	-	-	human	-	-
+A268	-	U	-	-	-	-	-	-	-	human	-	-
+A270	-	P	explicit	-	-	-	-	-	-	human	age-dependent decline in the level of MeCbl	-
+A255	-	U	-	-	-	-	-	-	-	human	-	-
+A045	-	NC	explicit	whole-organism	population	inferred	chronological age	-	-	human	total mortality exhibited a J-shaped pattern	-
+A297	-	P	implicit	-	-	-	-	-	-	Drosophila	postponed manifestation of age-dependent neurodegeneration	-
+A106	-	P	explicit	-	-	-	-	-	-	mouse-rat	increase of collagen type I and VI	-
+A101	-	U	-	-	-	-	-	-	-	human	-	-
+A040	-	P	explicit	-	-	-	-	-	-	mouse-rat	activities of complex I decreased significantly	-
+A338	-	U	-	-	-	-	-	-	-	human	-	-
+A030	-	U	-	-	-	-	-	-	-	human	-	-
+A078	-	P	explicit	-	-	-	-	-	-	human	outcome was poorer with advancing age	-
+A198	-	P	implicit	-	-	-	-	-	-	multiple	delay deleterious age-related physiological changes	-
+A125	-	P	implicit	-	-	-	-	-	-	mouse-rat	changes in properties of basal forebrain neurons during aging	-
+A252	-	U	-	-	-	-	-	-	-	human	-	-
+A037	-	P	explicit	-	-	-	-	-	-	mouse-rat	reduced glutathione showed lower levels with advancing age	-
+A269	-	U	-	-	-	-	-	-	-	human	-	-
+A044	-	DEV	-	-	-	-	-	-	-	other	development of the abducens nuclei	-
+A208	-	P	explicit	-	-	-	-	-	-	human	significant loss of all enzyme activities in aged cells	-
+A035	-	DEV	-	-	-	-	-	-	-	other	developing cortical plate	-
+A299	-	P	implicit	-	-	-	-	-	-	mouse-rat	delaying the loss of biological functions characteristic of aging	-
+A187	-	P	implicit	-	-	-	-	-	-	none	during oxidative stress and aging	-
+A088	-	U	-	-	-	-	-	-	-	mouse-rat	-	-
+A021	-	U	-	-	-	-	-	-	-	human	-	-
+A061	-	DEV	-	-	-	-	-	-	-	mouse-rat	late embryonal compared to newborn or adult animals	-
+A022	-	P	explicit	-	-	-	-	-	-	human	increase in size and intensity from about 70 years	-
+A280	-	P	explicit	-	-	-	-	-	-	human	younger participants outperformed older participants	-
+A063	-	P	implicit	-	-	-	-	-	-	other	survival rates decline with age	-
+A249	-	P	explicit	-	-	-	-	-	-	human	cognitive processing speed slows 2 to 4 sec per decade	-
+A124	-	P	explicit	-	-	-	-	-	-	human	senescent morphology prematurely within a week	-
+A309	-	U	-	-	-	-	-	-	-	other	-	-
+A218	-	U	-	-	-	-	-	-	-	human	-	-
+A095	-	NC	explicit	physiological-functional	population	observed	chronological age	-	-	human	mean daily levels and amplitude of diurnal variations	-
+A242	-	P	implicit	-	-	-	-	-	-	mouse-rat	age-related differences in Akt/GSK-3beta signaling pathway	-
+A341	-	U	-	-	-	-	-	-	-	mouse-rat	-	-
+A166	-	DEV	-	-	-	-	-	-	-	human	linguistic development is basically complete at adolescence	-
+A142	-	U	-	-	-	-	-	-	-	human	-	-
+A010	-	DEV	-	-	-	-	-	-	-	mouse-rat	pre- and postnatal development	-
+A225	-	P	explicit	-	-	-	-	-	-	other	telomere length decreased with age	-
+A049	-	P	explicit	-	-	-	-	-	-	human	ability to mobilize PMNs is significantly reduced in elderly	-
+B223	yes	P	explicit	physiological-functional	population	observed	chronological age	-	-	mouse-rat	liver changes that occur with normal aging occur prematurely	-
+B158	yes	NC	explicit	physiological-functional	population	inferred	chronological age	-	-	human	inverse and nonlinear association with feelings of control	-
+B241	yes	P	explicit	physiological-functional	individual	observed	chronological age	-	-	human	protects against increases in ADL and IADL limitations	-
+B231	no	-	-	-	-	-	-	-	-	human	accelerated lung aging	-
+B307	no	-	-	-	-	-	-	-	-	human	effects of age education and gender	-
+B295	yes	P	explicit	physiological-functional	population	observed	chronological age	-	-	human	progressing into deeper levels of physical disability	-
+B012	yes	D	explicit	physiological-functional	population	inferred	chronological age	not stated	biphasic decrease in implantation rate after age 37	human	discontinuity at approximately 37 years	-
+B101	no	-	-	-	-	-	-	-	-	human	strategy shifts were generally gradual and variable	-
+B167	no	-	-	-	-	-	-	-	-	human	Age was not a significant factor	-
+B196	no	-	-	-	-	-	-	-	-	mouse-rat	accelerated aging phenotypes	-

@@ -1,0 +1,51 @@
+review_id	screen_relevant	trajectory_code	explicitness	level	scale	observation	anchor	reversibility	meaning	organism	evidence_quote	notes
+B277	no	-	-	-	-	-	-	-	-	human	quadratic trajectory	-
+B038	yes	P	implicit	-	-	-	-	-	-	multiple	progressive disruption in the integration of this network	-
+B121	yes	NC	implicit	-	-	-	-	-	-	multiple	non-linear dynamic process	-
+B381	no	-	-	-	-	-	-	-	-	human	temporal relationship over two decades	-
+B169	no	-	-	-	-	-	-	-	-	human	non-linear model	-
+B366	no	-	-	-	-	-	-	-	-	human	health declines	-
+B316	no	-	-	-	-	-	-	-	-	multiple	antiaging properties	-
+B160	no	-	-	-	-	-	-	-	-	human	age-related pathology	-
+B182	no	-	-	-	-	-	-	-	-	human	accelerated rates of loss of telomeres	-
+B281	no	-	-	-	-	-	-	-	-	human	accelerated aging	-
+B036	no	-	-	-	-	-	-	-	-	human	relationship between PSA value and age was non-linear	-
+B085	yes	NC	explicit	physiological-functional	population	observed	chronological age	-	-	human	decrease in total power showed a nonlinear pattern	-
+B128	no	-	-	-	-	-	-	-	-	other	non-linear Lactin model	-
+B260	no	-	-	-	-	-	-	-	-	human	accelerated aging characterized by CVD	-
+B280	yes	D	explicit	physiological-functional	individual	observed	chronological age	not stated	stasis punctuated by relatively sudden health-state change	human	stasis irregularly punctuated by relatively sudden change	-
+B138	yes	NC	explicit	physiological-functional	individual	inferred	disease or pathology	-	-	human	accelerated slope after a sharp inflection point	-
+B115	no	-	-	-	-	-	-	-	-	mouse-rat	-	-
+B326	no	-	-	-	-	-	-	-	-	human	aging adults	-
+B018	no	-	-	-	-	-	-	-	-	other	complex nonlinear three-dimensional structure	-
+B263	no	-	-	-	-	-	-	-	-	multiple	senescence patterns are more diverse	-
+B066	no	-	-	-	-	-	-	-	-	mouse-rat	abrupt changes throughout life	-
+B311	no	-	-	-	-	-	-	-	-	human	dynamics over human lifespan	-
+B183	no	-	-	-	-	-	-	-	-	other	alterations in aging	-
+B109	no	-	-	-	-	-	-	-	-	none	non-linear increase of damage	-
+B161	yes	NC	explicit	physiological-functional	individual	inferred	proximity to death	-	-	human	increases in inconsistency per year closer to death	-
+B252	yes	NC	explicit	physiological-functional	population	observed	chronological age	-	-	human	prominent increase in myocardial uptake with age	-
+B319	no	-	-	-	-	-	-	-	-	human	becomes weaker as older adults approach their 80s	-
+B324	no	-	-	-	-	-	-	-	-	human	longevity projections	-
+B090	yes	NC	explicit	tissue-organ	population	observed	chronological age	-	-	human	modest decline before 50 and greater decline after 50	-
+B142	no	-	-	-	-	-	-	-	-	human	progressive gravimetric soft tissue descent	-
+B023	yes	NC	explicit	molecular	population	observed	chronological age	-	-	mouse-rat	did not increase until after 27 months when increased rapidly	-
+B283	no	-	-	-	-	-	-	-	-	human	premature or accelerated aging	-
+B153	no	-	-	-	-	-	-	-	-	human	development of geriatric frailty	-
+B135	yes	P	explicit	tissue-organ	population	observed	chronological age	-	-	mouse-rat	progressive increase in intimal and medial thickness	-
+B053	yes	P	implicit	-	-	-	-	-	-	mouse-rat	neuronal density was lower in aged controls	-
+B170	no	-	-	-	-	-	-	-	-	human	ageing for 1 day	-
+B080	no	-	-	-	-	-	-	-	-	mouse-rat	accelerated aging	-
+B197	no	-	-	-	-	-	-	-	-	human	antioxidant capacity shows decrease with age	-
+B189	no	-	-	-	-	-	-	-	-	other	nonlinear trait such as longevity	-
+B301	no	-	-	-	-	-	-	-	-	human	cognitive function and change	-
+B030	no	-	-	-	-	-	-	-	-	human	critical period	-
+B193	no	-	-	-	-	-	-	-	-	human	developmental change	-
+B304	no	-	-	-	-	-	-	-	-	human	network change point detection	-
+B294	no	-	-	-	-	-	-	-	-	human	complexity of BOLD activity reduced with aging	-
+B062	no	-	-	-	-	-	-	-	-	mouse-rat	accelerated aging process induced by transplantation	-
+B057	no	-	-	-	-	-	-	-	-	human	nonlinear effects	-
+B143	no	-	-	-	-	-	-	-	-	mouse-rat	age-related decline in function of SERCAs	-
+B207	no	-	-	-	-	-	-	-	-	human	mental health among elderly	-
+B273	no	-	-	-	-	-	-	-	-	human	change in functional health	-
+B238	no	-	-

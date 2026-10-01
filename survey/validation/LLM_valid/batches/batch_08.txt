@@ -1,0 +1,201 @@
+BATCH 08: 50 records (A302 ... B196)
+
+### A302 | arm A | 2025
+Title: White matter hyperintensities are independently associated with systemic vascular aging and cerebrovascular dysfunction.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A268 | arm A | 2015
+Title: Examining associations between sexual behaviours and quality of life in older adults.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A270 | arm A | 2016
+Title: Decreased Brain Levels of Vitamin B12 in Aging, Autism and Schizophrenia.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A255 | arm A | 2017
+Title: Treatment of Older Parkinson's Disease.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A045 | arm A | 1994
+Title: A prospective study of the health effects of alcohol consumption in middle-aged and elderly men. The Honolulu Heart Program.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A297 | arm A | 2015
+Title: Gadd45 expression correlates with age dependent neurodegeneration in Drosophila melanogaster.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A106 | arm A | 2003
+Title: The optic nerve head region of the aged rat: an immunohistochemical investigation.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A101 | arm A | 2003
+Title: Do depressed older adults who attribute depression to "old age" believe it is important to seek care?
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A040 | arm A | 1992
+Title: Age-related decrease in respiratory muscle mitochondrial function in rats.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A338 | arm A | 2025
+Title: Lactylation-driven KRT19 promotes non-small cell lung cancer progression by suppressing cellular senescence.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A030 | arm A | 1993
+Title: Physical measurements in an elderly black population: knee height as the dominant indicator of stature.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A078 | arm A | 1996
+Title: Age and outcome after aneurysmal subarachnoid hemorrhage: why do older patients fare worse?
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A198 | arm A | 2010
+Title: Caloric restriction: from soup to nuts.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A125 | arm A | 2000
+Title: Modification of ion channels and calcium homeostasis of basal forebrain neurons during aging.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A252 | arm A | 2019
+Title: Forgiveness and late life functioning: the mediating role of finding ego-integrity.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A037 | arm A | 1991
+Title: Age-associated changes in antioxidants and antioxidative enzymes in rats.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A269 | arm A | 2018
+Title: Longevity-Related Gene Transcriptomic Signature in Glioblastoma Multiforme.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A044 | arm A | 1990
+Title: Development of the abducens nuclei in the Xenopus laevis.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A208 | arm A | 2010
+Title: The effect of aging and increasing ascorbate concentrations on respiratory chain activity in cultured human fibroblasts.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A035 | arm A | 1993
+Title: Synaptophysin immunohistochemistry reveals inside-out pattern of early synaptogenesis in ferret cerebral cortex.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A299 | arm A | 2018
+Title: p66Shc Inactivation Modifies RNS Production, Regulates Sirt3 Activity, and Improves Mitochondrial Homeostasis, Delaying the Aging Process in Mouse Brain.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A187 | arm A | 2008
+Title: Regulation of proteasome-mediated protein degradation during oxidative stress and aging.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A088 | arm A | 1995
+Title: Chronic elevation of secreted amyloid precursor protein in subcortically lesioned rats, and its exacerbation in aged rats.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A021 | arm A | 1990
+Title: When bad things happen to older people: age differences in attributional style.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A061 | arm A | 1995
+Title: [Leu5]enkephalin-encoding sequences are targets for a specific DNA-binding factor.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A022 | arm A | 1993
+Title: Activation of the human supraoptic and paraventricular nucleus neurons with aging and in Alzheimer's disease as judged from increasing size of the Golgi apparatus.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A280 | arm A | 2018
+Title: Age differences in vocal emotion perception: on the role of speaker age and listener sex.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A063 | arm A | 1998
+Title: Natal dispersal and senescence.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A249 | arm A | 2014
+Title: Processing speed in the aging process: screening criteria for the Spanish Quick Test of Cognitive Speed.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A124 | arm A | 2000
+Title: Involvement of Rb family proteins, focal adhesion proteins and protein synthesis in senescent morphogenesis induced by hydrogen peroxide.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A309 | arm A | 2022
+Title: Individual variation explains ageing patterns in a cooperatively breeding bird, the long-tailed tit Aegithalos caudatus.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A218 | arm A | 2013
+Title: Brain responses to emotional images related to cognitive ability in older adults.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A095 | arm A | 1997
+Title: No influence of aging on the circadian rhythm of erythropoietin in healthy subjects.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A242 | arm A | 2010
+Title: Age-associated differences in activation of Akt/GSK-3beta signaling pathways and inhibition of mitochondrial permeability transition pore opening in the rat heart.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A341 | arm A | 2025
+Title: Bioinformatics and experiments reveal the hub genes of age-related hearing loss and the mechanism of PLK1 silencing in the protection of aging cochlear hair cells.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A166 | arm A | 2007
+Title: Language development and mild-to-moderate hearing loss: does language normalize with age?
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A142 | arm A | 2002
+Title: Is worker age a simple demographic variable?
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A010 | arm A | 1990
+Title: Pre- and postnatal development of opiate receptor subtypes in rat spinal cord.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A225 | arm A | 2014
+Title: Telomeric attrition with age and temperature in Eastern mosquitofish (Gambusia holbrooki).
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### A049 | arm A | 1994
+Title: Aging and marrow neutrophil reserves.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B223 | arm B | 2012
+Title: A mouse model of accelerated liver aging caused by a defect in DNA repair.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B158 | arm B | 2001
+Title: Exploring race variations in aging and personal control.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B241 | arm B | 2016
+Title: Do Higher Levels of Resilience Buffer the Deleterious Impact of Chronic Illness on Disability in Later Life?
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B231 | arm B | 2017
+Title: Senescence in COPD and Its Comorbidities.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B307 | arm B | 2025
+Title: Performance on the Rey-Osterrieth complex figure test in non-demented middle-aged and elderly Koreans.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B295 | arm B | 2010
+Title: Social integration and healthy aging in Japan: how gender and rurality matter.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B012 | arm B | 1996
+Title: Age-dependent decrease in embryo implantation rate after in vitro fertilization.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B101 | arm B | 2006
+Title: Are item-level strategy shifts abrupt and collective? Age differences in cognitive skill acquisition.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B167 | arm B | 2007
+Title: Auditory and nonauditory factors affecting speech reception in noise by older listeners.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]
+
+### B196 | arm B | 2008
+Title: Altered mammary gland development in the p53+/m mouse, a model of accelerated aging.
+Abstract: [removed for copyright; restore with survey/scripts/fetch_abstracts.py]

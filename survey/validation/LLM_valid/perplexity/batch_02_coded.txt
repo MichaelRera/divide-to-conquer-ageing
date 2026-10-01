@@ -1,0 +1,51 @@
+review_id	screen_relevant	trajectory_code	explicitness	level	scale	observation	anchor	reversibility	meaning	organism	evidence_quote	notes
+B024	no	-	-	-	-	-	-	-	-	human	Drug-induced mania in the elderly	-
+B227	no	-	-	-	-	-	-	-	-	human	DNAm age acceleration did not differ	-
+B034	no	-	-	-	-	-	-	-	-	human	increased gradually after gel application	-
+B123	no	-	-	-	-	-	-	-	-	human	accelerated senescence seen in WS fibroblasts	-
+B120	yes	P	implicit	-	-	-	-	-	-	human	Progressive insolublisation of the crystallins	-
+B083	yes	NC	explicit	physiological-functional	population	inferred	chronological age	-	-	mouse-rat	nonlinear age-related spatial memory decline	-
+B137	no	-	-	-	-	-	-	-	-	human	more rapid onset and time course	-
+B046	no	-	-	-	-	-	-	-	-	human	abrupt high-frequency loss	-
+B203	yes	NC	explicit	physiological-functional	individual	inferred	proximity to death	-	-	human	slow and steady decline	[authors: "terminal decline" and "terminal drop"]
+B347	no	-	-	-	-	-	-	-	-	human	nonlinear relationship between predicted age and MRI data	-
+B177	no	-	-	-	-	-	-	-	-	human	stepwise repletion	-
+B388	no	-	-	-	-	-	-	-	-	mouse-rat	during the course of accelerated aging	-
+B027	no	-	-	-	-	-	-	-	-	mouse-rat	biphasic distribution of the digitized density	-
+B097	yes	NC	explicit	physiological-functional	population	observed	chronological age	-	-	mouse-rat	biphasic responses at medium to high doses	-
+B147	no	-	-	-	-	-	-	-	-	mouse-rat	reduced with maturation	-
+B133	no	-	-	-	-	-	-	-	-	multiple	accelerated aging process	-
+B151	yes	P	explicit	physiological-functional	population	observed	chronological age	-	-	human	small airway clearance over 21 days decreased with age	-
+B239	no	-	-	-	-	-	-	-	-	mouse-rat	abrupt experimental depletion in podocyte number	-
+B340	no	-	-	-	-	-	-	-	-	human	older parents' psychological health	-
+B317	yes	P	explicit	tissue-organ	population	observed	chronological age	-	-	mouse-rat	myelin degeneration in CC occurs throughout the lifespan	-
+B059	no	-	-	-	-	-	-	-	-	human	relationship between age and cisplatin pharmacokinetics	-
+B256	no	-	-	-	-	-	-	-	-	human	protects against biological aging in humans	-
+B102	no	-	-	-	-	-	-	-	-	other	oscillatory population dynamics	-
+B159	yes	NC	explicit	physiological-functional	population	inferred	chronological age	-	-	human	age exerts an increasing effect on perimetric sensitivity	-
+B348	no	-	-	-	-	-	-	-	-	human	longitudinal association	-
+A334	-	U	-	-	-	-	-	-	-	human	-	-
+A097	-	P	implicit	-	-	-	-	-	-	human	increased age in adulthood is associated with a decrease	-
+A159	-	P	explicit	-	-	-	-	-	-	human	Diastolic parameters declined with age	-
+A212	-	U	-	-	-	-	-	-	-	mouse-rat	-	-
+A023	-	U	-	-	-	-	-	-	-	mouse-rat	-	-
+A335	-	U	-	-	-	-	-	-	-	human	-	-
+A186	-	NC	explicit	physiological-functional	population	observed	chronological age	-	-	human	PA was markedly lower in nonagenarians	-
+A071	-	U	-	-	-	-	-	-	-	mouse-rat	-	-
+A120	-	P	explicit	-	-	-	-	-	-	human	preference decreased as the thickness of soups increased	-
+A109	-	U	-	-	-	-	-	-	-	human	-	-
+A093	-	U	-	-	-	-	-	-	-	human	-	-
+A311	-	U	-	-	-	-	-	-	-	human	-	-
+A098	-	P	implicit	-	-	-	-	-	-	human	progressive autonomic nerve dysfunction occurring with aging	-
+A240	-	U	-	-	-	-	-	-	-	human	-	-
+A325	-	U	-	-	-	-	-	-	-	human	-	-
+A008	-	P	implicit	-	-	-	-	-	-	mouse-rat	age-dependent reduction of central cholinergic functions	-
+A075	-	P	explicit	-	-	-	-	-	-	human	age-related decline of visualization of the cerebral arteries	-
+A207	-	U	-	-	-	-	-	-	-	human	-	-
+A189	-	DEV	-	-	-	-	-	-	-	human	increased functional maturation with age	-
+A027	-	DEV	-	-	-	-	-	-	-	mouse-rat	appear late in ontogeny	-
+A048	-	U	-	-	-	-	-	-	-	other	-	-
+A099	-	DEV	-	-	-	-	-	-	-	human	age-dependent variation being lower in newborns	-
+A171	-	U	-	-	-	-	-	-	-	mouse-rat	-	-
+A183	-	U	-	-	-	-	-	-	-	human	-	-
+A031	-	P	implicit	-	-	-	-	-	-	mouse-rat	synthesis of this factor reduces with age	-

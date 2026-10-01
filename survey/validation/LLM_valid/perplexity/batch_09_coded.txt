@@ -1,0 +1,51 @@
+review_id	screen_relevant	trajectory_code	explicitness	level	scale	observation	anchor	reversibility	meaning	organism	evidence_quote	notes
+B005	no	-	-	-	-	-	-	-	-	mouse-rat	effects reversed progressively after drug withdrawal	-
+B372	no	-	-	-	-	-	-	-	-	human	accelerated aging may partially explain this link	-
+B108	yes	NC	explicit	physiological-functional	individual	inferred	chronological age	-	-	human	nonlinear models with more dramatic changes at later ages	-
+B191	yes	NC	explicit	tissue-organ	individual	inferred	disease or pathology	-	-	human	atrophy rates also accelerated	-
+B011	no	-	-	-	-	-	-	-	-	mouse-rat	kinetics of m7Gua removal were at least biphasic	-
+B360	no	-	-	-	-	-	-	-	-	human	nonlinear positive associations	-
+B359	no	-	-	-	-	-	-	-	-	Drosophila	accelerated aging phenotype	-
+B228	yes	D	explicit	whole-organism	individual	inferred	chronological age	not stated	three stable post-developmental states and transitions	C. elegans	three stable post-developmental states and transitions	-
+B186	yes	NC	explicit	whole-organism	population	observed	chronological age	-	-	Drosophila	complex and non linear consequences on longevity	-
+B224	no	-	-	-	-	-	-	-	-	human	non-proportional and non-linear	-
+B188	no	-	-	-	-	-	-	-	-	mouse-rat	age-associated increase in MKP-1	-
+B338	no	-	-	-	-	-	-	-	-	human	1h-PG outperforms other glycemic parameters	-
+B214	yes	NC	explicit	tissue-organ	individual	inferred	chronological age	-	-	human	nonlinear longitudinal rate of cortical thinning decelerated over time	-
+B389	no	-	-	-	-	-	-	-	-	human	Aging in obesity should be considered nonlinear	-
+B300	no	-	-	-	-	-	-	-	-	human	linear and nonlinear patterns of beliefs	-
+B249	no	-	-	-	-	-	-	-	-	human	supports model of depression as disease of accelerated aging	-
+B049	no	-	-	-	-	-	-	-	-	mouse-rat	degree of complexity reduced with aging	-
+B376	no	-	-	-	-	-	-	-	-	human	nonlinear positive relationships	-
+B246	no	-	-	-	-	-	-	-	-	human	-	-
+B265	no	-	-	-	-	-	-	-	-	human	age-related effects from childhood to young adulthood	-
+B112	no	-	-	-	-	-	-	-	-	human	prevalence of metabolic syndrome increased with aging	-
+B063	no	-	-	-	-	-	-	-	-	mouse-rat	breakpoint	-
+B325	no	-	-	-	-	-	-	-	-	human	non-linear inverse U-shaped relationship	-
+B113	no	-	-	-	-	-	-	-	-	mouse-rat	accelerated aging	-
+B007	no	-	-	-	-	-	-	-	-	mouse-rat	two phases	-
+B042	no	-	-	-	-	-	-	-	-	mouse-rat	activity of NMDA-evoked release markedly decreased afterwards	-
+B257	no	-	-	-	-	-	-	-	-	human	aging and cardiovascular diseases	-
+B332	no	-	-	-	-	-	-	-	-	human	immune senescence	-
+B364	no	-	-	-	-	-	-	-	-	human	non-linear trajectories of brain structural changes	-
+B096	no	-	-	-	-	-	-	-	-	human	performance declines with age	-
+B103	no	-	-	-	-	-	-	-	-	mouse-rat	suggest accelerated aging	-
+B213	no	-	-	-	-	-	-	-	-	human	nonlinear age-dependent progressive deterioration	-
+B075	no	-	-	-	-	-	-	-	-	mouse-rat	accelerated cellular aging	-
+B043	no	-	-	-	-	-	-	-	-	human	progressive decline in oral glucose tolerance	-
+B375	no	-	-	-	-	-	-	-	-	human	nonlinear inverse associations	-
+B314	no	-	-	-	-	-	-	-	-	human	significant linear correlation	-
+B269	no	-	-	-	-	-	-	-	-	human	cognition at older ages	-
+B299	no	-	-	-	-	-	-	-	-	human	accelerated biological aging	-
+B190	no	-	-	-	-	-	-	-	-	human	biphasic post-natal pattern	-
+B284	no	-	-	-	-	-	-	-	-	none	two-phase process	-
+B271	no	-	-	-	-	-	-	-	-	human	-	-
+B221	no	-	-	-	-	-	-	-	-	mouse-rat	increased nonlinearly with indentation strain	-
+B031	yes	D	explicit	tissue-organ	population	observed	chronological age	not stated	zones of discontinuity in lens cortex	human	sharply demarcated and complementary zones	-
+B111	no	-	-	-	-	-	-	-	-	mouse-rat	biphasic ethanol dose-response curve	-
+B337	no	-	-	-	-	-	-	-	-	human	cellular senescence plays a vital role	-
+B125	yes	D	explicit	physiological-functional	individual	inferred	proximity to death	not stated	typical paths of cognitive development ending in dementia and death	human	developmental cascade to dementia diagnosis and finally death	-
+B114	no	-	-	-	-	-	-	-	-	human	transitions from active volunteering to inactivity	-
+B208	no	-	-	-	-	-	-	-	-	human	-	-
+B344	no	-	-	-	-	-	-	-	-	none	effects of aging	-
+B276	no	-	-	-	-	-	-	-	-	human	accelerated brain aging	-

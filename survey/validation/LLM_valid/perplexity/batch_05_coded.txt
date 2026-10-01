@@ -1,0 +1,51 @@
+review_id	screen_relevant	trajectory_code	explicitness	level	scale	observation	anchor	reversibility	meaning	organism	evidence_quote	notes
+A350	-	U	-	-	-	-	-	-	-	none	-	-
+A033	-	U	-	-	-	-	-	-	-	human	-	-
+A190	-	DEV	-	-	-	-	-	-	-	mouse-rat	increased with developmental age	-
+A345	-	D	implicit	cellular	-	-	-	not stated	aging-related divergence of functional features	mouse-rat	aging-related divergence of functional features	-
+A226	-	P	implicit	-	-	-	-	-	-	multiple	accelerates the aging process	-
+A058	-	U	-	-	-	-	-	-	-	human	-	-
+A168	-	D	explicit	tissue-organ	population	observed	chronological age	irreversible stated	progressive noninflammatory arthropathy	mouse-rat	progressive noninflammatory arthropathy	-
+A254	-	NC	explicit	physiological-functional	individual	inferred	chronological age	-	-	human	attenuated declines over time in visuospatial abilities	-
+A102	-	U	-	-	-	-	-	-	-	human	-	-
+A184	-	P	explicit	-	-	-	-	-	-	human	age-related decline of GFR	-
+A086	-	P	explicit	-	-	-	-	-	-	human	risk of severe disease increased with age	-
+A259	-	U	-	-	-	-	-	-	-	human	-	-
+A304	-	P	implicit	-	-	-	-	-	-	mouse-rat	regenerative support declines during aging	-
+A306	-	P	explicit	-	-	-	-	-	-	other	significant age-related decrease in primordial follicles	-
+A276	-	P	implicit	-	-	-	-	-	-	multiple	increased endogenous γH2AX levels may be associated with accelerated aging	-
+A238	-	P	explicit	-	-	-	-	-	-	human	mtDNA damage increases with aging	-
+A161	-	D	implicit	cellular	-	-	-	reversible stated	SIPS conferring potential reversibility	human	perilous state between recovery and point of no return	-
+A229	-	P	implicit	-	-	-	-	-	-	mouse-rat	activity balance and strength decrease with age	-
+A182	-	P	explicit	-	-	-	-	-	-	human	declining AMH levels	-
+A042	-	DEV	-	-	-	-	-	-	-	human	Rapid growth occurred between ages 1 and 4 years	-
+A250	-	P	explicit	-	-	-	-	-	-	other	spine density decreased with age in dlPFC	-
+A141	-	U	-	-	-	-	-	-	-	human	-	-
+A036	-	U	-	-	-	-	-	-	-	other	-	-
+A177	-	U	-	-	-	-	-	-	-	human	-	-
+A028	-	U	-	-	-	-	-	-	-	human	-	-
+A077	-	P	implicit	-	-	-	-	-	-	mouse-rat	With aging mice developed resistance	-
+A032	-	P	implicit	-	-	-	-	-	-	none	autonomic progression of negative regulators after maturation	-
+A262	-	P	implicit	-	-	-	-	-	-	human	prostatic carcinoma is common with advancing age	-
+A013	-	NC	explicit	molecular	population	observed	chronological age	-	-	mouse-rat	highest enzymatic activities in adult rats	-
+A103	-	P	explicit	-	-	-	-	-	-	human	increase in homozygote genotypes frequency in centenarians	-
+A026	-	DEV	-	-	-	-	-	-	-	other	Developmental changes in myocardial physiology	-
+A278	-	U	-	-	-	-	-	-	-	human	-	-
+A294	-	U	-	-	-	-	-	-	-	human	-	-
+A115	-	DEV	-	-	-	-	-	-	-	human	from childhood to young adulthood	-
+A132	-	U	-	-	-	-	-	-	-	human	-	-
+A289	-	U	-	-	-	-	-	-	-	human	-	-
+A241	-	P	explicit	-	-	-	-	-	-	multiple	evolution of health at advanced age over three decades	-
+A307	-	U	-	-	-	-	-	-	-	human	-	-
+A146	-	P	implicit	-	-	-	-	-	-	mouse-rat	expression tended to decrease in 2.5-year-old rat bones	-
+A247	-	NC	explicit	molecular	population	observed	chronological age	-	-	mouse-rat	decrease from neonatal to young and increase young to old	-
+A118	-	NC	explicit	physiological-functional	population	observed	chronological age	-	-	mouse-rat	systolic blood pressure stable until 8 months then increases	-
+A181	-	U	-	-	-	-	-	-	-	other	-	-
+A291	-	U	-	-	-	-	-	-	-	human	-	-
+A047	-	U	-	-	-	-	-	-	-	human	-	-
+A203	-	U	-	-	-	-	-	-	-	human	-	-
+A123	-	P	explicit	-	-	-	-	-	-	human	Dietary intake is lower among individuals older than 75	-
+A152	-	U	-	-	-	-	-	-	-	human	-	-
+A188	-	P	explicit	-	-	-	-	-	-	mouse-rat	cholesterol absorption increases with age	-
+A151	-	D	explicit	tissue-organ	population	inferred	chronological age	not stated	four distinct periods of brain evolution	human	four distinct periods of life	-
+A113	-	D	explicit	tissue-organ	population	observed	disease or pathology	not stated	catabolic and anabolic phases of osteodystrophy	mouse-rat	catabolic and anabolic phases of osteodystrophy	-

@@ -1,0 +1,51 @@
+review_id	screen_relevant	trajectory_code	explicitness	level	scale	observation	anchor	reversibility	meaning	organism	evidence_quote	notes
+B078	no	-	-	-	-	-	-	-	-	mouse-rat	-	-
+B258	no	-	-	-	-	-	-	-	-	human	-	-
+B230	no	-	-	-	-	-	-	-	-	human	-	-
+B150	no	-	-	-	-	-	-	-	-	mouse-rat	-	-
+B321	no	-	-	-	-	-	-	-	-	human	-	-
+B259	no	-	-	-	-	-	-	-	-	human	-	-
+B371	no	-	-	-	-	-	-	-	-	mouse-rat	-	-
+B330	no	-	-	-	-	-	-	-	-	human	-	-
+B266	no	-	-	-	-	-	-	-	-	human	-	-
+B342	no	-	-	-	-	-	-	-	-	human	-	-
+B313	no	-	-	-	-	-	-	-	-	human	-	-
+B248	no	-	-	-	-	-	-	-	-	human	-	-
+B144	yes	NC	explicit	tissue-organ	population	inferred	chronological age	-	-	human	total refractive power and surface refractive power both showed a biphasic age dependency	[authors: "biphasic"]
+B092	yes	NC	explicit	tissue-organ	population	inferred	chronological age	-	-	human	revealed a biphasic curve for both the ventral and dorsal shell	[authors: "biphasic"]
+B179	no	-	-	-	-	-	-	-	-	mouse-rat	-	-
+B296	no	-	-	-	-	-	-	-	-	mouse-rat	-	-
+B037	no	-	-	-	-	-	-	-	-	human	-	-
+B088	no	-	-	-	-	-	-	-	-	multiple	-	-
+B065	no	-	-	-	-	-	-	-	-	mouse-rat	-	-
+B358	no	-	-	-	-	-	-	-	-	human	-	-
+B361	no	-	-	-	-	-	-	-	-	human	-	-
+B201	yes	NC	explicit	physiological-functional	individual	observed	chronological age	-	-	human	rate of change was found to decelerate over time	-
+B303	no	-	-	-	-	-	-	-	-	human	-	-
+B117	yes	P	explicit	tissue-organ	population	inferred	chronological age	-	-	human	negative linear correlation between age and 18F-MPPF binding	-
+B194	no	-	-	-	-	-	-	-	-	human	-	-
+B127	no	-	-	-	-	-	-	-	-	human	-	-
+B076	no	-	-	-	-	-	-	-	-	mouse-rat	-	-
+B184	no	-	-	-	-	-	-	-	-	human	-	-
+B222	no	-	-	-	-	-	-	-	-	human	-	-
+B352	no	-	-	-	-	-	-	-	-	human	-	-
+B068	no	-	-	-	-	-	-	-	-	mouse-rat	-	-
+B131	no	-	-	-	-	-	-	-	-	human	-	-
+B105	no	-	-	-	-	-	-	-	-	human	-	-
+B286	no	-	-	-	-	-	-	-	-	mouse-rat	-	-
+B278	no	-	-	-	-	-	-	-	-	mouse-rat	-	-
+B261	no	-	-	-	-	-	-	-	-	mouse-rat	-	-
+B356	no	-	-	-	-	-	-	-	-	human	-	-
+B292	no	-	-	-	-	-	-	-	-	human	-	-
+B202	no	-	-	-	-	-	-	-	-	human	-	-
+B032	yes	D	explicit	cellular	population	observed	chronological age	not stated	Two phases have been distinguished	mouse-rat	Two phases have been distinguished, similar to those observed	[authors: "phases"]
+B116	no	-	-	-	-	-	-	-	-	multiple	-	-
+B136	no	-	-	-	-	-	-	-	-	human	-	-
+B091	no	-	-	-	-	-	-	-	-	mouse-rat	-	-
+B328	no	-	-	-	-	-	-	-	-	human	-	-
+B199	no	-	-	-	-	-	-	-	-	human	-	-
+B130	no	-	-	-	-	-	-	-	-	multiple	-	-
+B268	no	-	-	-	-	-	-	-	-	human	-	-
+B373	yes	NC	explicit	cellular	population	observed	chronological age	-	-	human	robust, non-linear transcriptional reprogramming in T cell subsets with age	[authors: "non-linear"]
+B119	no	-	-	-	-	-	-	-	-	multiple	-	-
+B225	yes	NC	explicit	tissue-organ	population	inferred	chronological age	-	-	human	showed a quadratic relationship, with individuals in late middle age	[authors: "quadratic relationship"]

@@ -1,0 +1,51 @@
+review_id	screen_relevant	trajectory_code	explicitness	level	scale	observation	anchor	reversibility	meaning	organism	evidence_quote	notes
+B318	no	-	-	-	-	-	-	-	-	mouse-rat	-	-
+B073	no	-	-	-	-	-	-	-	-	human	-	-
+B017	yes	P	implicit	-	-	-	-	-	-	human	preferential decline of CBF in the frontal cortex	-
+B195	yes	NC	explicit	physiological-functional	individual	inferred	disease or pathology	-	-	human	accelerated memory decline... begins between seven and eight years	-
+B015	yes	P	explicit	-	-	-	-	-	-	human	All four acuity dimensions deteriorate with age	-
+B140	no	-	-	-	-	-	-	-	-	mouse-rat	-	-
+B074	yes	P	explicit	-	-	-	-	-	-	human	creatinine clearance... declined cross-sectionally with age	-
+B056	yes	NC	explicit	physiological-functional	individual	observed	disease or pathology	-	-	human	an abrupt deterioration in performance	[authors: "abrupt deterioration"]
+B272	no	-	-	-	-	-	-	-	-	human	-	-
+B385	yes	NC	explicit	molecular	population	inferred	chronological age	-	-	human	Sleep duration was correlated with BAA in a U-shaped pattern	-
+B181	no	-	-	-	-	-	-	-	-	multiple	-	-
+B089	no	-	-	-	-	-	-	-	-	mouse-rat	-	-
+B020	yes	NC	explicit	physiological-functional	population	inferred	chronological age	-	-	human	There is a non-linear decline in cardiac baroreceptor sensitivity	[authors: "non-linear decline"]
+B187	no	-	-	-	-	-	-	-	-	human	-	-
+B051	no	-	-	-	-	-	-	-	-	human	-	-
+B235	no	-	-	-	-	-	-	-	-	mouse-rat	-	-
+B164	no	-	-	-	-	-	-	-	-	human	-	-
+B374	yes	P	implicit	-	-	-	-	-	-	human	MCI rates showed a proportional increase at each wave	-
+B211	no	-	-	-	-	-	-	-	-	human	-	-
+B244	no	-	-	-	-	-	-	-	-	human	-	-
+B200	no	-	-	-	-	-	-	-	-	human	-	-
+B013	no	-	-	-	-	-	-	-	-	mouse-rat	-	-
+B061	no	-	-	-	-	-	-	-	-	other	-	-
+B041	yes	D	explicit	cellular	individual	inferred	none stated	not stated	sudden onset of cell senescence	none	abrupt transition of cells from the larger to the smaller	[authors: "abrupt telomere shortening", "sudden senescence syndrome"]
+B198	yes	NC	explicit	physiological-functional	population	observed	chronological age	-	-	human	Frequency-domain HRV decreased more at 65-69, less at 70-74 and minimally at >=75 years	-
+B126	yes	NC	implicit	physiological-functional	population	inferred	chronological age	-	-	human	an increase in functional complexity early in the lifespan and an eventual loss	-
+B219	no	-	-	-	-	-	-	-	-	human	-	-
+B156	no	-	-	-	-	-	-	-	-	human	-	-
+B084	no	-	-	-	-	-	-	-	-	mouse-rat	-	-
+B152	no	-	-	-	-	-	-	-	-	Drosophila	-	-
+B162	no	-	-	-	-	-	-	-	-	human	-	-
+B247	yes	P	implicit	-	-	-	-	-	-	C. elegans	Age-dependent collapse of lipid homeostasis results in spillover	-
+B327	no	-	-	-	-	-	-	-	-	human	-	-
+B107	no	-	-	-	-	-	-	-	-	human	-	-
+B205	no	-	-	-	-	-	-	-	-	human	-	-
+B002	yes	NC	explicit	tissue-organ	population	observed	chronological age	-	-	human	BMC increased slightly to a peak... followed by a decrease	-
+B072	no	-	-	-	-	-	-	-	-	human	-	-
+B349	no	-	-	-	-	-	-	-	-	human	-	-
+B315	no	-	-	-	-	-	-	-	-	other	-	-
+B026	no	-	-	-	-	-	-	-	-	multiple	-	-
+B215	yes	P	explicit	-	-	-	-	-	-	human	spatio-temporal model of morphological differences in the brain	-
+B386	no	-	-	-	-	-	-	-	-	human	-	-
+B341	no	-	-	-	-	-	-	-	-	human	-	-
+B289	no	-	-	-	-	-	-	-	-	human	-	-
+B064	no	-	-	-	-	-	-	-	-	human	-	-
+B367	no	-	-	-	-	-	-	-	-	human	-	-
+B350	no	-	-	-	-	-	-	-	-	mouse-rat	-	-
+B323	yes	P	implicit	-	-	-	-	-	-	human	HFD increased with age for frequencies up to 150 Hz	-
+B039	yes	P	explicit	-	-	-	-	-	-	human	The specific activity of superoxide dismutase declined with age	-
+B229	no	-	-	-	-	-	-	-	-	human	-	-

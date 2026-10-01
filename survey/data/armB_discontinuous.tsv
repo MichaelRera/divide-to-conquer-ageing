@@ -1,0 +1,11 @@
+pmid	year	level	scale	observation	anchor	organism	meaning
+8094925	1993	cellular	population	observed	chronological age	mouse-rat	[authors: "two phases"] progressive lipofuscin accumulation to 24 months, then qualitatively new inclusions (PHF-like, Hirano bodies) from 24 months
+10196087	1999	cellular	individual	inferred	physiological state	none	[authors: "abrupt telomere shortening"] model: gradual shortening plus stochastic abrupt events explain bimodal clonal senescence
+9467417	1998	cellular	population	observed	physiological state	mouse-rat	in vitro ageing: diploid to tetraploid until growth crisis, then hypotetraploid immortalised cells
+16029094	2005	physiological-functional	individual	inferred	disease or pathology	human	[authors: "terminal decline", "developmental cascade"] distinct paths: age-related vs dementia-related vs mortality-related; cascade from low memory to dementia to death (longitudinal)
+19475566	2009	cellular	population	observed	physiological state	human	[authors: "stepwise"] replicating -> reversible quiescence -> irreversible senescence states with distinct miRNA profiles
+15249151	2004	physiological-functional	individual	inferred	proximity to death	human	[authors: "terminal decline or drop"] terminal drop in cognition weaker in centenarians (longitudinal)
+22610697	2013	whole-organism	individual	observed	physiological state	C. elegans	[authors: "three stable post-developmental states", "transition"] machine-classified morphological states; isogenic same-age worms in state I vs II are molecularly distinct
+31713126	2019	whole-organism	individual	observed	physiological state	human	[authors: "punctuated equilibrium"] individual health histories show stasis punctuated by sudden changes; growth-curve models build in an assumption of gradual change by aggregating individuals
+39639169	2025	cellular	population	inferred	chronological age	human	[authors: "waves of hematopoiesis", "transcriptional age states"] distinct HSC states across gestation, maturation and aging, incl. a fetal-specific state
+40082090	2025	cellular	individual	inferred	physiological state	other	[authors: "stable fixed points", "aging trajectories"] gene-circuit feedback; destabilisation of homeostatic loops accelerates aging (yeast SIR2-HAP circuit)

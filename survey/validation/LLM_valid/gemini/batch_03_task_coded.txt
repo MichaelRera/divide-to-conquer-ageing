@@ -1,0 +1,51 @@
+review_id	screen_relevant	trajectory_code	explicitness	level	scale	observation	anchor	reversibility	meaning	organism	evidence_quote	notes
+A057	-	DEV	-	-	-	-	-	-	-	other	During normal development mast cells enter the habenula and complete their differentiation in situ	-
+A100	-	U	-	-	-	-	-	-	-	mouse-rat	young (3-5 months) and old (17-20 months)	-
+A050	-	NC	explicit	molecular	population	inferred	chronological age	-	-	human	higher in neonates than in adults; during adult life there was no further decline	-
+A237	-	U	-	-	-	-	-	-	-	mouse-rat	differential binding of PARP-1 to recombinant NEIL1 in older mice compared to younger mice	-
+A018	-	NC	explicit	molecular	population	inferred	chronological age	-	-	multiple	increase with aging in an exponential manner	-
+A025	-	U	-	-	-	-	-	-	-	human	-	-
+A266	-	DEV	-	-	-	-	-	-	-	human	Somatosensation matures through childhood into adolescence	-
+A315	-	U	-	-	-	-	-	-	-	human	-	-
+A117	-	DEV	-	-	-	-	-	-	-	other	haematological indices neared adult values by the 4th week of age	-
+A072	-	P	implicit	-	-	-	-	-	-	human	age-related increase in FSH concentrations in ovulatory women	-
+A014	-	DEV	-	-	-	-	-	-	-	other	decreased after birth and with postnatal development in EDL	-
+A001	-	U	-	-	-	-	-	-	-	human	less than 25 years, greater than 50 years	-
+A163	-	U	-	-	-	-	-	-	-	human	presence of pain was not correlated with age	-
+A296	-	U	-	-	-	-	-	-	-	human	-	-
+A076	-	P	implicit	-	-	-	-	-	-	human	ability to perform high intensity exercise may be an inevitable consequence of ageing	-
+A236	-	U	-	-	-	-	-	-	-	mouse-rat	-	-
+A308	-	U	-	-	-	-	-	-	-	mouse-rat	-	-
+A288	-	P	implicit	-	-	-	-	-	-	mouse-rat	As males age they show impairments in sexual function	-
+A128	-	P	implicit	-	-	-	-	-	-	none	disturbed heme metabolism causes mitochondrial decay, oxidative stress, and iron accumulation	-
+A267	-	U	-	-	-	-	-	-	-	none	-	-
+A285	-	U	-	-	-	-	-	-	-	human	-	-
+A054	-	NC	explicit	molecular	population	inferred	chronological age	-	-	other	accumulate with age, starting at 25 years of age and escalating after 30 years	-
+A273	-	NC	explicit	population-demographic	population	inferred	chronological age	-	-	human	rate of senescence (slope of adult mortality rates) in populations with delayed effects	-
+A211	-	U	-	-	-	-	-	-	-	other	-	-
+A089	-	U	-	-	-	-	-	-	-	mouse-rat	increased in comparison with those of four-week-old W/BF1 or normal mice	-
+A116	-	P	explicit	-	-	-	-	-	-	human	function in two hippocampal subregions--the subiculum and the dentate gyrus--decline normally with age	-
+A290	-	U	-	-	-	-	-	-	-	human	-	-
+A136	-	P	explicit	-	-	-	-	-	-	human	A significant age-related decrease of the frequency of allele (A)(-110) was observed in females	-
+A272	-	P	explicit	-	-	-	-	-	-	human	Older age was associated with significantly lower fast spindle	-
+A233	-	P	explicit	-	-	-	-	-	-	mouse-rat	causes progressively more severe neurodegeneration in the mouse cerebral cortex during aging	-
+A179	-	U	-	-	-	-	-	-	-	human	-	-
+A277	-	P	implicit	-	-	-	-	-	-	human	age-associated epigenetic modifications concerned with heterochromatin loss	-
+A200	-	P	implicit	-	-	-	-	-	-	human	Telomere length shortens with each cell division	-
+A202	-	U	-	-	-	-	-	-	-	multiple	accelerated aging and enhanced spontaneous tumorigenesis	-
+A096	-	P	explicit	-	-	-	-	-	-	mouse-rat	observed a significant age-related decrease in GSH-Px, GSH-Red and G6PD activities	-
+A051	-	DEV	-	-	-	-	-	-	-	human	neonatal cranial ultrasound (US) abnormalities in low birth weight (LBW) infants	-
+A245	-	P	explicit	-	-	-	-	-	-	human	high glycosylated hemoglobin was associated with decline in memory function	-
+A069	-	P	implicit	-	-	-	-	-	-	human	Ageing contributes to increased variability of airway calibre in asthma	-
+A215	-	P	implicit	-	-	-	-	-	-	human	Aging is associated with progressive T-cell deficiency	-
+A256	-	U	-	-	-	-	-	-	-	human	-	-
+A286	-	U	-	-	-	-	-	-	-	human	PTSD hyperarousal symptoms were associated with accelerated DNAm age	-
+A292	-	U	-	-	-	-	-	-	-	human	-	-
+A275	-	NC	explicit	physiological-functional	individual	observed	chronological age	-	-	human	Race-by-sex disparities in body size were observed by the age of 9-11 years and persisted	-
+A195	-	U	-	-	-	-	-	-	-	human	-	-
+A220	-	P	implicit	-	-	-	-	-	-	human	Ageing is associated with diminished muscle re-growth	-
+A287	-	P	explicit	-	-	-	-	-	-	mouse-rat	we detected a progressive loss of phosphorus in the outer nuclear layer	-
+A235	-	P	explicit	-	-	-	-	-	-	human	A significant age trend was found in all five personality domains	-
+A158	-	DEV	-	-	-	-	-	-	-	human	predictors of bone mass in early pubertal girls	-
+A214	-	U	-	-	-	-	-	-	-	human	-	-
+A034	-	U	-	-	-	-	-	-	-	human	young and aged adults	-

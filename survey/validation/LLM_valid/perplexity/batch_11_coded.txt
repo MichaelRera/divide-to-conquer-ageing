@@ -1,0 +1,51 @@
+review_id	screen_relevant	trajectory_code	explicitness	level	scale	observation	anchor	reversibility	meaning	organism	evidence_quote	notes
+B318	no	-	-	-	-	-	-	-	-	mouse-rat	D-galactose-induced aging mice	-
+B073	no	-	-	-	-	-	-	-	-	human	became more and more biphasic	-
+B017	yes	P	explicit	tissue-organ	population	observed	chronological age	-	-	human	preferential decline of CBF in frontal cortex with advancing age	-
+B195	yes	NC	explicit	physiological-functional	individual	inferred	disease or pathology	-	-	human	accelerated memory decline begins seven to eight years before diagnosis	-
+B015	yes	P	explicit	physiological-functional	population	observed	chronological age	-	-	human	constant increase in threshold approximately 1% per annum	-
+B140	yes	NC	explicit	cellular	population	observed	chronological age	-	-	mouse-rat	stimulatory effect increases with age	-
+B074	yes	P	explicit	physiological-functional	population	observed	chronological age	-	-	human	creatinine clearance declined cross-sectionally with age	-
+B056	yes	D	explicit	physiological-functional	individual	observed	disease or pathology	not stated	abrupt deterioration at onset of dementing illness	human	an abrupt deterioration in performance was observed	-
+B272	no	-	-	-	-	-	-	-	-	human	bi-directional longitudinal associations	-
+B385	no	-	-	-	-	-	-	-	-	human	non-linear patterns	-
+B181	no	-	-	-	-	-	-	-	-	multiple	actively regulated metabolic process	-
+B089	no	-	-	-	-	-	-	-	-	mouse-rat	biphasic influence	-
+B020	no	-	-	-	-	-	-	-	-	human	non-linear decline	-
+B187	no	-	-	-	-	-	-	-	-	human	accelerated aging	-
+B051	no	-	-	-	-	-	-	-	-	human	disability advances to moderate levels	-
+B235	no	-	-	-	-	-	-	-	-	mouse-rat	accelerated aging phenotype	-
+B164	no	-	-	-	-	-	-	-	-	human	decision to stop driving was frequently abrupt	-
+B374	no	-	-	-	-	-	-	-	-	human	proportional increase	-
+B211	no	-	-	-	-	-	-	-	-	human	nonlinear and anisotropic behavior	-
+B244	no	-	-	-	-	-	-	-	-	human	accelerated aging	-
+B200	no	-	-	-	-	-	-	-	-	human	non-linear time-series analysis	-
+B013	no	-	-	-	-	-	-	-	-	mouse-rat	biphasic	-
+B061	no	-	-	-	-	-	-	-	-	other	-	-
+B041	no	-	-	-	-	-	-	-	-	human	abrupt telomere shortening	-
+B198	no	-	-	-	-	-	-	-	-	human	continued to change with increasing age	-
+B126	no	-	-	-	-	-	-	-	-	human	increase in functional complexity early lifespan eventual loss during aging	-
+B219	no	-	-	-	-	-	-	-	-	human	transitions out of successful aging status	-
+B156	no	-	-	-	-	-	-	-	-	human	nonlinear changes	-
+B084	no	-	-	-	-	-	-	-	-	mouse-rat	biphasic	-
+B152	no	-	-	-	-	-	-	-	-	Drosophila	accelerated functional decline	-
+B162	no	-	-	-	-	-	-	-	-	human	maturational pattern	-
+B247	no	-	-	-	-	-	-	-	-	C. elegans	age-dependent ectopic lipid accumulation	-
+B327	no	-	-	-	-	-	-	-	-	human	cognitive trajectories	-
+B107	no	-	-	-	-	-	-	-	-	human	nonlinear relationships	-
+B205	no	-	-	-	-	-	-	-	-	human	non-linear nature of brain development	-
+B002	no	-	-	-	-	-	-	-	-	human	pattern of BMC with age	-
+B072	no	-	-	-	-	-	-	-	-	human	energy expenditure	-
+B349	no	-	-	-	-	-	-	-	-	human	positive perceptions of aging	-
+B315	no	-	-	-	-	-	-	-	-	none	aging trajectories	-
+B026	no	-	-	-	-	-	-	-	-	multiple	accelerated aging and reduction in lifespan	-
+B215	no	-	-	-	-	-	-	-	-	human	spatio-temporal model	-
+B386	no	-	-	-	-	-	-	-	-	human	nonlinear age models	-
+B341	no	-	-	-	-	-	-	-	-	human	accelerated structural aging	-
+B289	no	-	-	-	-	-	-	-	-	human	accelerated aging of patients	-
+B064	no	-	-	-	-	-	-	-	-	human	age-specific tracking	-
+B367	no	-	-	-	-	-	-	-	-	human	accelerated aging	-
+B350	no	-	-	-	-	-	-	-	-	mouse-rat	accelerated aging of retina	-
+B323	no	-	-	-	-	-	-	-	-	human	changes in HFD across age	-
+B039	no	-	-	-	-	-	-	-	-	human	age-dependent decline	-
+B229	no	-	-	-	-	-	-	-	-	none	aging process	-

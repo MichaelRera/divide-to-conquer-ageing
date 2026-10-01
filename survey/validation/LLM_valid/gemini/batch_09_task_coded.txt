@@ -1,0 +1,51 @@
+review_id	screen_relevant	trajectory_code	explicitness	level	scale	observation	anchor	reversibility	meaning	organism	evidence_quote	notes
+B005	no	-	-	-	-	-	-	-	-	mouse-rat	-	-
+B372	no	-	-	-	-	-	-	-	-	human	-	-
+B108	yes	NC	explicit	physiological-functional	individual	inferred	chronological age	-	-	human	nonlinear models with more dramatic changes at later ages improved overall fit	[authors: "two-part spline model"]
+B191	no	-	-	-	-	-	-	-	-	human	-	-
+B011	no	-	-	-	-	-	-	-	-	mouse-rat	-	-
+B360	no	-	-	-	-	-	-	-	-	human	-	-
+B359	no	-	-	-	-	-	-	-	-	Drosophila	-	-
+B228	yes	D	explicit	whole-organism	individual	observed	chronological age	not stated	morphological transition between two early aging states	C. elegans	morphological transition between two early aging states	[authors: "transition"]
+B186	no	-	-	-	-	-	-	-	-	Drosophila	-	-
+B224	no	-	-	-	-	-	-	-	-	human	-	-
+B188	no	-	-	-	-	-	-	-	-	mouse-rat	-	-
+B338	no	-	-	-	-	-	-	-	-	human	-	-
+B214	yes	NC	explicit	tissue-organ	individual	inferred	chronological age	-	-	human	nonlinear longitudinal rate of cortical thinning decelerated over time	[authors: "nonlinear longitudinal rate"]
+B389	yes	NC	explicit	whole-organism	population	observed	disease or pathology	-	-	human	Aging in obesity should be considered as a nonlinear process	[authors: "nonlinear process"]
+B300	no	-	-	-	-	-	-	-	-	human	-	-
+B249	no	-	-	-	-	-	-	-	-	human	-	-
+B049	no	-	-	-	-	-	-	-	-	mouse-rat	-	-
+B376	no	-	-	-	-	-	-	-	-	human	-	-
+B246	no	-	-	-	-	-	-	-	-	human	-	-
+B265	no	-	-	-	-	-	-	-	-	human	-	-
+B112	yes	P	implicit	whole-organism	population	inferred	chronological age	-	-	human	prevalence of the metabolic syndrome increased with aging	-
+B063	no	-	-	-	-	-	-	-	-	mouse-rat	-	-
+B325	no	-	-	-	-	-	-	-	-	human	-	-
+B113	no	-	-	-	-	-	-	-	-	mouse-rat	-	-
+B007	no	-	-	-	-	-	-	-	-	mouse-rat	-	-
+B042	no	-	-	-	-	-	-	-	-	mouse-rat	-	-
+B257	no	-	-	-	-	-	-	-	-	human	-	-
+B332	no	-	-	-	-	-	-	-	-	human	-	-
+B364	yes	NC	explicit	tissue-organ	population	inferred	chronological age	-	-	human	non-linear trajectories of brain structural changes over the lifespan	[authors: "non-linear trajectories"]
+B096	yes	P	implicit	physiological-functional	population	observed	chronological age	-	-	human	Endurance exercise performance declines with age	-
+B103	no	-	-	-	-	-	-	-	-	mouse-rat	-	-
+B213	yes	NC	explicit	physiological-functional	population	observed	chronological age	-	-	human	nonlinear age-dependent progressive deterioration of basic coordination parameters	[authors: "nonlinear age-dependent progressive deterioration"]
+B075	no	-	-	-	-	-	-	-	-	mouse-rat	-	-
+B043	yes	P	implicit	physiological-functional	population	observed	chronological age	-	-	human	progressive decline in oral glucose tolerance in women	-
+B375	no	-	-	-	-	-	-	-	-	human	-	-
+B314	no	-	-	-	-	-	-	-	-	human	-	-
+B269	no	-	-	-	-	-	-	-	-	human	-	-
+B299	no	-	-	-	-	-	-	-	-	human	-	-
+B190	yes	NC	explicit	molecular	population	observed	chronological age	-	-	human	biphasic post-natal pattern of the presynaptic markers	[authors: "biphasic post-natal pattern"]
+B284	no	-	-	-	-	-	-	-	-	human	-	-
+B271	no	-	-	-	-	-	-	-	-	human	-	-
+B221	no	-	-	-	-	-	-	-	-	mouse-rat	-	-
+B031	yes	D	explicit	tissue-organ	population	observed	chronological age	not stated	zones of discontinuity in the lens	human	as many as four sharply demarcated and complementary zones are seen	[authors: "zones of discontinuity"]
+B111	no	-	-	-	-	-	-	-	-	mouse-rat	-	-
+B337	no	-	-	-	-	-	-	-	-	human	-	-
+B125	yes	NC	explicit	physiological-functional	individual	inferred	disease or pathology	-	-	human	subgroups of individuals develop along different paths characterized by selective changes	[authors: "paths of cognitive development"]
+B114	no	-	-	-	-	-	-	-	-	human	-	-
+B208	no	-	-	-	-	-	-	-	-	human	-	-
+B344	no	-	-	-	-	-	-	-	-	human	-	-
+B276	yes	NC	explicit	tissue-organ	individual	inferred	disease or pathology	-	-	human	acceleration of brain aging was not constant	[authors: "acceleration of brain aging"]

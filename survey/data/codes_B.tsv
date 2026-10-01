@@ -1,0 +1,401 @@
+pmid	relevant	T	E	L	S	O	A	R	organism	note
+9838178	yes	NC	implicit	physiological-functional	population	inferred	chronological age	-	human	progressive RT decline, but major ERP changes only in the oldest subjects; age at which changes occur varies by component
+2021710	yes	NC	explicit	tissue-organ	population	inferred	chronological age	-	human	bone mineral content peaks end of 4th decade then falls ~30% by 70+
+10426595	no	-	-	-	-	-	-	-	human	infant cleft growth
+9088911	no	-	-	-	-	-	-	-	mouse-rat	senescence-accelerated mouse behaviour, no trajectory shape
+7905759	no	-	-	-	-	-	-	-	mouse-rat	tamoxifen mammary gland
+10603304	no	-	-	-	-	-	-	-	human	energy metabolism review
+1488615	yes	NC	implicit	tissue-organ	population	inferred	chronological age	-	mouse-rat	hearing loss onset late in one strain, young adulthood in another; more precipitous threshold elevation
+7499596	no	-	-	-	-	-	-	-	human	dental calculus
+1673153	no	-	-	-	-	-	-	-	mouse-rat	postnatal GABA maturation
+8894788	no	-	-	-	-	-	-	-	human	disease progression in cardiomyopathy
+7680423	no	-	-	-	-	-	-	-	mouse-rat	biphasic DNA repair kinetics, not an ageing trajectory
+8893683	yes	NC	explicit	physiological-functional	population	inferred	chronological age	-	human	[authors: "biphasic model with a discontinuity"] slope change: implantation decline accelerates >20%/yr after ~37 y
+1360864	no	-	-	-	-	-	-	-	mouse-rat	biphasic ethanol dose response
+8614925	no	-	-	-	-	-	-	-	human	carotid enlargement factors
+7571941	no	-	-	-	-	-	-	-	human	"discontinuity" = gaps in tactile stimuli
+1526323	no	-	-	-	-	-	-	-	mouse-rat	biphasic morphine effect in neonates
+2016360	yes	P	explicit	tissue-organ	-	-	-	-	human	frontal CBF declines with advancing age (regression 21-83 y)
+7583788	yes	NC	explicit	cellular	population	inferred	chronological age	-	other	lipofuscin accumulation rate has a complex nonlinear surface over age and temperature (crayfish)
+1576926	no	-	-	-	-	-	-	-	human	erythrocyte cell age, density gradient
+10459786	yes	NC	explicit	physiological-functional	population	inferred	chronological age	-	human	non-linear decline of baroreceptor sensitivity, little further decline after the fourth decade
+8345818	no	-	-	-	-	-	-	-	human	resting metabolic rate equation
+8222123	no	-	-	-	-	-	-	-	human	circadian pattern of sudden cardiac death
+9398844	yes	NC	explicit	molecular	population	inferred	chronological age	-	mouse-rat	[authors: "rapid accumulation"] liver genome rearrangements flat until 27 months then rise rapidly; brain flat after 4-6 months
+8241607	no	-	-	-	-	-	-	-	human	drug-induced mania
+1656939	no	-	-	-	-	-	-	-	multiple	erythrocyte cell-age fractionation
+9222747	no	-	-	-	-	-	-	-	multiple	early undernutrition programmes accelerated aging, no trajectory shape
+9336340	no	-	-	-	-	-	-	-	mouse-rat	biphasic density distribution of deposits
+8196370	no	-	-	-	-	-	-	-	mouse-rat	young vs aged gastric regeneration
+10090122	no	-	-	-	-	-	-	-	human	bladder compliance in men with LUTS
+1941778	no	-	-	-	-	-	-	-	human	developmental critical period for fluorosis
+7975329	no	-	-	-	-	-	-	-	human	anatomical "zones of discontinuity" in lens laid down during growth; not a trajectory claim
+8094925	yes	D	explicit	cellular	population	observed	chronological age	not stated	mouse-rat	[authors: "two phases"] progressive lipofuscin accumulation to 24 months, then qualitatively new inclusions (PHF-like, Hirano bodies) from 24 months
+7928192	no	-	-	-	-	-	-	-	human	lens phospholipids, "biphasic extraction"
+9709942	no	-	-	-	-	-	-	-	human	DHT pharmacokinetics
+9364233	no	-	-	-	-	-	-	-	other	neonatal lambs IgG
+9238758	yes	NC	explicit	physiological-functional	population	inferred	chronological age	-	human	non-linear PSA-age relation with variance increasing with age
+16296673	no	-	-	-	-	-	-	-	human	two phases of a movement task
+9876244	yes	P	implicit	physiological-functional	-	-	-	-	multiple	aging brings progressive disruption of the thymus-pituitary network
+8759353	yes	P	explicit	molecular	-	-	-	-	human	trabecular SOD activity declines linearly with age (r2 0.67)
+10224638	no	-	-	-	-	-	-	-	human	"abrupt onset" visual distractor
+10196087	yes	D	explicit	cellular	individual	inferred	physiological state	not stated	none	[authors: "abrupt telomere shortening"] model: gradual shortening plus stochastic abrupt events explain bimodal clonal senescence
+1632273	no	-	-	-	-	-	-	-	mouse-rat	SAM strain comparison, no shape claim
+1634704	yes	P	explicit	physiological-functional	-	-	-	-	human	progressive decline in glucose tolerance per decade; explicitly no abrupt change at menopause
+7936078	yes	NC	explicit	tissue-organ	population	inferred	chronological age	-	human	grey-white ratio declines age 20-50 then increases (non-monotonic)
+7744274	no	-	-	-	-	-	-	-	human	drug use in elderly
+10367922	no	-	-	-	-	-	-	-	human	"abrupt high-frequency loss" is an audiogram shape
+9467417	yes	D	explicit	cellular	population	observed	physiological state	not stated	mouse-rat	in vitro ageing: diploid to tetraploid until growth crisis, then hypotetraploid immortalised cells
+8227679	no	-	-	-	-	-	-	-	other	dairy cow longevity genetics
+10362290	yes	P	implicit	cellular	-	-	-	-	mouse-rat	complexity (chaos) of neuronal firing reduced with aging (3 ages)
+1936608	no	-	-	-	-	-	-	-	mouse-rat	fetal/neonatal islets
+8620362	no	-	-	-	-	-	-	-	human	retirement migration vs disability
+8891499	no	-	-	-	-	-	-	-	other	developing lamb ventilation
+1348565	no	-	-	-	-	-	-	-	mouse-rat	sialectomy effects young vs aged
+2354852	no	-	-	-	-	-	-	-	mouse-rat	developing intestine, biphasic Arrhenius plot
+8687038	yes	P	implicit	cellular	-	-	-	-	mouse-rat	gliosis markers markedly increase with aging in SAMP8
+9520014	yes	P	explicit	physiological-functional	-	-	-	-	human	rate of psychometric change before dementia onset same as in stable elders (longitudinal)
+9698576	no	-	-	-	-	-	-	-	human	brain glucose metabolism 6-38 y, developmental nonlinearity
+9413650	yes	P	explicit	tissue-organ	-	-	-	-	human	mitral ring motion declines linearly with age in adults (regression)
+7767944	no	-	-	-	-	-	-	-	human	cisplatin pharmacokinetics
+7723738	yes	P	implicit	molecular	-	-	-	-	mouse-rat	beta-AR coupling decreases with age (1, 6, 24 months)
+9443327	no	-	-	-	-	-	-	-	other	dairy heifers
+7948178	no	-	-	-	-	-	-	-	mouse-rat	graft survival young vs old
+2087511	no	-	-	-	-	-	-	-	mouse-rat	"breakpoint" in hyperphagia of developing obese rats
+1618193	no	-	-	-	-	-	-	-	human	adolescent-to-adult fitness tracking
+2084504	no	-	-	-	-	-	-	-	mouse-rat	brain microvessel development in two phases (developmental)
+7845056	no	-	-	-	-	-	-	-	mouse-rat	[authors: "abrupt changes throughout life"] binding sites rise from 1 to 3 months (maturation window)
+9666043	yes	P	explicit	physiological-functional	-	-	-	-	human	neuromuscular decline begins early and proceeds steadily; "curious lack of an abrupt falloff with age"
+9234236	no	-	-	-	-	-	-	-	mouse-rat	SAMP8 juvenile heart glycogen
+9721743	no	-	-	-	-	-	-	-	mouse-rat	immature neurons in vitro
+9293196	yes	P	explicit	physiological-functional	-	-	-	-	human	age predicts some cognitive measures linearly; decline with age not inevitable in educated adults
+1860075	yes	NC	explicit	cellular	population	inferred	chronological age	-	other	[authors: "two phases", "biphasic trend"] neuronal coupling decreases 3-13 months then increases 13-20 months (snail)
+2269253	no	-	-	-	-	-	-	-	human	resting energy expenditure equation
+10400954	no	-	-	-	-	-	-	-	human	infant reaching torques
+2229867	yes	P	explicit	tissue-organ	-	-	-	-	human	creatinine clearance declines linearly with age (regression 25-82)
+10027758	no	-	-	-	-	-	-	-	mouse-rat	erythropoietin in aged rats
+7582108	no	-	-	-	-	-	-	-	mouse-rat	developmental glycine transporter expression
+7968424	yes	P	explicit	physiological-functional	-	-	-	-	human	weightlifting performance deteriorates ~1-1.5%/yr (cross-sectional and longitudinal)
+1824120	no	-	-	-	-	-	-	-	mouse-rat	non-linear B cell decay kinetics after transfer
+9354147	yes	NC	explicit	physiological-functional	population	inferred	chronological age	-	human	meta-analysis: age-related cognitive decline accelerates over adulthood (quadratic effects)
+7689698	no	-	-	-	-	-	-	-	mouse-rat	neonatal BrdU increases aging rate, no shape claim
+9236724	no	-	-	-	-	-	-	-	mouse-rat	adult vs aged autoregulation
+10517806	no	-	-	-	-	-	-	-	mouse-rat	developmental shift in glycine action
+7777133	yes	NC	explicit	physiological-functional	population	inferred	chronological age	-	mouse-rat	nonlinear age-related spatial memory decline (4, 11, 17, 24 months)
+1280607	no	-	-	-	-	-	-	-	mouse-rat	biphasic developmental enolase accumulation
+1911907	yes	NC	explicit	physiological-functional	population	inferred	chronological age	-	human	nonlinear decrease in HF and MF heart-rate power, mostly between 30 and 59; LF linear
+7643252	no	-	-	-	-	-	-	-	mouse-rat	"abrupt" dietary switch, adaptation independent of age
+9260989	yes	P	explicit	tissue-organ	-	-	-	-	human	renal endothelial response negatively correlated with age (regression)
+8513271	no	-	-	-	-	-	-	-	human	senescent cell antigen on red cells
+7644021	no	-	-	-	-	-	-	-	mouse-rat	cognitive deficits in a subgroup of aged rats, drug study
+9701622	yes	NC	explicit	tissue-organ	population	inferred	chronological age	-	human	vertebral bone density: modest decline before 50, steeper after 50; forearm decline from 40
+1951704	no	-	-	-	-	-	-	-	mouse-rat	abrupt postnatal enzyme rise (development)
+9240730	no	-	-	-	-	-	-	-	human	biphasic cortical thickness along the spine (anatomical, not age)
+9237040	yes	P	implicit	physiological-functional	-	-	-	-	human	partial age-related testosterone decline in men, contrasted with "complete and abrupt" ovarian cessation at menopause
+1627156	yes	P	explicit	molecular	-	-	-	-	human	mtDNA deletion incidence increases with age; continuous accumulation of mutations
+8274501	no	-	-	-	-	-	-	-	other	ontogeny of glucose cotransport
+7649932	yes	P	explicit	physiological-functional	-	-	-	-	human	10-km pace declines with age (r -0.83), 23-56 y
+9112090	no	-	-	-	-	-	-	-	mouse-rat	biphasic vascular responses in old kidneys
+2111647	no	-	-	-	-	-	-	-	human	two-phase orthodontic treatment
+1595678	yes	P	explicit	physiological-functional	-	-	-	-	human	[authors: "stepwise decrease"] testosterone and estradiol decrease monotonically with age from early adulthood
+7868424	no	-	-	-	-	-	-	-	mouse-rat	day 15 vs adult diaphragm injury
+17328373	no	-	-	-	-	-	-	-	human	gradual vs abrupt strategy shifts in skill learning
+15937790	no	-	-	-	-	-	-	-	none	population oscillations in age-structured models
+18000831	no	-	-	-	-	-	-	-	mouse-rat	prenatal corticosteroids and lifespan
+17563180	no	-	-	-	-	-	-	-	human	"abrupt onsets" in visual scenes
+19084984	yes	NC	implicit	tissue-organ	population	inferred	chronological age	-	human	[authors: "stepwise hemodynamic and vascular changes"] advancing age generates increasingly vulnerable vascular beds
+15541774	no	-	-	-	-	-	-	-	human	NADPH oxidase and NF-kB
+18841026	no	-	-	-	-	-	-	-	human	life-course framework for cognitive ageing, no shape claim
+19404731	yes	NC	explicit	physiological-functional	individual	inferred	chronological age	-	human	linear memory decline, but a two-part spline with a turning point at 74 fits better (12-y longitudinal twins)
+19527771	yes	NC	explicit	molecular	population	inferred	chronological age	-	none	non-linear increase of damage with amplifying feedback loops (protein aggregation network)
+17537975	no	-	-	-	-	-	-	-	mouse-rat	two phases of maze learning
+19302088	no	-	-	-	-	-	-	-	mouse-rat	adolescent rats and ethanol
+17595254	yes	P	implicit	physiological-functional	-	-	-	-	human	metabolic syndrome prevalence "increased with aging" (4, 21, 21, 18% across age groups)
+17690294	no	-	-	-	-	-	-	-	mouse-rat	klotho and Wnt in accelerated aging
+19666783	no	-	-	-	-	-	-	-	human	volunteering transitions
+16798745	no	-	-	-	-	-	-	-	mouse-rat	BMP-6 in ovariectomized rats
+20157573	no	-	-	-	-	-	-	-	human	radiation and premature aging review
+16330560	yes	P	explicit	tissue-organ	-	-	-	-	human	negative linear correlation of 5-HT1A binding with age (20-70 y)
+11505367	no	-	-	-	-	-	-	-	mouse-rat	postnatal testis development
+19732043	no	-	-	-	-	-	-	-	multiple	biphasic TGF-beta effect on myogenesis
+10657747	yes	P	implicit	tissue-organ	-	-	-	-	human	lens exposed to cumulative damage over life; "zones of discontinuity" are anatomical
+11511399	yes	NC	implicit	physiological-functional	population	inferred	none stated	-	human	aging as a non-linear dynamic process of interacting immune, endocrine and nervous systems
+16318865	no	-	-	-	-	-	-	-	human	method for biological age estimation, no shape claim
+17460211	no	-	-	-	-	-	-	-	human	Werner syndrome fibroblast senescence
+17699665	yes	P	implicit	physiological-functional	-	-	-	-	mouse-rat	stress vulnerability cumulative over the lifespan
+16029094	yes	D	explicit	physiological-functional	individual	inferred	disease or pathology	not stated	human	[authors: "terminal decline", "developmental cascade"] distinct paths: age-related vs dementia-related vs mortality-related; cascade from low memory to dementia to death (longitudinal)
+17355813	yes	NC	explicit	physiological-functional	population	inferred	none stated	-	human	lifespan theory: complexity rises in development then is lost in ageing (non-monotonic)
+15063946	yes	P	implicit	physiological-functional	-	-	-	-	human	erectile dysfunction risk increases with age
+17990066	no	-	-	-	-	-	-	-	other	mite life tables vs temperature
+16981697	no	-	-	-	-	-	-	-	mouse-rat	postovulatory oocyte aging in diabetes
+17136506	no	-	-	-	-	-	-	-	human	cell cycle checkpoints review
+19475566	yes	D	explicit	cellular	population	observed	physiological state	irreversible stated	human	[authors: "stepwise"] replicating -> reversible quiescence -> irreversible senescence states with distinct miRNA profiles
+14963373	yes	P	explicit	physiological-functional	-	-	-	-	human	chronological and biological age predict 12-y linear cognitive change (hierarchical linear models)
+10802124	no	-	-	-	-	-	-	-	human	mitochondria and free radical theory debate
+16337939	no	-	-	-	-	-	-	-	mouse-rat	ghrelin in suckling vs young rats
+17873024	yes	NC	explicit	tissue-organ	population	inferred	chronological age	-	mouse-rat	explicitly rejects earlier "abrupt changes": progressive increase in aortic thickening with progressive but nonlinear rise in gene expression
+15249151	yes	D	implicit	physiological-functional	individual	inferred	proximity to death	not stated	human	[authors: "terminal decline or drop"] terminal drop in cognition weaker in centenarians (longitudinal)
+19851058	no	-	-	-	-	-	-	-	human	spaceflight as accelerated aging analogue
+19822781	yes	NC	explicit	physiological-functional	individual	inferred	disease or pathology	-	human	[authors: "sharp inflection point", "transition"] stable elders decline linearly; progressors show piecewise slope change 1-3 y before dementia diagnosis
+14583653	no	-	-	-	-	-	-	-	mouse-rat	GH transgenic accelerated aging
+15294963	no	-	-	-	-	-	-	-	mouse-rat	biphasic TGF-beta2 dose response
+16837106	no	-	-	-	-	-	-	-	mouse-rat	radiation-accelerated aging and diet
+16096833	yes	P	explicit	tissue-organ	-	-	-	-	human	model of progressive gravimetric facial tissue descent over 30 years
+11048956	no	-	-	-	-	-	-	-	mouse-rat	biphasic vanadate response, 6 vs 20 months
+18316704	yes	NC	explicit	tissue-organ	population	inferred	chronological age	-	human	[authors: "biphasic age dependency"] lens power decreases to ~58 y then increases (piecewise)
+19457549	no	-	-	-	-	-	-	-	human	developmental language impairment
+18433736	no	-	-	-	-	-	-	-	other	vesicle transport in cultured neurons
+16309733	no	-	-	-	-	-	-	-	mouse-rat	coronary responses with maturation
+18838195	no	-	-	-	-	-	-	-	human	imaging predictors of memory
+19566802	no	-	-	-	-	-	-	-	human	intergenerational support and health
+16115803	no	-	-	-	-	-	-	-	mouse-rat	progeroid mouse pathology
+16204590	yes	P	explicit	tissue-organ	-	-	-	-	human	small-airway clearance decreases linearly with age (19-81 y)
+20157575	no	-	-	-	-	-	-	-	Drosophila	circadian gene and healthspan
+20018794	no	-	-	-	-	-	-	-	human	productive activities and frailty
+11033009	no	-	-	-	-	-	-	-	other	"abrupt shifts" of light-dark cycle
+16626392	no	-	-	-	-	-	-	-	C. elegans	daf-12 alleles and lifespan
+18437693	no	-	-	-	-	-	-	-	human	bone mechanics two age groups
+15881295	no	-	-	-	-	-	-	-	human	"abrupt increase" in RT with N-back load
+11245366	yes	NC	explicit	physiological-functional	population	inferred	chronological age	-	human	inverse nonlinear association of age with sense of control
+11444634	yes	NC	explicit	physiological-functional	population	inferred	chronological age	-	human	nonlinear function fits visual field sensitivity vs age better than linear or bilinear
+17609671	no	-	-	-	-	-	-	-	human	TP63 mutation syndrome
+18808249	yes	NC	explicit	physiological-functional	individual	inferred	proximity to death	-	human	[authors: "terminal decline", "impending death"] speed inconsistency rises per year closer to death and predicts mortality (12-y longitudinal)
+18063233	no	-	-	-	-	-	-	-	human	discontinuous EEG in premature infants
+22880823	no	-	-	-	-	-	-	-	none	juvenile-adult population model
+12794382	no	-	-	-	-	-	-	-	human	abrupt driving cessation in dementia
+12630785	no	-	-	-	-	-	-	-	mouse-rat	"discontinuous" capillary segments (anatomical)
+15588798	no	-	-	-	-	-	-	-	human	upper GI disorders in elderly
+17471748	no	-	-	-	-	-	-	-	human	speech reception in noise
+20024518	no	-	-	-	-	-	-	-	human	progeroid syndromes review
+11297022	no	-	-	-	-	-	-	-	human	non-linear path model of quality of life
+12634925	no	-	-	-	-	-	-	-	human	red blood cell ageing in storage
+17038423	no	-	-	-	-	-	-	-	mouse-rat	postnatal ventilation critical window
+16638781	no	-	-	-	-	-	-	-	human	infant growth velocity
+20011633	no	-	-	-	-	-	-	-	mouse-rat	ocular hypertension model
+11173878	no	-	-	-	-	-	-	-	mouse-rat	SAMP8 brain energy
+15456908	no	-	-	-	-	-	-	-	multiple	Ras pro-aging pathway review
+16846540	no	-	-	-	-	-	-	-	human	colon glutathione by site, sex, age
+12888638	no	-	-	-	-	-	-	-	human	stepwise vitamin K repletion
+11040957	no	-	-	-	-	-	-	-	none	biochemistry of aging review
+11792363	no	-	-	-	-	-	-	-	mouse-rat	abrupt vs gradual stroke deficits in young vs old rats
+20195488	no	-	-	-	-	-	-	-	mouse-rat	Sod2 and telomere dysfunction
+16470014	no	-	-	-	-	-	-	-	human	genetics of aging and drug discovery
+17870066	no	-	-	-	-	-	-	-	human	lamin A and replicative senescence
+14663339	no	-	-	-	-	-	-	-	other	PET kinetics young vs aged macaques
+15928031	no	-	-	-	-	-	-	-	human	baroreflex in diabetes
+15500082	no	-	-	-	-	-	-	-	mouse-rat	geroprotector in SAMP-1 mice
+17964102	no	-	-	-	-	-	-	-	Drosophila	nonlinear diet-longevity reaction norms
+18538374	no	-	-	-	-	-	-	-	human	progeroid DNA repair syndromes review
+18387442	no	-	-	-	-	-	-	-	mouse-rat	abrupt reperfusion in aging hearts
+16451792	no	-	-	-	-	-	-	-	other	genetic correlations of longevity (livestock)
+14535941	yes	NC	explicit	molecular	population	inferred	chronological age	-	human	[authors: "biphasic post-natal pattern"] striatal dopamine rises through adolescence then declines with aging (1 day-103 y)
+19618189	yes	NC	explicit	tissue-organ	individual	inferred	disease or pathology	-	human	[authors: "accelerating atrophy rates"] atrophy rates accelerate from normal ageing to MCI to AD (serial MRI)
+19445346	no	-	-	-	-	-	-	-	human	parenthood stress in late midlife
+18986040	no	-	-	-	-	-	-	-	human	children's motor development
+16368843	no	-	-	-	-	-	-	-	human	ropivacaine pharmacokinetics by age group
+11782027	yes	NC	explicit	physiological-functional	individual	inferred	disease or pathology	-	human	[authors: "change points"] accelerated memory decline begins 7-8 y before AD diagnosis, speed 2 y before (longitudinal change-point models)
+17996864	no	-	-	-	-	-	-	-	mouse-rat	p53 mutant mammary development
+11697036	yes	P	explicit	molecular	-	-	-	-	human	red cell antioxidant capacity decreases with age (R -0.67, 34-87 y)
+19147739	yes	NC	explicit	physiological-functional	population	inferred	chronological age	-	human	HRV declines most at 65-70 and levels off after 75 (cross-sectional and 5-y longitudinal)
+16355084	yes	P	implicit	physiological-functional	-	-	-	-	human	aging associated with reduction in HRV and working capacity (athletes vs sedentary)
+17915226	no	-	-	-	-	-	-	-	human	postural stability young vs older
+20230087	yes	NC	explicit	physiological-functional	individual	inferred	chronological age	-	human	self-rated health: global ratings decline linearly, self-comparative ratings decline then decelerate (latent growth, 12 y)
+22959930	no	-	-	-	-	-	-	-	human	thyroid hormones and cognition, no non-linear association
+21300703	yes	NC	explicit	physiological-functional	individual	inferred	proximity to death	-	human	[authors test "terminal drop" (abrupt) vs "terminal decline" (gradual)] pre-death decline steeper than ageing but slow and steady, not a precipitous drop
+25495832	yes	P	explicit	physiological-functional	-	-	-	-	human	latent classes of residual cognitive decline (none, moderate, severe, fluctuating) after adjusting for neuropathology
+20600789	no	-	-	-	-	-	-	-	human	brain development infancy to 30 y
+25411066	no	-	-	-	-	-	-	-	other	abrupt weaning in calves
+29351838	no	-	-	-	-	-	-	-	human	empty-nester mental health
+25962494	no	-	-	-	-	-	-	-	human	polypharmacy and renal function
+30888729	no	-	-	-	-	-	-	-	other	cuttlefish arm regeneration
+29284674	no	-	-	-	-	-	-	-	human	pediatric brain metabolism models
+24039052	no	-	-	-	-	-	-	-	human	nonlinear mechanics of aged valve tissue
+25205853	no	-	-	-	-	-	-	-	human	cohort profile
+20083315	yes	NC	explicit	physiological-functional	population	inferred	chronological age	-	human	nonlinear age-dependent progressive deterioration of coordination and strength
+28444388	yes	NC	explicit	tissue-organ	individual	inferred	chronological age	-	human	longitudinal cortical thinning is nonlinear and decelerates over 8 years
+29203452	no	-	-	-	-	-	-	-	human	reference model of brain morphology, no shape claim
+20545432	yes	NC	explicit	physiological-functional	individual	inferred	proximity to death	-	human	[authors: "transition points", "terminal decline"] well-being stable over age, then decline steepens 3-fold 3-5 y before death (3 national panels)
+23550089	no	-	-	-	-	-	-	-	human	"abrupt" interviewer behaviour
+24248696	no	-	-	-	-	-	-	-	human	frailty in childhood cancer survivors
+29254405	no	-	-	-	-	-	-	-	human	transitions out of operationally defined successful aging status
+25455212	yes	P	implicit	physiological-functional	-	-	-	-	human	step length and gait speed progressively decrease with advancing age (3 groups)
+20524748	no	-	-	-	-	-	-	-	mouse-rat	developing brain mechanics
+29225356	no	-	-	-	-	-	-	-	human	alcohol-related brain age
+21953681	no	-	-	-	-	-	-	-	mouse-rat	progeroid liver model
+27557999	no	-	-	-	-	-	-	-	human	allometric brain scaling
+23721902	yes	NC	explicit	tissue-organ	population	inferred	chronological age	-	human	quadratic age relation of deep grey matter MRI phase: lowest at 40-59 then reversal
+28276931	no	-	-	-	-	-	-	-	human	subjective age and sexuality
+28988914	no	-	-	-	-	-	-	-	human	DNAm age in schizophrenia
+22610697	yes	D	explicit	whole-organism	individual	observed	physiological state	not stated	C. elegans	[authors: "three stable post-developmental states", "transition"] machine-classified morphological states; isogenic same-age worms in state I vs II are molecularly distinct
+31682793	no	-	-	-	-	-	-	-	none	polyphenols and miRNA review
+21746836	no	-	-	-	-	-	-	-	human	childhood misfortune and disease avoidance
+27959617	no	-	-	-	-	-	-	-	human	COPD as accelerated lung aging
+21108731	no	-	-	-	-	-	-	-	mouse-rat	SOD2 connective tissue knockout
+27785644	no	-	-	-	-	-	-	-	mouse-rat	developing heart adrenergic response
+27890742	no	-	-	-	-	-	-	-	human	uric acid and cognition
+27846439	no	-	-	-	-	-	-	-	mouse-rat	Sod1 knockout senescence
+28321696	no	-	-	-	-	-	-	-	human	accelerated vs accentuated aging in HIV, group comparison
+24004692	yes	P	explicit	tissue-organ	-	-	-	-	human	relaxation rates change monotonically with age by region (18-84 y)
+27973381	yes	P	explicit	physiological-functional	-	-	-	-	human	handgrip strength correlates negatively with age 70-89
+27440779	no	-	-	-	-	-	-	-	mouse-rat	mTOR and parietal epithelial cells
+20400446	no	-	-	-	-	-	-	-	human	alcohol and kidney function decline
+25063353	yes	P	implicit	physiological-functional	-	-	-	-	human	increases in ADL limitations associated with aging
+30305625	no	-	-	-	-	-	-	-	Drosophila	miR-34 and brain aging transcriptome
+25406956	no	-	-	-	-	-	-	-	human	skull morphometry model
+30153738	no	-	-	-	-	-	-	-	human	childhood adversity and adult health
+22709403	no	-	-	-	-	-	-	-	human	nonlinear EEG dynamics across three age groups
+21156325	no	-	-	-	-	-	-	-	human	leg strength and balance in inpatients
+27884963	yes	P	implicit	cellular	-	-	-	-	C. elegans	[authors: "age-dependent collapse of lipid homeostasis"] progressive ectopic fat accumulation with age
+25248511	yes	P	implicit	tissue-organ	-	-	-	-	human	progressive decrease in lung function with age; smoking accelerates it
+29849055	no	-	-	-	-	-	-	-	human	GABA inhibition in late-life depression
+22398143	no	-	-	-	-	-	-	-	human	childhood conditions and successful aging
+31830815	no	-	-	-	-	-	-	-	human	family support and mastery
+30106984	yes	P	explicit	tissue-organ	-	-	-	-	human	cardiac DOPA uptake increases with age in women (r 0.34)
+31641924	yes	P	implicit	physiological-functional	-	-	-	-	mouse-rat	age-associated cognitive decline as hallmark of aging (Sod1KO accelerates it)
+25301303	yes	P	explicit	tissue-organ	-	-	-	-	human	arterial axial pre-stretch decreases 0.088 per decade (13-79 y)
+28057201	no	-	-	-	-	-	-	-	human	vision change and well-being
+29152572	no	-	-	-	-	-	-	-	human	SERPINE1 null mutation and longevity
+30227133	yes	P	implicit	cellular	-	-	-	-	human	CVD increases with age; prelamin A accumulates in aged vascular cells
+23460854	no	-	-	-	-	-	-	-	human	corneal senescence in HIV
+30439962	no	-	-	-	-	-	-	-	human	diabetes risk factors by age group
+28893184	no	-	-	-	-	-	-	-	human	HIV aging cohort protocol
+29615095	yes	P	implicit	tissue-organ	-	-	-	-	mouse-rat	age-related decline in retinal function accelerated by XBP1 loss
+23549897	yes	P	implicit	tissue-organ	-	-	-	-	mouse-rat	tendon properties degrade during aging
+30124168	no	-	-	-	-	-	-	-	multiple	evolution of aging review, no trajectory-shape claim
+27068303	no	-	-	-	-	-	-	-	human	determinants of walking speed
+28432144	no	-	-	-	-	-	-	-	human	grey matter from childhood to young adulthood
+26334963	no	-	-	-	-	-	-	-	human	parent-child relationships and distress
+28193858	no	-	-	-	-	-	-	-	mouse-rat	senescent cell surface vimentin
+28005421	yes	P	implicit	tissue-organ	-	-	-	-	human	aging as a progressive degeneration of tissues; COPD as accelerated lung aging
+24331882	no	-	-	-	-	-	-	-	human	education and cognition, regression-discontinuity design
+26130741	no	-	-	-	-	-	-	-	human	cohort profile
+30017009	no	-	-	-	-	-	-	-	human	physical activity, networks and cognition
+25992569	no	-	-	-	-	-	-	-	human	social capital and oral health
+23115911	no	-	-	-	-	-	-	-	human	social resources and functional change by age group
+27507608	no	-	-	-	-	-	-	-	human	Cockayne syndrome review
+26656318	no	-	-	-	-	-	-	-	human	diabetes and auditory potentials
+26917166	no	-	-	-	-	-	-	-	human	accelerated brain aging in schizophrenia
+29108941	no	-	-	-	-	-	-	-	human	quadratic amyloid-activation relation, not age trajectory
+24257571	no	-	-	-	-	-	-	-	mouse-rat	glutamine supplementation in old rats
+24703889	no	-	-	-	-	-	-	-	human	CMV and immunosenescence commentary
+31713126	yes	D	explicit	whole-organism	individual	observed	physiological state	not stated	human	[authors: "punctuated equilibrium"] individual health histories show stasis punctuated by sudden changes; growth-curve models build in an assumption of gradual change by aggregating individuals
+24780842	no	-	-	-	-	-	-	-	human	caregiving and telomere length
+29968395	no	-	-	-	-	-	-	-	multiple	polymerase beta loss and senescence
+23949829	no	-	-	-	-	-	-	-	human	atypical aging in Down syndrome
+24412105	no	-	-	-	-	-	-	-	human	two-phase network model of cancer
+27959617	no	-	-	-	-	-	-	-	human	COPD senescence review (duplicate topic)
+30255594	yes	P	explicit	molecular	-	-	-	-	mouse-rat	slight increasing trend of Kras mutant fraction over lifespan (4-85 weeks)
+22129514	no	-	-	-	-	-	-	-	mouse-rat	legacy effect of angiotensin in youth
+23169485	yes	NC	explicit	physiological-functional	population	inferred	chronological age	-	human	immunoparesis prevalence varies non-linearly with age, lowest in youngest and oldest
+25063937	no	-	-	-	-	-	-	-	human	religiosity and depression
+28725932	no	-	-	-	-	-	-	-	human	forensic methylation age
+21480375	yes	NC	explicit	physiological-functional	individual	inferred	proximity to death	-	human	[authors: "terminal decline"] cognitive decline and its acceleration detectable before death (quadratic time-to-death models, oldest old)
+27821595	no	-	-	-	-	-	-	-	human	cannabis and vascular age
+23343541	no	-	-	-	-	-	-	-	human	arterial aging in ESRD
+20675607	no	-	-	-	-	-	-	-	other	sow stayability
+22683008	yes	P	implicit	tissue-organ	-	-	-	-	human	complexity of BOLD signals reduced with aging (young vs old)
+20440547	no	-	-	-	-	-	-	-	human	social integration and disability
+24807824	no	-	-	-	-	-	-	-	mouse-rat	developing rats, anticonvulsant
+25110075	no	-	-	-	-	-	-	-	mouse-rat	neuropeptide Y in early ontogeny
+27587280	yes	P	implicit	molecular	-	-	-	-	human	gradual changes in DNA methylation throughout aging; age-related decline of TET1
+27702440	no	-	-	-	-	-	-	-	human	insomnia and epigenetic age acceleration
+39347718	no	-	-	-	-	-	-	-	human	beliefs about life satisfaction trajectories
+30955036	no	-	-	-	-	-	-	-	human	education and cognition mediators
+33555436	no	-	-	-	-	-	-	-	human	COVID-19 outcomes by age class
+40701371	no	-	-	-	-	-	-	-	human	machine learning for longevity prediction
+32151149	no	-	-	-	-	-	-	-	human	change points in fMRI time series dynamics
+39702854	no	-	-	-	-	-	-	-	Drosophila	AGE-fed flies lifespan
+39331812	no	-	-	-	-	-	-	-	human	affect during pandemic
+40261284	no	-	-	-	-	-	-	-	human	ROCF norms by age group
+39004533	no	-	-	-	-	-	-	-	human	EEG entropy in aging and dementia
+32856316	no	-	-	-	-	-	-	-	human	diazepam kinetics young vs elderly
+34053387	no	-	-	-	-	-	-	-	human	[authors: "developmental discontinuities"] young vs older binding memory, group comparison
+39639169	yes	D	explicit	cellular	population	inferred	chronological age	not stated	human	[authors: "waves of hematopoiesis", "transcriptional age states"] distinct HSC states across gestation, maturation and aging, incl. a fetal-specific state
+41045866	yes	P	explicit	physiological-functional	-	-	-	-	human	[authors: "rose stepwise"] intrinsic capacity deficits increase monotonically with age (OR 1.05 per year)
+32438247	no	-	-	-	-	-	-	-	human	klotho methylation and PTSD
+41318813	no	-	-	-	-	-	-	-	human	PhenoAge acceleration and cancer mortality
+40082090	yes	D	implicit	cellular	individual	inferred	physiological state	not stated	other	[authors: "stable fixed points", "aging trajectories"] gene-circuit feedback; destabilisation of homeostatic loops accelerates aging (yeast SIR2-HAP circuit)
+33423524	yes	P	implicit	molecular	-	-	-	-	human	serum Klotho decreases with physiological aging
+38804500	yes	NC	implicit	tissue-organ	population	inferred	chronological age	-	mouse-rat	myelin content reduced particularly at 18 months (2, 6, 18 months)
+41372913	no	-	-	-	-	-	-	-	mouse-rat	D-galactose accelerated aging model
+31362310	no	-	-	-	-	-	-	-	human	education polygenic score and frailty
+40307654	no	-	-	-	-	-	-	-	human	BMI trajectories and PhenoAge
+41297282	no	-	-	-	-	-	-	-	human	aging anxiety and epigenetic clocks
+39855016	no	-	-	-	-	-	-	-	human	epigenetic age in ADHD children
+40692215	yes	P	explicit	physiological-functional	-	-	-	-	human	EEG fractal dimension increases with age 50-88 (direction frequency-dependent)
+33026140	no	-	-	-	-	-	-	-	human	microsimulation of elderly health
+40119954	no	-	-	-	-	-	-	-	human	lipids and cognition, nonlinear dose relation
+40804679	no	-	-	-	-	-	-	-	human	social ties and diet
+34606593	no	-	-	-	-	-	-	-	human	metabolic dysregulation and cognitive aging
+32539085	no	-	-	-	-	-	-	-	human	progeria mechanism review
+38892569	no	-	-	-	-	-	-	-	human	diet and PhenoAge acceleration
+40810394	yes	P	implicit	tissue-organ	-	-	-	-	human	sarcopenia as age-related loss of muscle mass (organoid model)
+41088627	no	-	-	-	-	-	-	-	human	U-shaped HDL vs epigenetic age acceleration
+39505152	no	-	-	-	-	-	-	-	human	transplant tolerance
+40302773	no	-	-	-	-	-	-	-	human	cadmium and epigenetic age acceleration
+33319704	no	-	-	-	-	-	-	-	human	regional hearing loss trends
+39105295	no	-	-	-	-	-	-	-	human	stress and depressive affect by age
+33248257	yes	NC	explicit	tissue-organ	population	inferred	chronological age	-	human	methods: lifespan brain trajectories are highly nonlinear; GAMMs to combine longitudinal and cross-sectional data
+41258196	no	-	-	-	-	-	-	-	human	senescence gene signature in cancer
+39441032	no	-	-	-	-	-	-	-	human	glucose and telomere attrition
+40038418	no	-	-	-	-	-	-	-	multiple	aging and cancer review
+31952302	no	-	-	-	-	-	-	-	human	caregiving grandparents' psychological health
+41315231	no	-	-	-	-	-	-	-	human	brain age in PTSD
+41401565	no	-	-	-	-	-	-	-	human	social isolation and PhenoAge
+39856735	yes	P	implicit	physiological-functional	-	-	-	-	human	ageing results in diminished adaptability and declines in function
+34798081	no	-	-	-	-	-	-	-	human	hormesis and brain health
+41373554	no	-	-	-	-	-	-	-	other	botanical anti-senescence complex
+32965797	no	-	-	-	-	-	-	-	human	water deprivation and pressor reflex
+37733220	no	-	-	-	-	-	-	-	human	brain age prediction
+37843536	no	-	-	-	-	-	-	-	human	prosocial activity and processing speed
+38096586	no	-	-	-	-	-	-	-	human	aging views and life satisfaction
+34777691	yes	P	implicit	tissue-organ	-	-	-	-	mouse-rat	age-associated, irreversible decline in retina function
+40602330	no	-	-	-	-	-	-	-	human	motoric cognitive risk and epigenetic clocks
+39325937	no	-	-	-	-	-	-	-	human	frailty and myotonic dystrophy review
+40570516	no	-	-	-	-	-	-	-	human	iron intake and PhenoAge, U-shaped dose relation
+38432843	no	-	-	-	-	-	-	-	human	postural sway nonlinear measures
+38288940	no	-	-	-	-	-	-	-	human	trauma and cognitive aging
+40448028	no	-	-	-	-	-	-	-	human	saliva age prediction
+34332220	yes	NC	explicit	tissue-organ	population	inferred	chronological age	-	human	nonlinear white-matter microstructure declines across 65-98 y, not explained by early impairment
+38853301	no	-	-	-	-	-	-	-	human	insulin resistance, biological age and mortality
+40326415	no	-	-	-	-	-	-	-	Drosophila	selection for early reproduction and metabolome
+41021555	no	-	-	-	-	-	-	-	human	visceral adiposity and biological age
+40164562	no	-	-	-	-	-	-	-	human	timescale choice in cognitive aging models
+36840515	no	-	-	-	-	-	-	-	human	trait vs state depression variance
+41184483	yes	NC	explicit	cellular	population	inferred	physiological state	-	mouse-rat	[authors: "threshold model", "nonlinear, vulnerability-triggering cohesion limit"] gradual cohesin loss produces a sharp rise in aneuploidy below a critical threshold
+35388223	yes	NC	explicit	tissue-organ	population	inferred	chronological age	-	human	brain charts: nonlinear lifespan trajectories of brain structure with developmental milestones (101,457 people)
+38347745	no	-	-	-	-	-	-	-	human	sleep and epigenetic age
+29660064	no	-	-	-	-	-	-	-	human	health and housework
+36124764	no	-	-	-	-	-	-	-	human	circadian rhythm and biological age
+33882817	no	-	-	-	-	-	-	-	other	inverted transcriptome coordination young vs old
+35052422	no	-	-	-	-	-	-	-	human	BRCA2 and telomeres
+37759266	yes	NC	explicit	physiological-functional	population	inferred	chronological age	-	human	[authors: "biphasic effect of age"] CPAP adherence rises until 75-80 then declines (26,343 patients)
+32273888	yes	P	implicit	cellular	-	-	-	-	mouse-rat	aging as cumulative effects of inflammation and oxidative stress
+40861447	no	-	-	-	-	-	-	-	human	metabolic syndrome, PhenoAge and psoriasis
+41162704	yes	NC	explicit	cellular	population	inferred	chronological age	-	human	robust non-linear transcriptional reprogramming of T cells with age (25-90 y, single-cell)
+33480611	no	-	-	-	-	-	-	-	human	MCI prevalence at three waves
+37113487	no	-	-	-	-	-	-	-	human	weight range and telomeres
+40022176	no	-	-	-	-	-	-	-	human	TyG index and biological age
+40442604	no	-	-	-	-	-	-	-	human	sleep and successful aging
+35137412	no	-	-	-	-	-	-	-	human	early adversity and epigenetic aging in youth
+32783580	no	-	-	-	-	-	-	-	human	smoking and cognition
+38647449	no	-	-	-	-	-	-	-	human	perceived onset of old age
+39505152	no	-	-	-	-	-	-	-	human	transplant tolerance (duplicate record)
+35030073	no	-	-	-	-	-	-	-	human	self-acceptance and generativity
+40973441	yes	NC	explicit	physiological-functional	individual	inferred	chronological age	-	human	J-shaped life satisfaction over the life course (longitudinal growth curves, rural China)
+39796538	no	-	-	-	-	-	-	-	human	depression and DunedinPACE
+41208173	no	-	-	-	-	-	-	-	human	climate disasters and DNAm age
+40465046	no	-	-	-	-	-	-	-	human	lifestyle and biological age acceleration
+33785642	no	-	-	-	-	-	-	-	human	sleep spindle maturation 6-18 y
+40856643	no	-	-	-	-	-	-	-	human	sleep duration vs biological age, U-shaped dose relation
+33800818	no	-	-	-	-	-	-	-	mouse-rat	D-galactose red cell model
+39315755	no	-	-	-	-	-	-	-	human	severe obesity and biological age
+33135952	no	-	-	-	-	-	-	-	mouse-rat	Per2luc retinal degeneration
+32634245	no	-	-	-	-	-	-	-	human	pulse wave velocity with tilt
+35472831	no	-	-	-	-	-	-	-	human	brain age gap and telomeres
+38182079	no	-	-	-	-	-	-	-	multiple	hormesis biphasic dose response and lifespan
+38030089	no	-	-	-	-	-	-	-	none	mitochondria and stress-accelerated aging review
+39197809	no	-	-	-	-	-	-	-	human	aging-cancer cycle review
+39922128	yes	NC	explicit	tissue-organ	population	inferred	chronological age	-	mouse-rat	[authors: "nonlinear ageing gero-marker dynamics"] valve calcification jumps at 48 and 72 weeks; gene expression rises nonlinearly with age
+41595467	yes	NC	explicit	cellular	population	inferred	chronological age	-	mouse-rat	[authors: "biphasic nonlinear trajectory"] oocyte transcriptome: largest destabilisation young to middle age, late proteostatic decline
+39095992	no	-	-	-	-	-	-	-	mouse-rat	progeria mouse osteoarthritis gene therapy

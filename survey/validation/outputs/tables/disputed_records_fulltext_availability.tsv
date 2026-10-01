@@ -1,0 +1,42 @@
+review_id	Opus 5.5	Perplexity	Gemini Flash 3.6	majority	Opus 5.5 in minority	Perplexity in minority	Gemini Flash 3.6 in minority	arm	pmid	pmcid
+A020	D	NC	NC	NC	True	False	False	A	1484951	
+A050	U	DEV	NC	none (3-way split)	False	False	False	A	8084545	
+A083	U	NC	P	none (3-way split)	False	False	False	A	8744972	
+A095	U	NC	P	none (3-way split)	False	False	False	A	9222748	
+A113	D	D	D	D	False	False	False	A	12928831	
+A118	D	NC	P	none (3-way split)	False	False	False	A	15545701	
+A151	D	D	D	D	False	False	False	A	19520539	
+A161	D	D	U	D	False	False	True	A	19318942	
+A168	U	D	P	none (3-way split)	False	False	False	A	15739187	
+A185	D	U	U	U	True	False	False	A	18555778	
+A216	U	D	U	U	False	True	False	A	23773060	PMC3694739
+A254	U	NC	P	none (3-way split)	False	False	False	A	26923400	PMC4773992
+A267	D	U	U	U	True	False	False	A	28185406	PMC5418201
+A271	NC	P	U	none (3-way split)	False	False	False	A	25175807	PMC5832349
+A303	D	D	U	D	False	False	True	A	40970514	PMC12610945
+A309	D	U	P	none (3-way split)	False	False	False	A	35560232	PMC9542241
+A331	U	NC	P	none (3-way split)	False	False	False	A	41215620	PMC12686546
+A345	U	D	U	U	False	True	False	A	37995077	
+B001	NC	not relevant	P	none (3-way split)	False	False	False	B	9838178	
+B012	NC	D	D	D	True	False	False	B	8893683	
+B031	not relevant	D	D	D	True	False	False	B	7975329	
+B032	D	not relevant	D	D	False	True	False	B	8094925	
+B041	D	not relevant	D	D	False	True	False	B	10196087	
+B047	D	not relevant	not relevant	not relevant	True	False	False	B	9467417	
+B056	P	D	NC	none (3-way split)	False	False	False	B	9520014	
+B071	NC	not relevant	D	none (3-way split)	False	False	False	B	1860075	
+B077	P	not relevant	NC	none (3-way split)	False	False	False	B	7968424	
+B125	D	D	NC	D	False	False	True	B	16029094	
+B131	D	not relevant	not relevant	not relevant	True	False	False	B	19475566	
+B136	D	not relevant	not relevant	not relevant	True	False	False	B	15249151	
+B142	P	not relevant	NC	none (3-way split)	False	False	False	B	16096833	
+B228	D	D	D	D	False	False	False	B	22610697	PMC3636400
+B245	not relevant	NC	P	none (3-way split)	False	False	False	B	22709403	
+B280	D	D	D	D	False	False	False	B	31713126	PMC6917959
+B285	P	not relevant	NC	none (3-way split)	False	False	False	B	30255594	
+B304	not relevant	not relevant	D	not relevant	False	False	True	B	32151149	
+B311	D	not relevant	D	D	False	True	False	B	39639169	PMC11908799
+B315	D	not relevant	not relevant	not relevant	True	False	False	B	40082090	PMC12435779
+B343	P	not relevant	NC	none (3-way split)	False	False	False	B	39856735	PMC11761183
+B363	NC	not relevant	D	none (3-way split)	False	False	False	B	41184483	PMC12618256
+B397	NC	not relevant	D	none (3-way split)	False	False	False	B	41595467	PMC12841155

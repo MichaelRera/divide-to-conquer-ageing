@@ -1,0 +1,23 @@
+subset	comparison	n	percent_agreement	cohen_kappa	kappa_ci_low	kappa_ci_high	interpretation
+planned 10% subset	T, both arms (Arm B not-relevant as a category)	75	0.8933333333333333	0.8556998556998557	0.7591734620335787	0.943401899557022	almost perfect
+planned 10% subset	T, Arm A	35	0.9142857142857143	0.8659003831417624	0.698238519972687	1.0	almost perfect
+planned 10% subset	Arm B relevance screen	40	0.925	0.8076923076923078	0.5652173913043477	1.0	almost perfect
+planned 10% subset	T, Arm B relevant by both	9	0.7777777777777778	0.55			moderate
+planned 10% subset	T collapsed D vs not-D, both arms	75	1.0				
+planned 10% subset	scale, NC/D records with same T	5	1.0	1.0			almost perfect
+planned 10% subset	observation, NC/D records with same T	5	1.0				
+planned 10% subset	anchor, NC/D records with same T	5	1.0	1.0			almost perfect
+planned 10% subset	level, NC/D records with same T	5	0.8	0.44444444444444453			moderate
+planned 10% subset	explicitness, P/NC/D records with same T	16	0.875	0.7377049180327869			substantial
+planned 10% subset	organism	75	0.88	0.8117154811715481	0.6995869116026316	0.9161852874134007	almost perfect
+all coded	T, both arms (Arm B not-relevant as a category)	747	0.7657295850066934	0.6753149984725089	0.6340761699048327	0.7136546498507059	substantial
+all coded	T, Arm A	350	0.7628571428571429	0.6387579740602112	0.5726461106402778	0.7044452122662805	substantial
+all coded	Arm B relevance screen	397	0.7858942065491183	0.33860567217420273	0.23603622175160555	0.445808246030011	fair
+all coded	T, Arm B relevant by both	34	0.7941176470588235	0.6292834890965732	0.3384459879085922	0.8576480674024614	substantial
+all coded	T collapsed D vs not-D, both arms	747	0.9759036144578314	0.4256300726185392	0.17084195033044736	0.6198473282442746	moderate
+all coded	scale, NC/D records with same T	29	0.9655172413793104	0.9307875894988068	0.768	1.0	almost perfect
+all coded	observation, NC/D records with same T	29	0.6896551724137931	0.1766561514195585	-0.12017167381974217	0.5245901639344261	slight
+all coded	anchor, NC/D records with same T	29	0.896551724137931	0.8027210884353743	0.5708131704643332	1.0	almost perfect
+all coded	level, NC/D records with same T	31	0.8709677419354839	0.8095238095238094	0.6333575217793352	0.9540791543756145	almost perfect
+all coded	explicitness, P/NC/D records with same T	118	0.7627118644067796	0.5367358384744811	0.3994497936726271	0.6818052795912574	moderate
+all coded	organism	747	0.9518072289156626	0.9102295335888156	0.8823542416132831	0.936622147371924	almost perfect
